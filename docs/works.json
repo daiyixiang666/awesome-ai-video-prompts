@@ -1,5 +1,1768 @@
 [
  {
+  "id": "x-2083389002552664385",
+  "title": "时停回溯的餐馆",
+  "title_en": "The Frozen Diner",
+  "desc": "1950年代美式餐馆里，侍者打翻托盘的瞬间时间冻结，飞溅的奶昔、煎蛋悬在空中，镜头穿行其间后整段倒带复原。",
+  "desc_en": "In a 1950s American diner, time freezes as a waitress drops her tray; the camera weaves through floating milkshake and eggs, then the scene rewinds.",
+  "creator": "TechHalla",
+  "handle": "@techhalla",
+  "platform": "X",
+  "url": "https://x.com/techhalla/status/2083389002552664385",
+  "model": "Seedance 2.5",
+  "prompt": "Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.\n\n0-4s: [Medium Wide] A striking young woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick milkshake through a straw. Behind her a young waitress in classic uniform approaches with a tray of eggs and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth.\n\n4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed.\n\n8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions.\n\n17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl’s face.\n\n24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her.\n\nPhotorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.",
+  "promptSource": "正文",
+  "likes": 2875,
+  "postedAt": "2026-08-01",
+  "orientation": "landscape",
+  "duration": 30.06,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2083389002552664385.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "历史年代"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "时间冻结倒放",
+    "一镜到底"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2083389002552664385.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2083389002552664385.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2083389002552664385.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "american"
+   ],
+   "genre": [
+    "historical"
+   ],
+   "mood": [
+    "lighthearted"
+   ],
+   "technique": [
+    "time-freeze-reverse",
+    "one-take"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
+  "id": "x-2109135117834989699",
+  "title": "整理榻榭米卧室",
+  "title_en": "Tidying a Tatami Room",
+  "desc": "早年 DV 视角里，日本女孩把凌乱的被褥抖开、叠好、卷起，扫地后拉开拉门，卧室焕然一新。",
+  "desc_en": "Early-DV footage: a Japanese girl shakes out, folds and rolls the futon, sweeps, and slides the door open on a fresh room.",
+  "creator": "𝗦𝗮𝗻𝗶𝗮",
+  "handle": "@saniaspeaks_",
+  "platform": "X",
+  "url": "https://x.com/saniaspeaks_/status/2109135117834989699",
+  "model": "Seedance 2.5",
+  "prompt": "Create a 30-second ultra-realistic early-2000s Japanese home vlog featuring the same young Japanese girl with consistent face, hairstyle, and outfit.\n\nScene 1: She enters her bedroom and finds messy futon bedding, twisted blankets, and scattered pillows.\n\nScene 2: She removes the pillows, folds the blanket neatly, then folds and rolls the futon mattress and puts it away.\n\nScene 3: She removes the old pillow covers, replaces them with clean ones, fluffs the pillows, and arranges them neatly.\n\nScene 4: She sweeps the entire bedroom floor, including corners, then wipes away the remaining dust with a cloth.\n\nScene 5: She straightens the room, opens the curtains, and admires her clean, peaceful bedroom with a satisfied smile. End with a clear wide shot revealing the finished room.\n\nKeep every scene in exact order. Show each action completely with no skipped steps, sudden transitions, or magically moving objects. Maintain consistent props and room layout. Use authentic 2003 Japanese furniture and handheld MiniDV footage with natural lighting, slight camera shake, autofocus shifts, and mild digital noise. Realistic movements and a satisfying final reveal.",
+  "promptSource": "作者评论",
+  "likes": 2284,
+  "postedAt": "2026-10-11",
+  "orientation": "landscape",
+  "duration": 30.05,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2109135117834989699.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持",
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2109135117834989699.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2109135117834989699.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2109135117834989699.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld",
+    "film-retro"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "daily-life"
+   ],
+   "mood": [
+    "heartwarming"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2105502091817206152",
+  "title": "花园别墅里的时装屋",
+  "title_en": "Casa Fiora",
+  "desc": "虚构品牌 Casa Fiora 的时装短片：意大利别墅中模特穿着花卉连衣裙走楼梯、倚沙发、穿过门廊，旋转楼梯收尾。",
+  "desc_en": "A fashion film for a fictional label: floral dresses on the stairs, sofas and porches of an Italian villa, closing on a spiral staircase.",
+  "creator": "Maria",
+  "handle": "@thisismariaa25",
+  "platform": "X",
+  "url": "https://x.com/thisismariaa25/status/2105502091817206152",
+  "model": "Seedance 2.5",
+  "likes": 2186,
+  "postedAt": "2026-10-01",
+  "orientation": "landscape",
+  "duration": 29.95,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2105502091817206152.mp4",
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "广告TVC"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2105502091817206152.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2105502091817206152.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2105502091817206152.jpg",
+  "tags_en": {
+   "style": [
+    "commercial"
+   ],
+   "region": [
+    "european"
+   ],
+   "genre": [
+    "fashion-beauty"
+   ],
+   "mood": [
+    "romantic"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "tvc"
+   ]
+  }
+ },
+ {
+  "id": "x-2071191480215969845",
+  "title": "东京旅行 Vlog",
+  "title_en": "Tokyo Travel Vlog",
+  "desc": "韩系女孩用自拍视角游东京：东京塔、公园长椅、夜里自动贩卖机、高达像、夜景、奈良小鹿，快节奏音乐剪辑。",
+  "desc_en": "A selfie-style Tokyo trip: Tokyo Tower, park benches, night vending machines, the Gundam statue and Nara's deer, cut to the beat.",
+  "creator": "TSUBAKI",
+  "handle": "@AI__TSUBAKI",
+  "platform": "X",
+  "url": "https://x.com/AI__TSUBAKI/status/2071191480215969845",
+  "model": "Seedance 2.0",
+  "prompt": "TOKYO TRAVEL VLOG — 15 SEC MUSIC CUT\n\nSubject: Same girl as the reference images. Young Korean idol-like woman in her early 20s. Long straight black hair with soft natural volume, fair porcelain skin, large bright expressive eyes, delicate V-line face, small nose, natural glossy lips, fresh minimal makeup, effortlessly cute and approachable expression. Casual Japanese streetwear (white hoodie / dark oversized hoodie / oversized jacket). 26mm phone lens, deep focus, realistic skin texture, mild HDR, neutral iPhone color science, unedited candid, no cinematic grading, no studio lighting, no light trails, no motion blur effects.\n\n(0:00–0:01) — walking shot, Tokyo Tower reveal Selfie, low angle. Tower behind her, sky overexposed. Natural smile. Neutral daylight, deep focus. Dialogue: \"드디어 도쿄에 왔어요...!\" Transition: Hard cut / beat drop\n\n(0:01–0:02) — Shibuya Crossing Mid-stride into crowd. Turns head toward camera. Neon signs sharp behind her. Real night exposure. Transition: Fast cut on beat\n\n(0:02–0:03) — Convenience Store Holds onigiri up to camera, eyebrows raised. Harsh fluorescent interior. Cool white light, realistic skin. Transition: Snap cut on beat\n\n(0:03–0:04) — Yoyogi Park Seated, looking away. Dappled light, lens smudge visible. Music drops one beat — wind, birds — snaps back. Transition: Cut on natural movement\n\n(0:04–0:06) — Takoyaki Reaction Bites, eyes wide, pulls back laughing. Warm practical lantern light. Realistic skin in amber. Dialogue: \"뜨거워! 진짜 맛있어!\" Transition: Cut on laugh end\n\n(0:06–0:07) — Vending Machine Night Stands before glowing vending machine. Mixed LED light on face. Slight smirk. No glow fx. Transition: Single beat cut\n\n(0:07–0:08) — Train Window Face reflected in window. City blurred naturally outside. She looks out, not at camera. Transition: Snap cut\n\n(0:08–0:09) — Torii Gate Low angle. Walks toward and through shrine gate. Gate fills top of frame. Natural daylight. Transition: Snap cut\n\n(0:09–0:11) — Digital Light Exhibit ★ SIGNATURE Looks up slowly. Blue, violet, gold projection on face. Rack focus — face sharp, lights diffused. Just projection on skin, no bloom. Speed: ~60% slow motion Transition: Soft cut mid-upward motion\n\n(0:11–0:12) — Gundam Reveal Face → camera tilts up → full statue in frame. Small impressed smile. Wide angle, natural daylight. Transition: Sharp cut after smile\n\n(0:12–0:13) — Lantern Alley Follow from behind. Lanterns warm, shadows dark. Natural low light. She glances back once. Transition: Cut on forward movement\n\n(0:13–0:14) — Rooftop Skyline Close selfie → arm extends → skyline revealed. Wind moves hair. Natural night phone exposure. Dialogue: \"이런 야경은 처음 보는 것 같아요.\" Transition: Hard cut on last word\n\n(0:14–0:15) — Nara Deer Park, She crouches, holds out a deer cracker. Deer bows toward her — she bursts out laughing. Another nudges her from behind, she nearly topples. Handheld, slightly off-balance. All real. Dialogue: \"잠깐! 진짜 절했어!\" Transition: Fade to black",
+  "promptSource": "正文",
+  "likes": 1043,
+  "postedAt": "2026-06-28",
+  "orientation": "landscape",
+  "duration": 15.07,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2071191480215969845.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "旅行城市"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "第一人称",
+    "卡点节奏"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2071191480215969845.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2071191480215969845.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2071191480215969845.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "travel-city"
+   ],
+   "mood": [
+    "lighthearted"
+   ],
+   "technique": [
+    "pov",
+    "beat-sync"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2086806078105551218",
+  "title": "首尔巷口的午前",
+  "title_en": "Late Morning in a Seoul Alley",
+  "desc": "韩国女孩在老旧住宅区的普通上午：拢头发、逗猫、晾衣服、在屋顶喝咖啡、走回小巷，朋友随手跟拍。",
+  "desc_en": "An ordinary morning in an old Seoul neighbourhood: hair, a cat, laundry, rooftop coffee — filmed casually by a friend.",
+  "creator": "Saul Goodman",
+  "handle": "@Goodmanprotocol",
+  "platform": "X",
+  "url": "https://x.com/Goodmanprotocol/status/2086806078105551218",
+  "model": "Seedance 2.5",
+  "prompt": "Create a 30-second ultra-realistic candid home-video sequence of a young Korean woman in her early 20s living an ordinary late morning in a quiet Korean residential neighborhood.\n\nSUBJECT:\nYoung Korean woman, natural everyday appearance, realistic skin texture, minimal makeup, black wavy hair in a messy side ponytail with wispy bangs. Faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, simple black cord necklace. Warm, relaxed personality. Keep her face, body, hairstyle, clothing, and appearance perfectly consistent throughout.\n\nSETTING:\nAuthentic Korean residential neighborhood — narrow concrete alleys, low-rise homes, small terraces, potted plants, laundry lines, bicycles, utility poles, overhead wires and mature trees. Quiet, lived-in atmosphere. No shops, advertisements, crowds, cafés, or commercial activity.\n\nVISUAL STYLE:\nUltra-realistic documentary home-video footage from an early-2000s consumer DV camcorder. Imperfect handheld operation, natural camera shake, awkward framing, occasional reframing, autofocus hunting, slight lens breathing, exposure pumping between sunlight and shade, subtle motion blur, mild rolling shutter, faded colors, soft contrast, slight digital compression and sensor noise. No stabilization, no cinematic camera moves, no modern color grading. Everything must feel genuinely captured, not AI-generated.\n\nTIMELINE:\n00:00–00:05 — Outside her small house, she sits on a low concrete wall adjusting her messy ponytail. Wind moves loose strands of hair. She casually smiles while the camera struggles to lock focus.\n\n00:05–00:10 — She walks into a narrow residential alley. A stray cat approaches. She crouches naturally, pets it and gently feeds it. Autofocus shifts imperfectly between her face and the cat.\n\n00:10–00:15 — In a small front yard, she hangs laundry on a clothesline. Fabric moves naturally in the breeze while sunlight and cloud shadows subtly change the exposure.\n\n00:15–00:20 — She sits on a quiet terrace with a simple ceramic coffee cup, casually watching the neighborhood and brushing loose hair behind her ear. Handheld side angle with natural camera drift.\n\n00:20–00:25 — Close side profile. Someone off-camera casually greets her. She turns, smiles warmly, raises her hand and naturally says, “Annyeong.” The camera reacts slightly late.\n\n00:25–00:30 — She walks slowly down a tree-lined residential lane holding her coffee. She notices the camera, gives a small genuine smile, then looks away and continues walking. The recording abruptly cuts to black mid-motion like an old camcorder being switched off.\n\nAUDIO:\nOnly authentic location sound: birds, distant motorcycles, light wind, rustling leaves, faint neighborhood chatter, cat sounds, footsteps on concrete, laundry moving on the clothesline and subtle residential ambience. Natural Korean speech only. No music, narration, cinematic sound effects, or artificial sound design.\n\nGOAL:\nMake it feel like a forgotten personal home video from the early 2000s — intimate, spontaneous, imperfect, warm, mundane and deeply believable. Prioritize realistic human motion, natural facial expressions, physical interaction, environmental detail and consistent identity over cinematic beauty.",
+  "promptSource": "正文",
+  "likes": 1004,
+  "postedAt": "2026-08-10",
+  "orientation": "landscape",
+  "duration": 30.08,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2086806078105551218.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持"
+   ],
+   "地域氛围": [
+    "韩系"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2086806078105551218.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2086806078105551218.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2086806078105551218.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld"
+   ],
+   "region": [
+    "korean"
+   ],
+   "genre": [
+    "daily-life"
+   ],
+   "mood": [
+    "heartwarming"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2105146792681832481",
+  "title": "2000年代的生日",
+  "title_en": "A 2000s Birthday",
+  "desc": "早年 DV 拍下的韩国女生生日：闺蜜拥抱、面包店买蛋糕、吹蜡烛、分蛋糕、傍晚街头散步。",
+  "desc_en": "Early-DV footage of a Korean girl's birthday: hugs from friends, a bakery cake, blowing out candles, an evening walk.",
+  "creator": "𝗦𝗮𝗻𝗶𝗮",
+  "handle": "@saniaspeaks_",
+  "platform": "X",
+  "url": "https://x.com/saniaspeaks_/status/2105146792681832481",
+  "model": "Seedance 2.5",
+  "prompt": "Create a 30-second ultra-realistic Korean birthday vlog set in South Korea in the early 2000s, filmed casually by a friend on an authentic consumer DV camcorder. It must feel like genuine home-video footage, not a modern video with a retro filter.\n\nEXACT ORDER — 7 SCENES:\n\n0–4s — GETTING READY: The same young Korean birthday girl gets ready in her early-2000s bedroom, fixes her hair, adjusts makeup, picks up her handbag and smiles toward the camera.\n\n4–8s — MEETING FRIENDS: She walks through an authentic Korean neighborhood, meets the same 2–3 friends, they congratulate her and walk together toward a bakery.\n\n8–11s — BAKERY: They enter a small early-2000s Korean bakery, browse cakes and choose one birthday cake.\n\n11–14s — BUYING CAKE: A friend pays with cash. The worker puts the cake into a box and hands it over. The same cake box remains visible as they walk to the café.\n\n14–23s — CAFÉ CELEBRATION: They sit in a cozy early-2000s café. The cake is opened, a candle is lit, everyone sings Happy Birthday, the girl makes a wish and blows it out. They clap and laugh. She then cuts the cake, places pieces on plates, personally gives a piece to each friend, watches them eat, then takes a piece herself. Keep the entire sequence clearly visible and in order.\n\n23–26s — PHOTOS: After eating, they take group photos using a small early-2000s disposable film camera. No smartphones or modern digital cameras. They pose, the shutter clicks and they laugh afterward.\n\n26–30s — EVENING WALK: They leave the café and walk through the same neighborhood as it becomes evening. The girl carries her handbag, a friend carries the empty cake box/bag, and they chat and laugh while the camera follows from behind.\n\nCONTINUITY: Same girl, friends, outfits, hairstyles, handbag and cake throughout. No teleporting, identity drift, outfit changes, disappearing props or reordered actions.\n\nERA: Everything must look authentically early 2000s Korean—fashion, hair, bakery, café, cars, signs, furniture, cake packaging and technology. No smartphones, AirPods, modern cars, LED screens or contemporary interiors.\n\nCAMERA: Raw consumer DV footage with subtle handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild CCD/DV noise, motion blur, compression and occasional awkward zooms. Natural candid behavior, realistic skin and movement. No cinematic stabilization, 4K sharpness, beauty filters, VHS effects or professional filmmaking.\n\nFINAL FEEL: A genuine Korean birthday memory from the early 2000s, with every scene and action clearly shown in the exact requested order.",
+  "promptSource": "正文",
+  "likes": 918,
+  "postedAt": "2026-09-30",
+  "orientation": "landscape",
+  "duration": 30.08,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2105146792681832481.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持",
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "韩系"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2105146792681832481.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2105146792681832481.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2105146792681832481.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld",
+    "film-retro"
+   ],
+   "region": [
+    "korean"
+   ],
+   "genre": [
+    "daily-life"
+   ],
+   "mood": [
+    "heartwarming"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2104776214066188611",
+  "title": "一次小小的兜风",
+  "title_en": "A Little Drive",
+  "desc": "DV 记录的情侣午后兜风：上车、便利店买饮料、河堤边停车，男生替女生擦嘴角后轻吻。",
+  "desc_en": "A couple's afternoon drive on DV: convenience-store drinks, parking by the river, he wipes her lip and kisses her.",
+  "creator": "Smiling Khan",
+  "handle": "@AIwithkhan",
+  "platform": "X",
+  "url": "https://x.com/AIwithkhan/status/2104776214066188611",
+  "model": "Seedance 2.5",
+  "prompt": "Create a 30-second, 1080p ultra-realistic early-2000s consumer DV camcorder home video of a young Korean couple going for a casual afternoon drive through Seoul. The footage should feel like a genuine memory recorded by a friend, imperfect and spontaneous rather than a polished commercial.\n\n=== CHARACTERS ===\n\nGIRL: Young adult Korean woman in her early 20s, naturally beautiful, realistic skin, minimal makeup, long slightly wavy dark hair tied loosely with a few strands framing her face. Ll\n\nBOYFRIEND: Young adult Korean man in his early 20s, natural hairstyle, realistic skin, relaxed expression, wearing a loose white T-shirt, dark jeans and white sneakers. Keep his appearance consistent.\n\n=== STORY ===\n\nShe waits outside her apartment building with a small shoulder bag, checking her phone and looking down the street. Her boyfriend arrives in an older compact car and smiles when he sees her. She opens the passenger door, gets inside and playfully looks toward the camera as if embarrassed about being filmed.\n\nThey drive slowly through an older Seoul neighborhood. She sits in the passenger seat with the window slightly open, enjoying the breeze while her hair moves naturally. Her boyfriend occasionally glances at her and smiles while keeping his attention on the road.\n\nThey stop at a small neighborhood convenience store. She gets out, buys two cold drinks and returns to the car. She hands one to her boyfriend, keeps the other for herself, and they laugh together before continuing the drive.\n\nLater, they park near a quiet riverside road. They get out and walk beside the parked car, talking casually. She takes a sip of her drink, makes a playful expression at the taste, and he laughs. She lightly pushes his shoulder and they continue walking together.\n\nA gentle breeze moves through her hair. He notices a strand across her face and gently moves it aside. She smiles and looks at him for a moment. They stand close together beside the car, sharing a quiet romantic moment.\n\nNear the end, she looks toward the camera and laughs shyly, then turns back toward her boyfriend. He steps closer, she smiles, and they share a brief, natural kiss. They pull back, laugh softly and remain standing close together as the camera keeps recording.\n\nThe boyfriend looks toward the camera and jokingly shakes his head while she hides her face against his shoulder, laughing.\n\n=== CAMERA / DV FEEL ===\n\nRaw early-2000s consumer DV camcorder footage. Handheld camera operated by a friend sitting in the back seat and later walking with them. Imperfect framing, subtle handheld shake, autofocus hunting, occasional exposure shifts, faded summer colors, soft digital detail, mild sensor noise, natural motion blur and occasional accidental zooms. No stabilization and no polished cinematic movement.\n\n=== AUDIO ===\n\nBuilt-in camcorder microphone only. Car engine, road noise, turn signals, window breeze, distant Seoul traffic, convenience-store door chime, refrigerator hum, footsteps, birds, neighborhood voices, fabric movement and natural laughter. Their dialogue should feel casual and partially imperfect like a real home video. No music, no narration, no subtitles.\n\n=== REALISM / CONTINUITY ===\n\nKeep the same couple, faces, hairstyles, outfits, accessories and car throughout. Natural Korean facial features, realistic hands and fingers, believable walking, sitting, driving and kissing. Hair and clothing react naturally to the breeze and movement. Genuine expressions rather than exaggerated acting.\n\n=== NEGATIVE ===\n\nNo cinematic commercial look, no gimbal shots, no drone shots, no dramatic lighting, no beauty filters, no plastic skin, no CGI appearance, no anime, no cartoon",
+  "promptSource": "正文",
+  "likes": 611,
+  "postedAt": "2026-09-29",
+  "orientation": "landscape",
+  "duration": 30.05,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2104776214066188611.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持",
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "韩系"
+   ],
+   "题材": [
+    "爱情青春"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2104776214066188611.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2104776214066188611.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2104776214066188611.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld",
+    "film-retro"
+   ],
+   "region": [
+    "korean"
+   ],
+   "genre": [
+    "romance-youth"
+   ],
+   "mood": [
+    "romantic"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2092560049189351476",
+  "title": "商场里的日系 Vlog",
+  "title_en": "Japanese Mall Vlog",
+  "desc": "日本生活方式博主 AOI 逛商场：杂货店、首饰台、点心铺试吃，日落时在广场收尾，配英文字幕。",
+  "desc_en": "Lifestyle vlogger AOI browses a Japanese mall — homeware, jewellery, snack tastings — ending at sunset on the plaza.",
+  "creator": "Sharon Riley",
+  "handle": "@Just_sharon7",
+  "platform": "X",
+  "url": "https://x.com/Just_sharon7/status/2092560049189351476",
+  "model": "Seedance 2.5",
+  "prompt": "Generate a 30-second horizontal 16:9 ultra-realistic Japanese lifestyle influencer vlog based on the provided first frame and storyboard. ## Overall Concept A warm, realistic Japanese daily vlog following **AOI**, a young lifestyle influencer, during a relaxed afternoon-to-evening shopping trip. She walks through a modern Japanese shopping mall, explores stylish lifestyle and fashion stores, discovers cute everyday products, stops at a café-style food counter, talks naturally to the camera, and ends the vlog outside the mall as the evening lights begin to glow. The atmosphere should feel like an authentic Japanese influencer vlog rather than a commercial: intimate, candid, relaxed, observational, and naturally filmed. ## Main Character Lock Only one main female character: **AOI**. AOI is a young Japanese woman in her mid-20s with dark brown hair tied in a loose low ponytail, soft face-framing bangs, natural makeup, warm expressive eyes, small gold hoop earrings, and a delicate gold necklace. She wears a **light green loose linen overshirt with rolled-up sleeves, a white fitted tank top, beige high-waisted pants, and a cream canvas shoulder bag**. Keep her face, hairstyle, outfit, body proportions, bag, accessories, and personality perfectly consistent throughout the entire video. ## Branded Prop Continuity The phrase **“EASE MATE”** should appear naturally as a fictional lifestyle brand printed on selected products inside the mall and on objects AOI carries. Use tasteful, realistic product branding such as: * A reusable cream-colored **EASE MATE** water bottle * An **EASE MATE** travel tumbler * Small **EASE MATE** packaging on a lifestyle-store shelf * An **EASE MATE** canvas pouch or accessory * A small **EASE MATE** label on one product she briefly examines The branding should look physically printed or embossed onto the products, not like floating text. Keep spelling exactly **EASE MATE**. Do not place the logo everywhere. It should feel like a subtle recurring lifestyle brand. AOI eventually carries the **EASE MATE 📷Screenshot 2026-08-22 at 2.45.33 AM.png bottle** in her free hand during the later scenes while still wearing her cream canvas shoulder bag. ## Visual Style Ultra-realistic Japanese lifestyle vlog. Natural handheld camera, realistic skin texture, soft cinematic lighting, authentic Japanese shopping-mall interiors, warm ambient illumination, realistic reflections, shallow depth of field, subtle background activity, calm intimate daily-life mood. Avoid a glossy advertisement appearance. It should look like a real influencer filmed a casual shopping-day vlog with a high-quality camera. ## Camera Style Mix: * Third-person handheld walking shots * Selfie-style talking shots * Medium observational shots * Close-up product details * Over-the-shoulder shopping shots * Natural focus pulls Camera movement should feel like a real lifestyle influencer vlog: gentle handheld movement, subtle walking motion, natural reframing, realistic autofocus, smooth focus transitions, and motivated camera movement. No sudden impossible camera movements. --- ## Scene and Timing ### 0.0s – 2.5s **Exterior entrance of a modern Japanese shopping mall during late afternoon.** Third-person rear follow shot. AOI walks toward the mall entrance carrying her cream canvas shoulder bag. Warm afternoon sunlight reflects across the glass architecture. Other shoppers move naturally in the distant background. She casually carries a cream-colored reusable bottle with a subtle **EASE MATE** logo in her right hand. She glances briefly toward the camera. **AOI dialogue:** > “I finally made it. I think I’m going to do a little shopping today.” **English subtitle:** > “I finally made it. I think I’m going to do a little shopping today.” Keep subtitles clean and minimal at the bottom of the frame. --- ### 2.5s – 5.0s AOI enters the shopping mall. The camera follows from behind and slightly to the side as automatic glass doors open. Reveal a bright but cozy Japanese mall interior with polished floors, warm storefront lighting, plants, lifestyle shops, fashion boutiques, and small groups of shoppers. AOI looks around naturally. She raises her bottle slightly while walking. The **EASE MATE** branding remains clearly but naturally visible. --- ### 5.0s – 7.5s AOI enters a stylish Japanese lifestyle store. Medium side shot. She slowly browses shelves filled with ceramic mugs, bottles, candles, notebooks, small home accessories, and travel products. She notices an elegant cream-colored **EASE MATE** tumbler. She reaches toward it naturally with her right hand. **AOI dialogue:** > “Oh, this is actually really cute.” **English subtitle:** > “Oh, this is actually really cute.” Natural facial expression and understated smile. --- ### 7.5s – 9.5s Close-up product shot. AOI holds the **EASE MATE** tumbler in both hands. Show realistic stainless-steel or ceramic texture, subtle reflections, small printed **EASE MATE** branding, realistic fingers, and natural hand positioning. She rotates the tumbler slightly to inspect it. The background shelves fall into a soft cinematic blur. --- ### 9.5s – 12.0s Selfie-style close-up. AOI turns the camera toward herself while standing inside the lifestyle store. She holds the EASE MATE tumbler beside her face. She speaks naturally in Japanese. **AOI dialogue:** > “I came in just to look, but now I kind of want this.” **English subtitle:** > “I came in just to look, but now I kind of want this.” She gives a small amused smile. Natural blinking, subtle head movement, realistic mouth motion. --- ### 12.0s – 14.0s Cut to another section of the mall. AOI walks past a fashionable Japanese clothing store. She pauses beside a display table containing small accessories. She notices an **EASE MATE** canvas pouch. Close-up of her hand picking it up. She examines the stitched logo. The camera performs a gentle rack focus from AOI's fingers to the **EASE MATE** branding. --- ### 14.0s – 16.5s Medium shot. AOI walks toward a mall café and food area carrying: * Cream canvas shoulder bag * EASE MATE bottle * Small EASE MATE shopping item She looks toward the food counters. **AOI dialogue:** > “Okay, shopping makes me hungry.” **English subtitle:** > “Okay, shopping makes me hungry.” She gives the camera a playful but subtle smile. --- ### 16.5s – 19.0s Warm Japanese café-style food counter. A vendor prepares a freshly cooked round golden-brown street-style snack. Steam rises naturally from the cooking surface. Warm amber lighting illuminates the food. AOI waits beside the counter, watching with interest. The EASE MATE bottle remains naturally visible in her hand or placed beside her bag. No exaggerated food movements. --- ### 19.0s – 21.0s Close-up of AOI receiving the freshly cooked snack in a small paper wrapper. She carefully holds it with both hands. Steam rises naturally. The snack remains consistent in shape, color, texture, and size. AOI looks toward the camera with a quiet smile. **AOI dialogue:** > “This smells so good.” **English subtitle:** > “This smells so good.” --- ### 21.0s – 23.5s Selfie-style close-up. AOI takes a small bite of the snack. She pauses naturally and reacts with a soft happy expression. No exaggerated reaction. **AOI dialogue:** > “Mmm... that’s really good.” **English subtitle:** > “Mmm... that’s really good.” Natural chewing, realistic mouth movement, subtle eye expression. --- ### 23.5s – 26.0s Third-person medium walking shot. AOI walks through the mall toward the exterior exit. She carries the snack in one hand and the **EASE MATE bottle** in the other. Her cream canvas shoulder bag remains on her shoulder. Mall lights reflect softly across the polished floor. She passes storefronts and distant shoppers. The camera follows smoothly from behind and slightly to the side. --- ### 26.0s – 28.0s Exterior evening shot. AOI exits the shopping mall. The sky is transitioning from late afternoon to evening. Streetlights, storefronts, passing pedestrians, and mall signage create soft cinematic bokeh. AOI slows down and turns toward the camera. She holds up the EASE MATE bottle casually. **AOI dialogue:** > “Not a bad little shopping trip.” **English subtitle:** > “Not a bad little shopping trip.” --- ### 28.0s – 30.0s Final selfie-style close-up. AOI stands outside the mall under warm evening lights. She smiles naturally at the camera and gives a small gentle wave. Her **EASE MATE** bottle is visible near the lower edge of the frame. Warm Japanese city lights create soft background bokeh. **AOI dialogue:** > “See you next time.” **English subtitle:** > “See you next time.” Hold the final expression for a moment before ending naturally. --- ## Dialogue and Subtitle Rules All spoken dialogue should sound like **natural conversational Japanese**, with realistic Japanese pronunciation and believable mouth movement. The English subtitles should communicate the exact meaning of AOI's dialogue and remain short enough to read comfortably. Subtitles should be clean, small, unobtrusive, and positioned near the bottom center. No additional captions, titles, UI elements, or decorative text. The only visible product text should be naturally occurring **EASE MATE** branding on products and packaging. ## Continuity Rules Keep AOI as exactly the same person throughout the entire video. Keep the same: * Face * Hairstyle * Hair color * Outfit * Body proportions * Gold earrings * Gold necklace * Cream canvas shoulder bag * EASE MATE bottle Maintain logical object placement. Do not teleport objects between hands. Do not make objects disappear without a motivated action. The EASE MATE products must remain physically consistent. The snack must retain the same shape and appearance after AOI receives it. Supporting shoppers and staff may appear naturally in the background, but they must remain secondary. No additional main female character. ## Motion Quality Natural walking. Natural hand gestures. Correct finger and hand anatomy. Realistic object interaction. Believable Japanese speech and lip movement. Natural blinking. Subtle facial expressions. Smooth handheld camera motion. Realistic autofocus behavior. Soft cinematic focus pulls. Continuous motivated transitions. No jittery cuts. No sudden teleportation. No morphing. ## Negative Prompt No anime, no cartoon, no fantasy, no dancing, no action scene, no duplicate AOI, no face changing, no identity drift, no hairstyle changing, no outfit changing, no extra main woman, no warped hands, no extra fingers, no broken fingers, no floating objects, no object teleportation, no unstable products, no changing product designs, no changing EASE MATE spelling, no food morphing, no exaggerated lip-sync, no exaggerated acting, no subtitles other than the specified English dialogue subtitles, no random text, no watermark, no commercial over-polish, no artificial glossy skin, no plastic-looking face, no unnatural camera movement.",
+  "promptSource": "作者评论",
+  "likes": 591,
+  "postedAt": "2026-08-26",
+  "orientation": "landscape",
+  "duration": 30.07,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2092560049189351476.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "旅行城市",
+    "时尚美妆"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2092560049189351476.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2092560049189351476.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2092560049189351476.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "travel-city",
+    "fashion-beauty"
+   ],
+   "mood": [
+    "lighthearted"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2029019321364824452",
+  "title": "莓果磨砂膏的落定",
+  "title_en": "Berry Scrub Settles",
+  "desc": "红色渐变背景前，空罐盛满粉色盐粒，覆盆子、草莓、白花依次落下堆叠，最后贴标成品定格。",
+  "desc_en": "Against a red gradient, pink salt fills a jar, then raspberries, strawberries and blossoms drop in, ending on the labelled product.",
+  "creator": "K",
+  "handle": "@ChillaiKalan__",
+  "platform": "X",
+  "url": "https://x.com/ChillaiKalan__/status/2029019321364824452",
+  "model": "Veo 3.1",
+  "prompt": "Use the uploaded image as the exact visual reference for jar design, label, strawberries, raspberries, flowers, leaves, condensation droplets, red gradient background, and reflective surface.\n\nCamera:\nLocked front-facing camera.\nNo zoom.\nNo rotation.\nNo angle change.\nStudio composition remains centered.\n\nStyle:\nPremium beauty commercial.\nSmooth assembling sequence.\nUltra realistic.\nSlow motion but not dramatic.\n\nScene – Start (Empty Setup):\nStart with an empty red gradient background and glossy reflective surface.\nNo jar.\nNo fruits.\nNo flowers.\nNo water droplets.\n\nAssembling Sequence:\n\n1. The glass jar base smoothly slides into frame from below and settles perfectly centered.\n2. The lid gently lowers from above and aligns perfectly on the jar.\n3. Condensation droplets subtly appear on the glass surface as if forming naturally.\n4. Raspberries roll in softly from left and right, stopping naturally around the base.\n5. Strawberry halves slide into position at the front.\n6. Whole strawberries gently drop from above into the open jar top and settle naturally.\n7. Small white flowers softly fall into place between the strawberries.\n8. Green leaves slide in behind the jar to frame it.\n9. Final micro water droplets appear on fruits for freshness effect.\n\nAll movements smooth and controlled.\nNo bouncing.\nNo exaggerated motion.\nNo dramatic lighting changes.\n\nLighting:\nKeep original studio lighting.\nDeep red background glow remains consistent.\nSoft reflections on the glossy surface.\n\nSound (if supported):\nSoft subtle assembling sound design.\nGentle fruit placement sounds.\nLight glass contact sound.\nNo music or very subtle premium ambient tone.\n\nEnd Frame:\nFully assembled composition exactly matching the reference image.\nEverything perfectly arranged.\nHold for 1–2 seconds.\nUltra clean luxury skincare commercial finish.",
+  "promptSource": "正文",
+  "likes": 583,
+  "postedAt": "2026-03-04",
+  "orientation": "landscape",
+  "duration": 8.04,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2029019321364824452.mp4",
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "时尚美妆",
+    "产品"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "慢动作"
+   ],
+   "用途": [
+    "广告TVC"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2029019321364824452.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2029019321364824452.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2029019321364824452.jpg",
+  "tags_en": {
+   "style": [
+    "commercial"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "fashion-beauty",
+    "product"
+   ],
+   "mood": [
+    "lighthearted"
+   ],
+   "technique": [
+    "slow-motion"
+   ],
+   "use": [
+    "tvc"
+   ]
+  }
+ },
+ {
+  "id": "x-2098742251472261330",
+  "title": "农场的一个夏日午后",
+  "title_en": "A Summer Afternoon on the Farm",
+  "desc": "韩国女孩探访传统农场：喂鸡、给奶牛喂饲料、摘番茄、提着篮子笑着回头。",
+  "desc_en": "A Korean girl visits a traditional farm: feeding chickens and cows, picking tomatoes, glancing back with a basket and a smile.",
+  "creator": "𝗦𝗮𝗻𝗶𝗮",
+  "handle": "@saniaspeaks_",
+  "platform": "X",
+  "url": "https://x.com/saniaspeaks_/status/2098742251472261330",
+  "model": "Seedance 2.5",
+  "prompt": "Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer afternoon in the life of a young Korean woman visiting a small traditional farm and helping with the animals. No reference image.\n\nA naturally pretty beautiful Korean woman in her early 20s, realistic natural skin texture, minimal makeup, relaxed and cheerful personality. Long black hair tied in a loose low ponytail. She wears a loose white cotton T-shirt, light olive-green cargo pants, brown ankle boots, and a beige canvas crossbody bag. Keep the same face, hairstyle, clothing, body proportions, and overall appearance throughout the entire video.\n\nA small traditional countryside farm outside Seoul during a warm summer afternoon. Wooden fences, green fields, an old farmhouse, barn, hay bales, vegetable patches, chickens, cows, buckets, farming tools, trees and natural countryside surroundings. The farm feels ordinary and lived-in, not like a tourist attraction.\n\nThe camera is ALWAYS positioned IN FRONT OF THE GIRL, never behind her. A friend stands or walks in front of her, casually filming her with a handheld consumer DV camcorder/smartphone. Her front face must remain clearly visible during the important moments. The camera naturally moves backward while she walks toward it. Use imperfect handheld movement, small shakes, slightly uneven framing, autofocus hunting, occasional exposure changes, natural motion blur, soft digital detail, mild image noise, faded early-2000s home-video colors, and occasional accidental zooms.\n\nAbsolutely NO rear-view shots, NO filming from behind, NO drone, NO gimbal, NO cinematic tracking shots, NO polished commercial look, NO beauty filter. It should genuinely feel like a friend casually recorded this afternoon.\n\nTIMELINE\n\n0:00–0:05 — Arriving at the Farm\n\nThe girl walks toward the farm entrance while the friend walks backward in front of her filming. She smiles naturally and looks around at the animals and fields. She says casually in Korean:\n\n“오늘 농장에 왔어요.”\n\nNatural footsteps, birds, insects and distant farm sounds.\n\n0:05–0:10 — Feeding the Cow\n\nStill filmed from the front, the girl approaches a calm cow and holds out fresh vegetables. The cow gently eats from her hand. She laughs naturally and looks at the camera, then back at the cow.\n\n0:10–0:15 — Helping With Vegetables\n\nHard cut. The camera remains in front of her as she walks through a vegetable patch and picks fresh vegetables. She holds them up toward the camera with a happy smile.\n\n0:15–0:20 — Chickens\n\nHard cut. Several chickens suddenly walk across the path in front of her. The camera stays facing her from the front as she laughs and carefully steps around them. One chicken comes close to her boots.\n\n0:20–0:25 — Farmhouse Break\n\nShe sits outside the farmhouse with a basket of freshly picked vegetables and eats a piece of fresh fruit. She looks relaxed and slightly tired from working. She smiles at the camera and says:\n\n“생각보다 재밌어요.”\n\n0:25–0:30 — Walking Away / Goodbye\nShe gets up and walks toward the camera, then stops near the farm entrance. The friend keeps filming from directly in front of her. She gives a small wave and says:\n\n“다음에 또 올게요. 안녕!”\n\nShe walks past the camera as the recording ends naturally.\n\nAUDIO:\nOnly authentic location sound: birds, chickens, cows, insects, footsteps, leaves, distant farm activity and natural conversation. No background music, no narration, no artificial sound effects.\n\nFINAL LOOK:\nCompletely believable real-life home-video footage. Slightly imperfect, spontaneous, unpolished and human. Front-facing camera coverage throughout the story, with the girl's face clearly visible.",
+  "promptSource": "正文",
+  "likes": 421,
+  "postedAt": "2026-09-12",
+  "orientation": "landscape",
+  "duration": 30.04,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2098742251472261330.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持"
+   ],
+   "地域氛围": [
+    "韩系"
+   ],
+   "题材": [
+    "日常生活",
+    "宠物动物"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2098742251472261330.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2098742251472261330.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2098742251472261330.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld"
+   ],
+   "region": [
+    "korean"
+   ],
+   "genre": [
+    "daily-life",
+    "animals"
+   ],
+   "mood": [
+    "heartwarming"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2113468132866355641",
+  "title": "爱德华时代的新娘枪战",
+  "title_en": "The Edwardian Bride Shootout",
+  "desc": "雾中马车追逐，穿婚纱的新娘探身开枪，骑手落马，最后新娘站在街灯下。",
+  "desc_en": "A carriage chase in the fog: a bride in her gown leans out and fires, a rider falls, and she ends under a streetlamp.",
+  "creator": "Shami",
+  "handle": "@ShamiWeb3",
+  "platform": "X",
+  "url": "https://x.com/ShamiWeb3/status/2113468132866355641",
+  "model": "Seedance 2.5",
+  "likes": 414,
+  "postedAt": "2026-10-23",
+  "orientation": "landscape",
+  "duration": 30.08,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2113468132866355641.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "历史年代",
+    "武侠打斗"
+   ],
+   "情绪": [
+    "紧张刺激"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "预告片"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2113468132866355641.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2113468132866355641.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2113468132866355641.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "european"
+   ],
+   "genre": [
+    "historical",
+    "martial-arts-action"
+   ],
+   "mood": [
+    "tense"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "trailer"
+   ]
+  }
+ },
+ {
+  "id": "x-2051462778192642494",
+  "title": "柠檬色的指甲油广告",
+  "title_en": "Lemon Nail Polish Ad",
+  "desc": "黄色抓娃娃机里装满柠檬，金发女子挤柠檬、展示指甲，最后柠檬环绕 Sally Hansen 黄色甲油瓶。",
+  "desc_en": "A claw machine full of lemons, a blonde squeezing citrus and showing her nails, ending on a ring of lemons around a Sally Hansen bottle.",
+  "creator": "Shami",
+  "handle": "@ShamiWeb3",
+  "platform": "X",
+  "url": "https://x.com/ShamiWeb3/status/2051462778192642494",
+  "model": "Seedance 2.0 Fast",
+  "prompt": "Scene 1 (0–5s):\nElegant claw machine entirely in shiny yellow and gold tones, labeled “Fresh Lemons” in luxurious script. Inside are perfectly fresh bright yellow lemons with green leaves. The blonde woman stands nearby, observing with a calm, confident expression. Soft dramatic lighting, reflective glass surfaces, premium luxury feel.\nMusic: Slow, alluring intro, soft ambient synths with delicate chime notes and a subtle bass pulse, creating curiosity and elegance.\nScene 2 (5–10s):\nClose-up cinematic shot of her hands. She interacts with fresh lemons, gently squeezing one, lemon juice dripping over her glossy yellow nails. Water droplets sparkle in slow motion. Her blonde hair softly moves in the background blur. Ultra-detailed macro focus on nails, juice, and texture.\nMusic: Beat gently builds. smooth sensual rhythm with light percussion and liquid-like sound effects syncing with the dripping juice, enhancing the tactile luxury feel.\nScene 3 (10–15s):\nDynamic luxury product shots of Sally Hansen nail polish bottles in elegant yellow/gold packaging surrounded by fresh lemons, citrus slices, and dewdrops. Her hands briefly enter frame, showcasing matching yellow nails. Slow, smooth camera movements, shallow depth of field, high-end beauty commercial finish.\nMusic: Full alluring climax, glossy, upbeat yet sophisticated groove with soft electronic beats and shimmering accents, ending with a clean, satisfying audio finish.\nOverall style:\nHyper-realistic yet stylized luxury beauty commercial, scroll-stopping visuals, premium fashion photography mixed with playful citrus storytelling, vibrant but elegant tone, cinematic lighting, 4K, shot on Arri Alexa, ultra-detailed commercial product aesthetic, with a cohesive, seductive audio-visual rhythm.",
+  "promptSource": "正文",
+  "likes": 403,
+  "postedAt": "2026-05-05",
+  "orientation": "landscape",
+  "duration": 15.12,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2051462778192642494.mp4",
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "时尚美妆",
+    "产品"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "广告TVC"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2051462778192642494.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2051462778192642494.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2051462778192642494.jpg",
+  "tags_en": {
+   "style": [
+    "commercial"
+   ],
+   "region": [
+    "american"
+   ],
+   "genre": [
+    "fashion-beauty",
+    "product"
+   ],
+   "mood": [
+    "lighthearted"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "tvc"
+   ]
+  }
+ },
+ {
+  "id": "x-2108414240721916212",
+  "title": "修好了旧电视",
+  "title_en": "Fixing the Old TV",
+  "desc": "日本公寓里，女孩打开老式显像管电视却黑屏，检查插头、重接线缆，最后电视亮起，她满意地拿着遥控器。",
+  "desc_en": "In a Japanese apartment, a girl's CRT TV won't turn on — she checks the plug, reconnects the cables, and it finally glows.",
+  "creator": "𝗦𝗮𝗻𝗶𝗮",
+  "handle": "@saniaspeaks_",
+  "platform": "X",
+  "url": "https://x.com/saniaspeaks_/status/2108414240721916212",
+  "model": "Seedance 2.5",
+  "prompt": "Create a highly realistic early-2000s Japanese home vlog featuring the same Japanese girl in her cozy apartment. She tries turning on an old CRT television, but the screen stays black. She checks the plug, unplugs the TV, and carefully inspects the cable. Her first attempt to reconnect it fails, so she tries again and realizes the cable needs proper replacement. After fixing it safely, she plugs the TV back in and presses the power button. The screen lights up, and she smiles with relief. Keep every action in chronological order, with authentic 2003-era furniture, clothing, and electronics. Use handheld MiniDV camcorder footage, natural lighting, slight camera shake, realistic movements, and consistent character appearance throughout.",
+  "promptSource": "作者评论",
+  "likes": 391,
+  "postedAt": "2026-10-09",
+  "orientation": "landscape",
+  "duration": 30.04,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2108414240721916212.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2108414240721916212.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2108414240721916212.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2108414240721916212.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "daily-life"
+   ],
+   "mood": [
+    "heartwarming"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2107066395712504144",
+  "title": "图书馆里的降噪",
+  "title_en": "Silence in the Library",
+  "desc": "图书馆中女生被翻书、笔尖、咳嗽声干扰，戴上耳机后世界瞬间安静，结尾落版 Sony 耳机。",
+  "desc_en": "Page flips, pen scratches and coughs close in on a student — until she puts on headphones and the world goes quiet. Sony end card.",
+  "creator": "Maria",
+  "handle": "@thisismariaa25",
+  "platform": "X",
+  "url": "https://x.com/thisismariaa25/status/2107066395712504144",
+  "model": "Seedance 2.5",
+  "likes": 256,
+  "postedAt": "2026-10-05",
+  "orientation": "landscape",
+  "duration": 27.84,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2107066395712504144.mp4",
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "产品"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "微表情特写",
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "广告TVC"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2107066395712504144.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2107066395712504144.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2107066395712504144.jpg",
+  "tags_en": {
+   "style": [
+    "commercial"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "product"
+   ],
+   "mood": [
+    "heartwarming"
+   ],
+   "technique": [
+    "micro-expression",
+    "multi-shot"
+   ],
+   "use": [
+    "tvc"
+   ]
+  }
+ },
+ {
+  "id": "x-2108014516789563534",
+  "title": "1974年的苏联夏天",
+  "title_en": "Soviet Summer, 1974",
+  "desc": "苏联乡村的一天：清晨窗边、骑车的邻居、门廊吃面包喂猫、田间骑行、河边泡脚、日落回家。",
+  "desc_en": "A day in a Soviet village: morning at the window, neighbours on bikes, bread and a cat on the porch, feet in the river, home at sunset.",
+  "creator": "Maria",
+  "handle": "@thisismariaa25",
+  "platform": "X",
+  "url": "https://x.com/thisismariaa25/status/2108014516789563534",
+  "model": "Seedance 2.5",
+  "likes": 247,
+  "postedAt": "2026-10-08",
+  "orientation": "landscape",
+  "duration": 30.05,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2108014516789563534.mp4",
+  "tags": {
+   "画风": [
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "历史年代",
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2108014516789563534.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2108014516789563534.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2108014516789563534.jpg",
+  "tags_en": {
+   "style": [
+    "film-retro"
+   ],
+   "region": [
+    "european"
+   ],
+   "genre": [
+    "historical",
+    "daily-life"
+   ],
+   "mood": [
+    "heartwarming"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
+  "id": "x-2106564967046828508",
+  "title": "网球场的 Polo 风",
+  "title_en": "Polo on the Tennis Court",
+  "desc": "Polo 风格的乡村俱乐部大片：网球场、白色球鞋特写、挥拍、领口 logo 细节，开头叠字 LOVE. SET. POLO.",
+  "desc_en": "A country-club Polo spot: tennis court, white-sneaker close-ups, the swing and logo details.",
+  "creator": "Maria",
+  "handle": "@thisismariaa25",
+  "platform": "X",
+  "url": "https://x.com/thisismariaa25/status/2106564967046828508",
+  "model": "Seedance 2.5",
+  "likes": 201,
+  "postedAt": "2026-10-04",
+  "orientation": "landscape",
+  "duration": 15.07,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2106564967046828508.mp4",
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "时尚美妆",
+    "运动极限"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "广告TVC"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2106564967046828508.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2106564967046828508.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2106564967046828508.jpg",
+  "tags_en": {
+   "style": [
+    "commercial"
+   ],
+   "region": [
+    "american"
+   ],
+   "genre": [
+    "fashion-beauty",
+    "sports-extreme"
+   ],
+   "mood": [
+    "lighthearted"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "tvc"
+   ]
+  }
+ },
+ {
+  "id": "x-2110752410021044724",
+  "title": "气球挂在树上",
+  "title_en": "The Balloon in the Tree",
+  "desc": "DV 记录的首尔周日午后：女孩走在住宅区，帮小女孩够下卡在树上的红气球，然后回家关门。",
+  "desc_en": "DV footage of a Seoul Sunday: a girl helps a child rescue a red balloon caught in a tree, then heads home.",
+  "creator": "TSUBAKI",
+  "handle": "@AI__TSUBAKI",
+  "platform": "X",
+  "url": "https://x.com/AI__TSUBAKI/status/2110752410021044724",
+  "model": "Kling 4.0",
+  "prompt": "30-second, 4K, 16:9 ultra-realistic home video shot on an early-2000s consumer DV camcorder.\n\nA quiet Sunday afternoon in an older Seoul residential neighborhood, filmed by a friend walking with her.\n\nOne continuous handheld recording with a couple of casual cuts, like someone pausing and restarting the tape.\n\nSUBJECT\nA young Korean woman in her early 20s, the same person in every moment.\nNatural beauty, realistic skin texture, minimal makeup.\nBlack wavy hair in a messy side ponytail over her left shoulder.\nFitted pastel-blue short top, loose cream pajama-style pants, black sneakers, a thin simple silver necklace.\nA small beige reusable canvas shopping bag hangs on her left shoulder the whole time.\nHer face, hair, outfit and bag stay exactly the same throughout.\n\nLITTLE GIRL\nA Korean girl about 6 years old, short bob haircut, yellow T-shirt, denim shorts, small pink sneakers.\n\nTHE BALLOON\nOne round red helium balloon on a thin white string.\nOnly one balloon exists in the video.\n\nLOCATION\nA quiet older Seoul neighborhood on a mild sunny afternoon.\nNarrow residential lane, low brick houses, red-brick villas, potted plants by doorways, parked bicycles, utility poles with tangled overhead wires, mature trees.\nA small neighborhood playground with a slide, a sandbox and a few low trees along a short fence.\n\nCAMERA & LOOK\nRaw handheld early-2000s DV camcorder footage.\nShaky hand movement, autofocus hunting, faded slightly cyan-tinted colors, exposure shifts between sun and shade, motion blur, soft standard-definition-like detail upscaled, occasional accidental zoom in and out, imperfect off-center framing.\nThe camera operator sometimes reacts a little late.\n\nAUDIO\nNatural neighborhood ambience recorded by the camcorder mic: birds, children playing in the distance, a bicycle bell, footsteps on asphalt, wind hitting the mic, faint distant traffic.\nNo music.\n\n0–5s — LANE\nShe walks slowly through the quiet residential lane, shopping bag on her left shoulder, the camera following slightly behind and to her right.\nSunlight flickers through the trees.\n\n5–10s — PLAYGROUND\nShe passes the small playground.\nThe camera accidentally zooms in and finds the little girl on tiptoe under a low tree branch, reaching up but unable to touch the red balloon caught in the leaves, its string dangling just out of reach.\nThe woman slows down, notices her, and walks over.\n\n10–17s — FREEING THE BALLOON\nMedium shot from the side.\nStanding beside the girl, the woman reaches up with her right hand, gently untangles the string from the branch and pulls the red balloon down.\nThe string is clearly held in her right hand.\nShe bends down and places the string into the girl's small hand; the girl grips it tightly and the balloon floats above her head.\n\n17–21s — THANK YOU\nSame continuous shot, both of them in frame, the camera slightly off to the side.\nThe girl looks up holding the balloon and says brightly in English: \"Thank you!\"\nThe woman smiles and replies softly: \"You're welcome.\"\nThe girl runs back toward the slide, still holding the balloon string, the red balloon bobbing above her.\n\n21–26s — WALKING HOME\nCut.\nThe woman walks on down the lane, smiling to herself, bag on her left shoulder.\nA light breeze moves loose strands of her hair, and a few dry leaves skitter across the street.\nThe camera follows a few steps behind, wobbling.\n\n26–30s — HOME\nShe reaches the gate of a small red-brick house, opens it, then turns back toward the camera and says with a relaxed smile: \"Pretty nice Sunday.\"\nShe steps inside and the gate swings shut.\nHard cut to black.",
+  "promptSource": "作者评论",
+  "likes": 173,
+  "postedAt": "2026-10-15",
+  "orientation": "landscape",
+  "duration": 30.04,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2110752410021044724.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持",
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "韩系"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2110752410021044724.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2110752410021044724.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2110752410021044724.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld",
+    "film-retro"
+   ],
+   "region": [
+    "korean"
+   ],
+   "genre": [
+    "daily-life"
+   ],
+   "mood": [
+    "heartwarming"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2111638394233045069",
+  "title": "维多利亚的草地梦",
+  "title_en": "A Victorian Meadow Dream",
+  "desc": "身着玫红维多利亚长裙的女孩在草地上躺卧、吹肥皂泡、俯身看水塘，背景有奶牛与古宅。",
+  "desc_en": "A girl in a magenta Victorian gown lies in a meadow, blows bubbles and leans over a pond, with cows and an old manor behind.",
+  "creator": "Maria",
+  "handle": "@thisismariaa25",
+  "platform": "X",
+  "url": "https://x.com/thisismariaa25/status/2111638394233045069",
+  "model": "Seedance 2.5",
+  "likes": 164,
+  "postedAt": "2026-10-18",
+  "orientation": "portrait",
+  "duration": 12.06,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2111638394233045069.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "历史年代",
+    "时尚美妆"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ],
+   "镜头技法": [
+    "慢动作"
+   ],
+   "用途": [
+    "MV"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2111638394233045069.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2111638394233045069.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2111638394233045069.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "european"
+   ],
+   "genre": [
+    "historical",
+    "fashion-beauty"
+   ],
+   "mood": [
+    "romantic"
+   ],
+   "technique": [
+    "slow-motion"
+   ],
+   "use": [
+    "music-video"
+   ]
+  }
+ },
+ {
+  "id": "x-2114672427964010805",
+  "title": "香水火箭发射",
+  "title_en": "Perfume Rocket Launch",
+  "desc": "机库舞台上，香水瓶沿发光的混凝土回环赛道冲出，底部喷出火焰升空。",
+  "desc_en": "A perfume bottle tears around a glowing concrete loop in a hangar and lifts off on a column of flame.",
+  "creator": "Ray",
+  "handle": "@AIWithRay",
+  "platform": "X",
+  "url": "https://x.com/AIWithRay/status/2114672427964010805",
+  "model": "Kling 4.0",
+  "prompt": "Cinematic, photoreal night scene on a black stage inside a giant hangar. A towering concrete loop ramp/road with glowing red edge lights and a white center stripe dominates the background. In front of it stands a premium transparent glass perfume bottle, unlabeled, no logo, filled with pale golden fragrance, featuring elegant beveled edges, a polished metallic cap, realistic glass refraction, crisp reflections, and subtle condensation droplets. The bottle engages four small rocket nozzles under its base; soft white exhaust with bright orange cores appears. The bottle glides forward, then blasts up the glowing ramp, hugging the curve, leaving faint light trails and red neon reflections across its glass surface. At the apex it shoots off the ramp and transitions to a sleek electric-thruster flight, like a futuristic luxury flying car, then ends in a close hero shot of the perfume bottle hovering and roaring upward vertically with four bright jets, volumetric spotlights and fog below, sparks and vapor interaction, dramatic rim light, golden highlights, crisp reflections, shallow depth of field, 4K, high-end luxury perfume and car commercial look. No text, no brand, no label. Duration 9–10 seconds. Aspect ratio 9:16. Negative cues: no logos, no text, no labels, no hands, no spillage, no deformation, no duplicate bottles, no cartoon look, no melting glass, no detached cap, no liquid leakage, no extreme motion-blur smears. Beat sheet (timing guide) 0–2s: Low-angle push-in on the massive loop ramp; perfume bottle centered, engines arming beneath the base with subtle heat shimmer and glowing orange cores. 2–6s: Dynamic follow-cam as the bottle rockets up the ramp; speed ramping, neon edge lights streaking, dramatic red reflections sliding across the glass. 6–8s: Bottle leaves the ramp, switches to electric thrusters; quick cinematic orbit as it hovers midair, revealing the golden fragrance and metallic cap. 8–10s: Tight hero shot of the perfume bottle ascending vertically with four bright jets, swirling fog, volumetric spotlights, realistic vapor, and luxurious golden reflections. End with the bottle sharply focused and centered against the dark hangar.",
+  "promptSource": "正文",
+  "likes": 140,
+  "postedAt": "2026-10-26",
+  "orientation": "portrait",
+  "duration": 10.04,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114672427964010805.mp4",
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "产品",
+    "时尚美妆"
+   ],
+   "情绪": [
+    "热血燃"
+   ],
+   "镜头技法": [
+    "一镜到底"
+   ],
+   "用途": [
+    "广告TVC"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2114672427964010805.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2114672427964010805.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2114672427964010805.jpg",
+  "tags_en": {
+   "style": [
+    "commercial"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "product",
+    "fashion-beauty"
+   ],
+   "mood": [
+    "hype"
+   ],
+   "technique": [
+    "one-take"
+   ],
+   "use": [
+    "tvc"
+   ]
+  }
+ },
+ {
+  "id": "x-2108376905678291065",
+  "title": "首尔漫游三十秒",
+  "title_en": "Thirty Seconds in Seoul",
+  "desc": "外国女孩在首尔一日游：出门、街角咖啡、市场吃小吃、韩屋小店、汉江边转圈。",
+  "desc_en": "A visitor's day in Seoul: a corner café, market snacks, hanok shops and a twirl by the Han River.",
+  "creator": "Maria",
+  "handle": "@thisismariaa25",
+  "platform": "X",
+  "url": "https://x.com/thisismariaa25/status/2108376905678291065",
+  "model": "Seedance 2.5",
+  "likes": 136,
+  "postedAt": "2026-10-09",
+  "orientation": "landscape",
+  "duration": 30.04,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2108376905678291065.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持"
+   ],
+   "地域氛围": [
+    "韩系"
+   ],
+   "题材": [
+    "旅行城市"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2108376905678291065.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2108376905678291065.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2108376905678291065.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld"
+   ],
+   "region": [
+    "korean"
+   ],
+   "genre": [
+    "travel-city"
+   ],
+   "mood": [
+    "lighthearted"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2111654730028196093",
+  "title": "海边的放学路",
+  "title_en": "Walking Home by the Sea",
+  "desc": "日本高中生男女在黄昏海边并肩走，聊着未来的志愿，女生笑着回头，日文字幕。",
+  "desc_en": "Two Japanese high-schoolers walk the shore at dusk talking about the future; she turns back with a smile.",
+  "creator": "GENEL | リアルなAI動画制作",
+  "handle": "@genel_ai",
+  "platform": "X",
+  "url": "https://x.com/genel_ai/status/2111654730028196093",
+  "model": "Kling 4.0",
+  "likes": 110,
+  "postedAt": "2026-10-18",
+  "orientation": "landscape",
+  "duration": 27.84,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2111654730028196093.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "爱情青春"
+   ],
+   "情绪": [
+    "浪漫心动",
+    "孤独忧郁"
+   ],
+   "镜头技法": [
+    "对白口型"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2111654730028196093.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2111654730028196093.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2111654730028196093.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "romance-youth"
+   ],
+   "mood": [
+    "romantic",
+    "melancholy"
+   ],
+   "technique": [
+    "dialogue-lipsync"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
+  "id": "x-2083033159437025427",
+  "title": "一颗土豆变成薯片",
+  "title_en": "A Potato Becomes a Chip",
+  "desc": "土豆高速旋转削皮、切片、落入油锅炸成薯片，飞入包装袋，最后 Crunch Valley 薯片袋定格。",
+  "desc_en": "A potato spins, peels, slices, fries and flies into its bag — ending on a Crunch Valley pack shot.",
+  "creator": "Ray",
+  "handle": "@AIWithRay",
+  "platform": "X",
+  "url": "https://x.com/AIWithRay/status/2083033159437025427",
+  "model": "MiniMax H3",
+  "prompt": "Ultra-realistic cinematic 3D commercial, 15 seconds, hyper-detailed food commercial, dynamic speed ramp, macro photography, dramatic studio lighting, ultra-fast transitions, motion blur, shallow depth of field, realistic physics, crisp textures, premium advertising quality, 16:9.\n\nSequence: A whole fresh potato spins at incredible speed in mid-air above a modern kitchen counter. A stationary razor-sharp chef's knife instantly peels the potato as the spinning motion sends the skin flying away in elegant spiral ribbons. The perfectly peeled potato freezes vertically in mid-air, then effortlessly slices itself into dozens of ultra-thin, perfectly even potato chips suspended for a brief moment. The slices glide one by one into a vat of bubbling hot vegetable oil, creating dramatic splashes and shimmering golden bubbles. Within seconds, the chips become perfectly golden, light, and crispy. They burst upward from the oil in slow motion and land on a rustic wooden table as a vibrant cloud of savory seasoning explodes around them. An automated packaging machine immediately fills a sleek, glossy Crunch Valley potato chips bag, injects nitrogen gas for freshness, and heat-seals it. The packaging features a bold modern Crunch Valley logo in white lettering with gold accents on a vibrant red bag, premium branding, realistic printed details, and a luxurious commercial design. Final hero shot: the perfectly sealed Crunch Valley potato chips bag stands centered on the table while the camera performs a fast cinematic push-in through floating seasoning particles under warm cinematic lighting, with ultra-realistic reflections, razor-sharp focus, premium food advertising aesthetics, and a dramatic end frame held for maximum impact.",
+  "promptSource": "作者评论",
+  "likes": 101,
+  "postedAt": "2026-07-31",
+  "orientation": "landscape",
+  "duration": 15.08,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2083033159437025427.mp4",
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "美食",
+    "产品"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "变身转场",
+    "慢动作"
+   ],
+   "用途": [
+    "广告TVC"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2083033159437025427.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2083033159437025427.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2083033159437025427.jpg",
+  "tags_en": {
+   "style": [
+    "commercial"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "food",
+    "product"
+   ],
+   "mood": [
+    "lighthearted"
+   ],
+   "technique": [
+    "transformation-transition",
+    "slow-motion"
+   ],
+   "use": [
+    "tvc"
+   ]
+  }
+ },
+ {
+  "id": "x-2087544594384773346",
+  "title": "深夜厨房的手机录像",
+  "title_en": "Late-Night Kitchen, Phone Camera",
+  "desc": "深夜男生在厨房做饭：切菜、下锅翻炒、盛盘，最后坐到镜头前大口吃，像手机随手放在台面录的。",
+  "desc_en": "A guy cooks late at night — chopping, stir-frying, plating — then sits down in front of the propped-up phone to eat.",
+  "creator": "Ray",
+  "handle": "@AIWithRay",
+  "platform": "X",
+  "url": "https://x.com/AIWithRay/status/2087544594384773346",
+  "model": "Seedance 2.5",
+  "prompt": "FORMAT: 30-second horizontal 16:9 realistic smartphone video.\n\nCreate an authentic, imperfect everyday late-night kitchen phone recording, as if a friend casually left a phone recording on the counter. Use a standard smartphone camera with mild autofocus hunting, subtle exposure shifts, natural motion blur, compression artifacts, and slightly uneven handheld framing. No polished commercial look.\n\n00–05s — WALKING IN\n\nThe character walks into a quiet home kitchen carrying a small grocery bag. They set it on the counter, sigh quietly, and pull out a few simple ingredients.\n\nThey glance at the phone for a second before turning back toward the counter.\n\nCamera remains several feet away at counter height, as if casually recording from a nearby surface.\n\n05–10s — GETTING STARTED\n\nThey wash their hands, turn on the kitchen light, and begin preparing the ingredients.\n\nA cutting board shifts slightly against the counter. They pause to move it into a better position.\n\nThe character looks tired but relaxed, occasionally brushing their hair away from their forehead.\n\n10–15s — COOKING\n\nThey place a pan on the stove and begin cooking.\n\nSteam gradually becomes visible. The phone autofocus briefly shifts between the character and the foreground pan before settling again.\n\nThey stir the food, taste a tiny amount, think for a moment, then add a little more seasoning.\n\nNo readable labels or packaging should be visible.\n\n15–20s — SMALL MISTAKE\n\nThe character gets distracted for a moment and notices the food starting to cook more quickly than expected.\n\nThey immediately lower the heat and give a small amused shake of their head.\n\nThey quietly mutter something like:\n\n“Yeah… almost forgot about that.”\n\nThe delivery should feel spontaneous and understated.\n\n20–25s — FINISHING\n\nThey finish preparing the food, turn off the stove, and carefully transfer the meal onto a plate.\n\nThey wipe a small splash from the counter with a paper towel.\n\nNatural movements only—nothing overly choreographed.\n\n25–30s — QUIET ENDING\n\nThey sit at the kitchen table with the finished meal.\n\nThey take one bite, pause, and give a small satisfied smile.\n\nThey look toward the phone and quietly say:\n\n“Honestly… not bad.”\n\nThey pick up the fork again and continue eating as the camera keeps recording for another moment before the clip naturally ends.\n\nAUDIO\n\nNatural kitchen ambience only: refrigerator hum, ventilation, running water, utensil sounds, pan sizzling, footsteps, clothing movement, cupboard and drawer sounds, plate and fork noises, and subtle room ambience.\n\nNo music.\n\nDialogue should sound spontaneous and conversational, with natural pauses and imperfect delivery.\n\nVISUAL REALISM\n\nAuthentic smartphone footage, ordinary warm household lighting, realistic skin texture, natural shadows, mild phone-camera sharpening, subtle compression noise, imperfect exposure, slight autofocus changes, believable reflections, natural steam, realistic food textures, and ordinary kitchen imperfections.\n\nSTRICTLY AVOID: cinematic color grading, beauty filters, artificial skin smoothing, dramatic slow motion, music, subtitles, captions, logos, readable text, perfect lighting, excessive camera shake, exaggerated acting, unrealistic food or steam, duplicated objects, warped hands, unnatural facial expressions, scene cuts, time jumps, or skipping the described actions.",
+  "promptSource": "正文",
+  "likes": 93,
+  "postedAt": "2026-08-12",
+  "orientation": "landscape",
+  "duration": 30.04,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2087544594384773346.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "美食",
+    "日常生活"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2087544594384773346.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2087544594384773346.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2087544594384773346.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "food",
+    "daily-life"
+   ],
+   "mood": [
+    "melancholy"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2111601335884005519",
+  "title": "清晨五点半的涩谷",
+  "title_en": "Shibuya at 5:30 a.m.",
+  "desc": "黎明时分的街头滑板：女孩在空旷的车站与高架下滑行、跳台阶、越过栏杆，最后对镜头笑。",
+  "desc_en": "Dawn street skating: a girl glides through an empty station and under overpasses, hops stairs, clears a rail and grins at the camera.",
+  "creator": "TSUBAKI",
+  "handle": "@AI__TSUBAKI",
+  "platform": "X",
+  "url": "https://x.com/AI__TSUBAKI/status/2111601335884005519",
+  "model": "Seedance 2.5",
+  "prompt": "@Image1\n = the skater (character sheet)\n\nUse the character sheet as the strict reference for the skater's identity, facial features, hairstyle, body type, outfit, and personality. Keep the face, proportions, outfit silhouette, hairstyle, and natural imperfections exactly as shown.\n\nIMPORTANT:\nDo not redesign the outfit.\nDo not over-stylize the skater.\nDo not make the skater look like a fashion model or a superhero.\nThe skater must feel like an ordinary, real person pulling off insane skateboard tricks.\n\nCreate a 15-second, 16:9 widescreen, ultra-cinematic street skateboarding video set in Shibuya, Tokyo, in late October, at blue-hour dawn around 5:30 AM.\n\nONE CONTINUOUS TAKE. No cuts, no edits, no transitions — a single unbroken handheld shot from start to finish.\n\nThe skater rides only on the sidewalk the entire time, never on the roadway.\n\nThe city is almost empty and silent.\nShop shutters are still down. An occasional Tokyo taxi glides past on the road beside the sidewalk.\nThe sidewalk tiles are still wet from overnight rain, and the first morning light slowly spreads across them.\nCrisp, cool autumn air. A few fallen yellow ginkgo leaves scattered on the wet sidewalk.\n\nIMPORTANT:\nThe environment must feel unmistakably like real Shibuya.\n\nInclude:\nWide Shibuya sidewalks with wet paving tiles and yellow tactile paving strips\nMetal guardrails and bollards along the curb\nDark navy Tokyo taxis (JPN Taxi) passing on the road alongside\nThe empty Shibuya Scramble Crossing visible in the distance\nPedestrian signals and traffic lights\nClosed metal shutters along the storefronts\nDense mixed-use buildings with exterior emergency stairs\nGiant switched-off billboard screens\nA Tokyo Metro station entrance on the sidewalk\nStickers and graffiti on utility poles and shutters\nOverhead power lines\nCool, slightly damp late-autumn dawn atmosphere\n\nCore feeling:\nExtreme speed\nUrban freedom\nYouthful energy\nRaw realism\nDangerous momentum\nA playful face reveal at the very end\n\nCamera work:\nExtremely immersive handheld chase shot from BEHIND the skater, low-angle throughout.\nFrom 0 to 12 seconds, the camera operator sprints along the sidewalk at full speed, chasing the skater from behind at close range, with the lens kept low — just above the sidewalk tiles to knee height — looking forward past the skater's legs and board toward the empty sidewalk ahead. We see the skater's back, hair whipping in the wind, and the board, with the buildings and the brightening sky ahead.\n\nIMPORTANT:\nUntil the final moment, the camera stays behind the skater — directly behind, or rear three-quarter at most. It never overtakes the skater, never runs ahead, and never shoots from the front or the side. The skater's face is not shown until the final moment.\n\nTechniques, all within the single continuous take:\nUltra-low-angle rear tracking, the lens skimming just above the wet tiles\nFollowing close behind the board, with the wheels and tail filling the foreground\nShifting between directly-behind and rear three-quarter angles\nDynamic reframing as the skater swerves left and right\nMotion blur\nImpact shake on every landing\nImperfect, reactive framing\nCamera chasing dangerously close behind the skater down the stairs alongside the handrail, brushing past guardrails and walls\n\nThe viewer should physically feel speed, danger, and momentum.\n\nAvoid perfectly centered framing. Use the width of the 16:9 frame: keep the skater on the left or right third, with the sidewalk ahead opening up on the other side, and let the tactile paving strips, the tile joints, the curb line, the guardrails, and the rail converge toward the vanishing point as strong diagonal leading lines.\n\nAllowed:\nMomentary cropping\nFraming drift\nChaotic handheld movement\nAggressive camera corrections\n\nAction — a continuous line of tricks down the empty Shibuya sidewalk, one flowing into the next without stopping, all seen from behind until the final moment:\n\n0–2s: The skater pushes hard down the sidewalk, building dangerous speed past the closed shutters, hair streaming back toward the lens.\n2–4s: Kickflip over a fallen ginkgo-leaf patch, the board flipping right in front of the low camera, clean catch, lands rolling.\n4–6s: Long nose manual balanced along the yellow tactile paving strip, then pops out.\n6–9s: Approaches a long metal handrail beside a set of concrete stairs, pops into the air, and lands a perfect boardslide down the full length of the rail, the camera chasing down the stairs right behind.\n9–10s: Pops out of the rail with a 360 shove-it — the board spins a full turn beneath the skater's feet while the body keeps facing forward — and lands hard on the sidewalk below.\n10–12s: Rolls straight into a quick 360 flip, lands it, and carves into a sharp powerslide across the wet tiles, spraying a thin mist of water, coming to a stop.\n12–15s: The face reveal. The skater stomps on the tail so the board pops up into their hand, then turns around to face back toward the camera. The camera catches up and stops at close range, still slightly low. The skater looks straight into the lens, breaks into a big, genuine smile, and flashes a cute peace sign with a slight playful head tilt. The face is sharp and fully visible for the first time, framed on the right third, with the long Shibuya sidewalk and the glowing dawn sky behind.\n\nEvery trick must be landed cleanly with real weight and board contact.\nThe peace-sign moment must feel natural and spontaneous, like a real person goofing for a friend's camera — not a posed model shot.\n\nTrick feeling:\nReal, dangerous, world-class, varied.\n\nPhysics:\nNo floaty physics.\nNo superhero movement.\nNo anime-style exaggeration.\nRealistic hang time, realistic board flip speed, wheels and trucks clearly hitting the ground on each landing.\n\nLighting:\nCinematic late-October blue-hour dawn in Shibuya.\nCombine:\nCool early-morning ambient light\nSoft sunrise glow on the upper floors of the buildings, and soft dawn light falling on the skater's face in the final moment\nReflections of leftover neon and signal lights on the wet sidewalk tiles\nCool, damp autumn air\nRealistic dawn exposure\n\nTexture:\nRealistic skin pores\nRealistic wet paving-tile texture\nSlight sweat\nSensor noise\nCinematic grain\nNatural clothing movement\n\nSound:\nHip-hop music: a hard-hitting boom-bap / trap-influenced instrumental with heavy kicks, crisp snares, and a deep bassline, cinematic and gritty.\nTricks hit on the beat — each landing syncs with a kick or snare.\nA massive beat drop exactly at the moment the skater lands on the handrail boardslide.\nThe beat hits one final accent exactly as the peace sign goes up.\nLayered with real diegetic sound: wheels rolling on wet tiles, the pop of the tail, trucks grinding on the metal rail, hard landings, the skater's heavy breathing and a short laugh at the end.\n\nOverall vibe:\nA legendary viral Shibuya skate clip, secretly shot at dawn.",
+  "promptSource": "作者评论",
+  "likes": 58,
+  "postedAt": "2026-10-17",
+  "orientation": "landscape",
+  "duration": 15.04,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2111601335884005519.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "运动极限",
+    "旅行城市"
+   ],
+   "情绪": [
+    "热血燃"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2111601335884005519.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2111601335884005519.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2111601335884005519.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "sports-extreme",
+    "travel-city"
+   ],
+   "mood": [
+    "hype"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2113603516866384168",
+  "title": "2000年代的校园祭",
+  "title_en": "A 2000s School Festival",
+  "desc": "韩国高中校园祭：学生入场、投币小游戏、套圈摊位、闺蜜合影，夜晚灯串下的操场。",
+  "desc_en": "A Korean high-school festival: arrivals, coin games, ring toss, best-friend photos, the field under string lights at night.",
+  "creator": "𝗦𝗮𝗻𝗶𝗮",
+  "handle": "@saniaspeaks_",
+  "platform": "X",
+  "url": "https://x.com/saniaspeaks_/status/2113603516866384168",
+  "model": "Seedance 2.5",
+  "likes": 57,
+  "postedAt": "2026-10-23",
+  "orientation": "landscape",
+  "duration": 30.08,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2113603516866384168.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持",
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "韩系"
+   ],
+   "题材": [
+    "爱情青春",
+    "日常生活"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2113603516866384168.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2113603516866384168.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2113603516866384168.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld",
+    "film-retro"
+   ],
+   "region": [
+    "korean"
+   ],
+   "genre": [
+    "romance-youth",
+    "daily-life"
+   ],
+   "mood": [
+    "lighthearted"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2111553161525964874",
+  "title": "瑞士山道速降",
+  "title_en": "Swiss Mountain Downhill",
+  "desc": "一镜到底：长板选手在瑞士阿尔卑斯山谷的双车道上高速速降，跟拍镜头贴地追随。",
+  "desc_en": "One take: a longboarder bombs a two-lane road through a Swiss Alpine valley, the camera skimming the tarmac behind.",
+  "creator": "TSUBAKI",
+  "handle": "@AI__TSUBAKI",
+  "platform": "X",
+  "url": "https://x.com/AI__TSUBAKI/status/2111553161525964874",
+  "model": "Seedance 2.5",
+  "prompt": "A single continuous 30-second take with no cuts. Rider, an adult male downhill longboarder, bombs a two-lane mountain road down a green Swiss alpine valley at extreme speed. The road is smooth grey asphalt with a white dashed centre line, a metal guardrail on the valley side, and white-and-black roadside marker posts. On one side, a steep bright-green meadow rises with old wooden Swiss chalets with red-brown shutters and dark timber barns. On the other side, dense dark conifer forest falls away into the valley. Forested mountains with green pasture clearings fill the distance, with low white clouds drifting across the peaks under a bright overcast sky. There are wooden utility poles along the road.\n\n[Rider]\nRider wears a white full-face downhill helmet with a dark visor, so his face is never visible. He wears a plain white T-shirt, slim grey pants and black-and-white low-top skate shoes. He wears black slide gloves with round white hard pucks on the palms. He rides a long downhill board with black grip tape and bright red urethane wheels.\n\n[Image Quality]\nUltra-high-definition 8K, with crisp, razor-sharp detail on Rider, his clothing folds, the glove pucks, the board and the red wheels. The asphalt grain, the meadow grass, the chalet wood and the distant tree lines are finely resolved. It has a clean, high-end action-camera look with no compression artifacts, no noise and no smearing. Rider stays sharp while the roadside streaks with strong directional motion blur.\n\n[Camera and Look]\nA low chase camera follows him like real raw-run footage: a wide-angle action lens about 1.5 meters off the ground, 3 to 4 meters behind, with natural high-frequency vibration from the road. The camera never stays dead-centre. It drifts left and right with each corner and keeps Rider on the left or right third, so the next corner and the open road ahead are always readable. The look is ultra-realistic documentary sports footage in natural soft overcast daylight, with no slow motion.\n\n[Speed Rule]\nSpeed is everything in this video. From the first frame Rider is already travelling at over 100 km/h, and he never visibly slows down. Every corner is taken at full speed. His hand touches the asphalt only as a light, fast dab for balance and grip, never as a braking slide, and the board stays nearly straight. Immediately after each corner he snaps back into a deep tuck and keeps accelerating, so each straight is faster than the last. The motion blur, the white dashes flicking past rapidly and the wind tearing at his T-shirt never ease off.\n\n[Stage 1 / approx. 0–3s] Instant corner\nThe video opens mid-run at full speed with a fast right-hand curve already arriving. Rider leans hard into it in a low crouch, dabs his gloved right hand on the asphalt with a quick scrape and sweeps through the apex without losing speed. The camera swings around the outside of the curve, and the guardrail whips past in the foreground.\nEnd state: Rider exiting the curve, still at full speed.\n\n[Stage 2 / approx. 3–10s] Acceleration straight\nContinue from the previous stage. Rider snaps into a deep aero tuck: front knee bent, back knee tucked behind the front calf, chest low, hands clasped behind his back. The road drops steeply down the valley. The chalets on the meadow side and the utility poles flash past one after another, and the white centre dashes strobe under the camera. His T-shirt ripples violently in the wind.\nEnd state: Rider at an even higher speed, with a left-hand curve rushing toward him.\n\n[Stage 3 / approx. 10–17s] Corner with oncoming car\nContinue from the previous stage. Rider dives into the left-hand curve at full speed, dabs his left hand on the asphalt and holds a tight inside line. Right at the exit, a white compact car appears coming uphill in the opposite lane and passes within a few meters in a heavy rush of wind. Rider stays low and committed in his own lane, without flinching or braking. The camera lets the car pass through the edge of the frame and then settles back behind him.\nEnd state: The car is gone and Rider is back in his tuck, still accelerating.\n\n[Stage 4 / approx. 17–23s] Right-left switchback\nContinue from the previous stage. A quick right curve flows straight into a left curve. Rider carves through both at full speed, with one fast hand dab on each side and his shoulders rolling with the road. The camera follows close, its horizon tilting slightly with each lean.\nEnd state: Rider exits onto the longest, steepest straight of the run.\n\n[Stage 5 / approx. 23–30s] Top speed\nContinue from the previous stage. Rider is in his deepest, tightest tuck, and this is the fastest moment of the whole video. The roadside smears into pure streaks of green and grey while the valley and mountains ahead stay steady. The wheels hum at a high pitch, and the board is perfectly stable.\nEnd state: Rider at absolute top speed, small against the huge green valley, still pulling away down the road.\n\n[Maintain Consistency]\nOne rider only, always the same Rider with the same white helmet with the visor down, white T-shirt, grey pants, black gloves and red-wheeled board. His face is never shown. He always rides downhill in the same direction of travel. The car stays in the opposite lane and passes once. The take is one continuous shot with no cuts, no slow motion, no slowing down and no on-screen text.\n\nAudio is raw on-board sound only, with no music: <roaring wind buffeting the camera>, <constant hard rumble of urethane wheels on asphalt>, <quick gritty scrapes of the glove pucks on the road>, <a car engine growing louder then a sharp whoosh as it passes>, <the wheel hum rising in pitch as the speed climbs>.",
+  "promptSource": "正文",
+  "likes": 13,
+  "postedAt": "2026-10-17",
+  "orientation": "landscape",
+  "duration": 30.08,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2111553161525964874.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "运动极限"
+   ],
+   "情绪": [
+    "紧张刺激"
+   ],
+   "镜头技法": [
+    "一镜到底"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2111553161525964874.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2111553161525964874.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2111553161525964874.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "european"
+   ],
+   "genre": [
+    "sports-extreme"
+   ],
+   "mood": [
+    "tense"
+   ],
+   "technique": [
+    "one-take"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2102710980257947902",
+  "title": "车窗外的长板速降",
+  "title_en": "Longboards from the Car Window",
+  "desc": "从行驶车辆的副驾用手机跟拍三名长板选手在海岸山路上速降。",
+  "desc_en": "Shot on a phone from a moving car: three longboarders bomb a coastal mountain road.",
+  "creator": "Matthieu",
+  "handle": "@matthieu_ai",
+  "platform": "X",
+  "url": "https://x.com/matthieu_ai/status/2102710980257947902",
+  "prompt": "VERTICAL 3:4 smartphone video filmed HANDHELD from inside a moving car, passenger seat, following three longboarders racing downhill on a winding coastal mountain road. The phone is held by a real person, not mounted: subtle arm movement, natural breathing shake, tiny framing corrections, windshield edge and A-pillar occasionally visible, a thin slice of dashboard and hood at the bottom of frame. Consumer smartphone camera look, realistic JPEG processing, natural sharpening, slight HDR, autofocus breathing and occasional focus hunting, subtle rolling-shutter distortion, realistic exposure shifts, imperfect but believable stabilization.\n\nCONTINUOUS SINGLE TAKE — no cuts, no transitions. The car is moving downhill behind the riders throughout the shot. We begin slightly farther away as the three riders enter a sweeping downhill section, then the car gradually closes the distance. The riders become larger in frame as they accelerate. The camera operator instinctively tracks them with small handheld movements.\n\nThe three young longboarders race together at high speed, performing realistic downhill carving. Their bodies lean deeply into each corner, knees compressing naturally, shoulders and hips shifting with their boards, arms adjusting for balance. Wheels spin rapidly and realistically. Clothing and hair react naturally to the wind. Their movements obey believable weight, momentum, traction and gravity — no exaggerated or impossible motion.\n\nThe road winds dramatically along a lush coastal mountain above a breathtaking turquoise ocean and vibrant seaside city. Green hills descend toward the water, with buildings visible far below. Bright natural daylight, blue sky with detailed clouds, sparkling ocean, atmospheric coastal haze.\n\nThroughout the SINGLE TAKE, use subtle DIGITAL PINCH-ZOOMS only, as if the person filming is instinctively trying to capture the action. Start with a relatively wide view showing the riders and landscape. Slowly punch in as they approach a fast corner. Briefly zoom closer onto the lead rider's wheels carving across the asphalt, then follow the three riders as they sweep through the turn. Zoom back out naturally when the landscape opens up again.\n\nThe camera occasionally struggles to keep perfect framing because the car and riders are moving quickly. Slight motion blur, realistic shutter behavior, small focus shifts, exposure adaptation, lens flare from sunlight, windshield reflections and tiny imperfections reinforce the feeling that this was genuinely captured on a consumer smartphone rather than professionally filmed.\n\nCamera perspective remains physically plausible for someone filming from inside a moving car. The road, car movement and riders maintain consistent relative motion. No impossible drone movement, no floating camera, no cinematic crane shots, no cuts.\n\nThe final section becomes more spectacular as the three riders accelerate toward a long downhill straight overlooking the ocean. The car follows behind while the riders gradually pull farther ahead. The phone operator zooms out slightly to reveal the enormous coastal landscape, allowing the riders to become smaller against the turquoise sea and city below.\n\nPhotorealistic live-action footage. Real-world physics. Authentic smartphone optics. Natural daylight. Consumer phone camera. Handheld imperfections. Realistic motion blur. Realistic wheel rotation. Realistic wind interaction. Natural skin, clothing and environmental textures. Immersive and spontaneous rather than polished commercial footage.\n\n15 seconds, 24fps, vertical 3:4, high-detail photorealism, realistic smartphone dynamic range, no text, no subtitles, no logos, no watermark, no CGI look, no artificial slow motion, no cuts.",
+  "promptSource": "作者评论",
+  "likes": 11,
+  "postedAt": "2026-09-23",
+  "orientation": "landscape",
+  "duration": 15.07,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2102710980257947902.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "运动极限"
+   ],
+   "情绪": [
+    "紧张刺激"
+   ],
+   "镜头技法": [
+    "一镜到底"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2102710980257947902.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2102710980257947902.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2102710980257947902.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "sports-extreme"
+   ],
+   "mood": [
+    "tense"
+   ],
+   "technique": [
+    "one-take"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2114729417218167119",
+  "title": "冬日唱片店",
+  "title_en": "Winter Record Shop",
+  "desc": "雪夜的唱片店：唱针落下、手指划过唱片架、窗外飘雪、暖色灯光下的室内。",
+  "desc_en": "A snowy-night record shop: the needle drops, fingers flip through crates, snow outside, warm lamplight inside.",
+  "creator": "TSUBAKI",
+  "handle": "@AI__TSUBAKI",
+  "platform": "X",
+  "url": "https://x.com/AI__TSUBAKI/status/2114729417218167119",
+  "model": "Kling 4.0",
+  "likes": 7,
+  "postedAt": "2026-10-26",
+  "orientation": "landscape",
+  "duration": 30,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114729417218167119.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "音乐舞蹈",
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2114729417218167119.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2114729417218167119.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2114729417218167119.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "music-dance",
+    "daily-life"
+   ],
+   "mood": [
+    "heartwarming"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
   "id": "tt-7501787033094917406",
   "title": "黑暗奇幻·写实",
   "title_en": "Dark Fantasy, Realized",
