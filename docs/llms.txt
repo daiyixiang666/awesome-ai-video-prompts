@@ -9,6 +9,8 @@ A human-curated index of top-tier AI-generated videos from X, TikTok and Douyin.
 - [All tags](https://daiyixiang666.github.io/awesome-ai-video-prompts/tags.html)
 - [GitHub repository](https://github.com/daiyixiang666/awesome-ai-video-prompts)
 
+Takedown / contact: yixiang@umich.edu — works are removed promptly at the rights holder's request.
+
 ## Works with prompts
 
 ## Tags

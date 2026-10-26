@@ -17,7 +17,12 @@ _首批作品正在筛选中 — the first batch is under review._
 ## 收录标准 Curation
 
 - 只收顶级：审美、叙事或技术上有明显过人之处；不收梗图、软色情、搬运。
-- Original creators are always credited and linked. 版权归原作者，如需下架请提 Issue。
+- Original creators are always credited and linked. 版权归原作者。
+
+## 版权与下架 Takedown
+
+如权利人认为收录不当，请发邮件至 **yixiang@umich.edu** 或提 Issue，我们核实后第一时间下架。  
+Rights holders: email **yixiang@umich.edu** or open an issue and we will remove the work promptly.
 
 ## 机器可读 Machine-readable
 

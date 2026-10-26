@@ -14,6 +14,7 @@ DOCS = ROOT / "docs"
 BASE = "https://daiyixiang666.github.io/awesome-ai-video-prompts/"
 REPO = "https://github.com/daiyixiang666/awesome-ai-video-prompts"
 NAME = "镜鉴 · Awesome AI Video Prompts"
+CONTACT = "yixiang@umich.edu"
 TAGLINE_ZH = "人工精选的顶级 AI 影像与提示词，按画风、氛围、题材检索"
 TAGLINE_EN = "Hand-picked top-tier AI videos with prompts — Seedance, Veo, Kling, Sora"
 DIM_ORDER = ["画风", "地域氛围", "题材", "情绪", "镜头技法", "用途"]
@@ -78,8 +79,8 @@ def page(title, desc, path, body, jsonld=None, cover=None):
 <header><div class="wrap top"><a class="brand" href="{root}index.html"><b>镜<i>鉴</i></b><span>Awesome AI Video Prompts</span></a>
 <nav><a href="{root}index.html">作品 Works</a><a href="{root}tags.html">标签 Tags</a><a href="{REPO}">GitHub</a></nav></div></header>
 <main class="wrap">{body}</main>
-<footer class="wrap"><p>作品版权归原作者所有，本站只做索引、标注与提示词整理，封面为原作截帧，观看请前往原帖。如需下架请在 <a href="{REPO}/issues">GitHub Issues</a> 留言。<br>
-All works belong to their creators; this site only indexes and annotates them and links to the original posts. Takedown requests: GitHub Issues.</p>
+<footer class="wrap"><p>作品版权归原作者所有，本站只做索引、标注与提示词整理，并链接到原帖。如权利人认为收录不当，请发邮件至 <a href="mailto:{CONTACT}">{CONTACT}</a>（或在 <a href="{REPO}/issues">GitHub Issues</a> 留言），我们核实后第一时间下架。<br>
+All works belong to their creators; this site only indexes and annotates them and links to the original posts. If you are a rights holder and want a work removed, email <a href="mailto:{CONTACT}">{CONTACT}</a> (or open a GitHub issue) and we will take it down promptly.</p>
 <p>Machine-readable: <a href="{root}works.json">works.json</a> · <a href="{root}llms.txt">llms.txt</a> · <a href="{root}sitemap.xml">sitemap.xml</a></p></footer>
 </body></html>"""
 
@@ -186,7 +187,8 @@ def llms_txt(idx):
              "tagged on six facets (visual style, regional vibe, genre, mood, camera technique, use case), credits the original creator, "
              "and includes the full generation prompt whenever the creator published it. Models covered include Seedance, Veo, Kling, Sora and Midjourney.",
              "", "## Data", f"- [works.json]({BASE}works.json): every work as JSON (prompt, tags in Chinese and English slugs, creator, source URL, model)",
-             f"- [All tags]({BASE}tags.html)", f"- [GitHub repository]({REPO})", "", "## Works with prompts"]
+             f"- [All tags]({BASE}tags.html)", f"- [GitHub repository]({REPO})", "",
+             f"Takedown / contact: {CONTACT} — works are removed promptly at the rights holder's request.", "", "## Works with prompts"]
     for w in [w for w in works if w.get("prompt")][:200]:
         lines.append(f"- [{w['title']}{' / ' + w['title_en'] if w.get('title_en') else ''}]({BASE}w/{w['id']}.html): {w.get('model') or 'AI video'} by {w['creator']}")
     lines += ["", "## Tags"]
@@ -219,7 +221,10 @@ def readme(idx):
             if w.get("prompt"):
                 out += ["<details><summary>提示词 Prompt</summary>", "", "```text", w["prompt"], "```", "", "</details>", ""]
     out += ["## 收录标准 Curation", "", "- 只收顶级：审美、叙事或技术上有明显过人之处；不收梗图、软色情、搬运。",
-            "- Original creators are always credited and linked. 版权归原作者，如需下架请提 Issue。", "",
+            "- Original creators are always credited and linked. 版权归原作者。", "",
+            "## 版权与下架 Takedown", "",
+            f"如权利人认为收录不当，请发邮件至 **{CONTACT}** 或提 Issue，我们核实后第一时间下架。  ",
+            f"Rights holders: email **{CONTACT}** or open an issue and we will remove the work promptly.", "",
             "## 机器可读 Machine-readable", "", f"- [`works.json`]({BASE}works.json) · [`llms.txt`]({BASE}llms.txt) · [`sitemap.xml`]({BASE}sitemap.xml)", ""]
     return "\n".join(out)
 
