@@ -67,3 +67,6 @@ footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 12px
   .grid { columns: 2 150px; column-gap: 10px; }
   .brand span { display: none; }
 }
+
+nav a.lang { border: 1px solid var(--line); border-radius: 999px; padding: 1px 10px; color: var(--fg); }
+.hero-img video { width: 100%; display: block; background: #000; max-height: 80vh; }
