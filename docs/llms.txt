@@ -1,0 +1,14 @@
+# 镜鉴 · Awesome AI Video Prompts
+
+> Hand-picked top-tier AI videos with prompts — Seedance, Veo, Kling, Sora. 人工精选的顶级 AI 影像与提示词，按画风、氛围、题材检索。
+
+A human-curated index of top-tier AI-generated videos from X, TikTok and Douyin. Every entry is reviewed by a person, tagged on six facets (visual style, regional vibe, genre, mood, camera technique, use case), credits the original creator, and includes the full generation prompt whenever the creator published it. Models covered include Seedance, Veo, Kling, Sora and Midjourney.
+
+## Data
+- [works.json](https://daiyixiang666.github.io/awesome-ai-video-prompts/works.json): every work as JSON (prompt, tags in Chinese and English slugs, creator, source URL, model)
+- [All tags](https://daiyixiang666.github.io/awesome-ai-video-prompts/tags.html)
+- [GitHub repository](https://github.com/daiyixiang666/awesome-ai-video-prompts)
+
+## Works with prompts
+
+## Tags
