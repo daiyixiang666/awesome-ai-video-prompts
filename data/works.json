@@ -8216,5 +8216,2467 @@
   "addedAt": "2026-10-27T11:51:29",
   "id": "x-2115063720443629817",
   "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2115063720443629817.mp4"
+ },
+ {
+  "creator": "Michael Rabone",
+  "desc": "木刻版画质感的黑色毛怪，配几何纹样和红色印章。作者公开 sref 代码。",
+  "duration": 0,
+  "handle": "@michaelrabone",
+  "likes": 381,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-25",
+  "prompt": "Troll --ar 3:4 --sref 4054778981 --sw 100 --stylize 300 --hd --v 8.2",
+  "promptSource": "正文",
+  "title": "木刻怪兽",
+  "url": "https://x.com/michaelrabone/status/2103447104303849669",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Woodcut Troll",
+  "desc_en": "A shaggy black horned monster with zigzag patterned fur, drawn like a woodblock print on cream paper with a red seal stamp.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2103447104303849669",
+  "images": [
+   "img-x-2103447104303849669_2.jpg",
+   "img-x-2103447104303849669_3.jpg",
+   "img-x-2103447104303849669_4.jpg"
+  ]
+ },
+ {
+  "creator": "Ahmed",
+  "desc": "一组性格各异的普通人角色设定，灰绿背景和红色衣物点缀。",
+  "duration": 0,
+  "handle": "@gridzzle",
+  "likes": 121,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-25",
+  "prompt": "--sref 47687159",
+  "promptSource": "正文",
+  "title": "日常存在者",
+  "url": "https://x.com/gridzzle/status/2103447765745291614",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "游戏CG"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Ordinary Beings",
+  "desc_en": "Character design sheets of ordinary people in loose layered clothes against muted grey-green backgrounds, accented with red garments.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2103447765745291614",
+  "images": [
+   "img-x-2103447765745291614_2.jpg",
+   "img-x-2103447765745291614_3.jpg",
+   "img-x-2103447765745291614_4.jpg"
+  ]
+ },
+ {
+  "creator": "Ege",
+  "desc": "平涂插画里的公园遛狗、野餐、骑车和集市，人群密集而有秩序。作者公开 sref 代码。",
+  "duration": 0,
+  "handle": "@egeberkina",
+  "likes": 517,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-27",
+  "prompt": "--sref 2209540957",
+  "promptSource": "正文",
+  "title": "周日模式",
+  "url": "https://x.com/egeberkina/status/2104152101375070227",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "日常生活",
+    "宠物动物"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Sunday Mode",
+  "desc_en": "A flat-color illustration of a park full of people in blue coats walking dogs of every breed across green grass under trees.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2104152101375070227",
+  "images": [
+   "img-x-2104152101375070227_2.jpg",
+   "img-x-2104152101375070227_3.jpg",
+   "img-x-2104152101375070227_4.jpg"
+  ]
+ },
+ {
+  "creator": "🇸🇦 AREEJ AlTHAQAFI",
+  "desc": "阿拉伯头巾男子的黑色剪影，边缘溢出彩虹色散，背景纯白。作者公开 sref 代码。",
+  "duration": 0,
+  "handle": "@areej_design",
+  "likes": 1642,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-27",
+  "prompt": "a halftone black and white simple illustration of a saudi man --ar 3:4 --sref 1589974576 --stylize 400",
+  "promptSource": "正文",
+  "title": "彩虹剪影",
+  "url": "https://x.com/areej_design/status/2104278802683851083",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Rainbow Silhouette",
+  "desc_en": "A minimal poster of a man in a Gulf headdress in black profile, his silhouette dissolving into a rainbow color spill on white.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2104278802683851083",
+  "images": [
+   "img-x-2104278802683851083_2.jpg",
+   "img-x-2104278802683851083_3.jpg",
+   "img-x-2104278802683851083_4.jpg"
+  ]
+ },
+ {
+  "creator": "haru wagnus",
+  "desc": "胶片质感的人像系列，女孩在树林和花丛中，带漏光和彩虹光晕。",
+  "duration": 0,
+  "handle": "@HaRu_Nus",
+  "likes": 137,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-29",
+  "prompt": "",
+  "title": "光里的安娜",
+  "url": "https://x.com/HaRu_Nus/status/2104891480657776748",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Anna in the Light",
+  "desc_en": "Film-look portraits of a young woman in a sunlit park and among flowering plants, with soft light leaks and warm grain.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2104891480657776748",
+  "images": [
+   "img-x-2104891480657776748_2.jpg",
+   "img-x-2104891480657776748_3.jpg",
+   "img-x-2104891480657776748_4.jpg"
+  ]
+ },
+ {
+  "creator": "Dogan Ural",
+  "desc": "火箭在地平线上升空，三联竖幅的地平线和光带严丝合缝地连在一起。暖色烟云衬着冷蓝夜空。",
+  "duration": 0,
+  "handle": "@doganuraldesign",
+  "likes": 2734,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-29",
+  "prompt": "",
+  "title": "火箭升空三联画",
+  "url": "https://x.com/doganuraldesign/status/2104932092148912225",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Rocket Over the Horizon",
+  "desc_en": "A rocket launch seen across a curved horizon in a seamless vertical triptych, warm exhaust glow against a cold blue night sky.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2104932092148912225",
+  "images": [
+   "img-x-2104932092148912225_2.jpg",
+   "img-x-2104932092148912225_3.jpg"
+  ]
+ },
+ {
+  "creator": "Keskin",
+  "desc": "以《沙丘》弗雷曼人为题，用大面积橙色沙幕、黑色剪影和极简留白讲故事。",
+  "duration": 0,
+  "handle": "@craftian_keskin",
+  "likes": 711,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-03",
+  "prompt": "",
+  "title": "沙丘弗雷曼人",
+  "url": "https://x.com/craftian_keskin/status/2106451718611341554",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Veiled by the Sand",
+  "desc_en": "A Dune-inspired Fremen figure emerges from sweeping curtains of orange sand inside a canyon, framed with bold color blocks and empty space.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2106451718611341554",
+  "images": [
+   "img-x-2106451718611341554_2.jpg",
+   "img-x-2106451718611341554_3.jpg",
+   "img-x-2106451718611341554_4.jpg"
+  ]
+ },
+ {
+  "creator": "Kōda",
+  "desc": "平涂风格的魔女们骑扫帚飞行，背景纯色，姿态轻盈。作者公开风格混合和提示词。",
+  "duration": 0,
+  "handle": "@aimikoda",
+  "likes": 113,
+  "medium": "image",
+  "model": "Midjourney v8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-04",
+  "prompt": "[your character definition], full body character design, mid-air action pose, angular painterly character concept art, bold silhouette design, exaggerated elongated proportions, anime character styling, shape-driven design, faceted planar shading, clean polished rendering, refined brushwork, crisp edges, sharp geometric forms, stylized anatomy, long legs, full light background, high contrast value grouping, high contrast highlights, polished modern character design --ar 2:3 --sref 1455092819 836332049 2116795492 71912650 4107378996 --profile kxxcnp9 oqw5d6p --stylize 1000",
+  "promptSource": "正文",
+  "title": "飞行的小魔女",
+  "url": "https://x.com/aimikoda/status/2106638080685834407",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Little Witch in Flight",
+  "desc_en": "A flat-shaded anime witch in a white dress and tiny crown flies with arms outstretched against a plain blue background.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2106638080685834407",
+  "images": [
+   "img-x-2106638080685834407_2.jpg",
+   "img-x-2106638080685834407_3.jpg",
+   "img-x-2106638080685834407_4.jpg"
+  ]
+ },
+ {
+  "creator": "keshi",
+  "desc": "白色系机械少女与猫耳，线条干净，配一点红色点缀。",
+  "duration": 0,
+  "handle": "@keshiAIart",
+  "likes": 473,
+  "medium": "image",
+  "model": "Midjourney v8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-07",
+  "prompt": "",
+  "title": "白色机械少女",
+  "url": "https://x.com/keshiAIart/status/2107734483441160221",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "奇幻神话",
+    "时尚美妆"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "White Mecha Girl",
+  "desc_en": "A white-haired cat-eared girl with mechanical accessories and a red flower, rendered in clean lines with pale colors and red accents.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2107734483441160221",
+  "images": [
+   "img-x-2107734483441160221_2.jpg",
+   "img-x-2107734483441160221_3.jpg"
+  ]
+ },
+ {
+  "creator": "Michael Rabone",
+  "desc": "黑白摄影中，女子被飘动的黑布缠绕，浅景深和颗粒感。作者公开 profile 和提示词。",
+  "duration": 0,
+  "handle": "@michaelrabone",
+  "likes": 101,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-07",
+  "prompt": "Black and white cinematic wide open photography of a woman, her head and body are wrapped only in long black ribbons blowing in the desert wind --ar 16:9 --raw --profile dnmiwx7 --stylize 250 --hd --v 8.2",
+  "promptSource": "正文",
+  "title": "黑白风之舞",
+  "url": "https://x.com/michaelrabone/status/2107788094527135794",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "黑白影像"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "紧张刺激"
+   ]
+  },
+  "title_en": "Dance of the Black Wind",
+  "desc_en": "A black-and-white fashion photo of a woman wrapped in long black ribbons whipped by desert wind, shallow depth of field and grain.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2107788094527135794",
+  "images": [
+   "img-x-2107788094527135794_2.jpg",
+   "img-x-2107788094527135794_3.jpg",
+   "img-x-2107788094527135794_4.jpg"
+  ]
+ },
+ {
+  "creator": "AlexandrIA",
+  "desc": "厚涂油画风的一组超现实画面：尖帽人群、熊脸和手镜里的落日。作者公开 sref 组合。",
+  "duration": 0,
+  "handle": "@AleRVG",
+  "likes": 113,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-07",
+  "prompt": "--sref 1748030304 701349914::0.5 310387866::0.3 2645070458::0.7",
+  "promptSource": "正文",
+  "title": "惊喜",
+  "url": "https://x.com/AleRVG/status/2107796081669022031",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "title_en": "The Surprise",
+  "desc_en": "An oil-painted surreal scene: a pale figure in a tall pointed hat stands amid rows of dark hooded figures with orange caps.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2107796081669022031",
+  "images": [
+   "img-x-2107796081669022031_2.jpg",
+   "img-x-2107796081669022031_3.jpg",
+   "img-x-2107796081669022031_4.jpg"
+  ]
+ },
+ {
+  "creator": "Carolina Delgado",
+  "desc": "黄色背景上的墨线人像，用线条、网点和条纹构成。作者分享 sref 风格。",
+  "duration": 0,
+  "handle": "@carolletta",
+  "likes": 46,
+  "medium": "image",
+  "model": "Midjourney V8",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-07",
+  "prompt": "artistic portrait of a beautiful character --chaos 45 --ar 9:16 --sref 2285060883 --raw --sw 1000 --stylize 600 --weird 25",
+  "promptSource": "正文",
+  "title": "墨线与阳光",
+  "url": "https://x.com/carolletta/status/2107803125973200921",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Ink Lines and Sunlight",
+  "desc_en": "A woman's portrait built from black ink lines, halftone and stripes on a vivid yellow background, like a screen print.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2107803125973200921",
+  "images": [
+   "img-x-2107803125973200921_2.jpg",
+   "img-x-2107803125973200921_3.jpg",
+   "img-x-2107803125973200921_4.jpg"
+  ]
+ },
+ {
+  "creator": "Zidan 子丹",
+  "desc": "京剧头面的女子，银白与青花色调，服饰细节极其繁复。作者说明了反复打磨提示词的过程。",
+  "duration": 0,
+  "handle": "@liluocheng13",
+  "likes": 460,
+  "medium": "image",
+  "model": "GPT Image (ChatGPT)",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-08",
+  "prompt": "An extraordinarily beautiful young East Asian woman, ethereal Chinese imperial opera goddess, delicate porcelain face, refined facial anatomy, melancholic almond-shaped eyes, subtle smoky eyeliner, soft muted rose lips, cold and distant expression, elaborate monumental Chinese phoenix crown adorned with intricate blue enamel filigree, antique silver ornaments, countless luminous white pearls, sculpted ivory flowers, flowing metallic botanical structures, luxurious traditional Chinese ceremonial robes in ivory white silk, exquisite hand-embroidered peonies in dusty teal blue, muted coral pink and antique gold, cascading pearl necklaces, delicate coral tassels, graceful slender feminine hand resting naturally against embroidered silk, five anatomically accurate fingers, elegant finger proportions, realistic joints, natural perspective, flowing oversized white silk sleeves, long black hair blowing dramatically in the wind, ancient Chinese palace architecture softly blurred in the background, dramatic close-up fashion portrait, slightly low camera angle, sophisticated asymmetrical composition, shallow depth of field, foreground silk softly out of focus, Chinese mysticism meets European Rococo ornamentation, Old Master painting color harmony, cinematic chiaroscuro, cool blue-gray atmosphere, delicate warm highlights, realistic porcelain skin texture, intricate textile details, restrained HDR, photorealistic fine art fashion photography, 85mm portrait lens, f/1.8, extraordinary craftsmanship, museum-quality visual aesthetics, elegant and haunting beauty --ar 9:16 --v 8.2 --stylize 250 --chaos 8 --no extra fingers, fused fingers, malformed hands, distorted anatomy, plastic skin, cartoon, anime, text, watermark",
+  "promptSource": "正文",
+  "title": "京剧青衣",
+  "url": "https://x.com/liluocheng13/status/2108188790733132102",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "中式"
+   ],
+   "题材": [
+    "时尚美妆",
+    "历史年代"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Blue-and-White Opera Diva",
+  "desc_en": "A Peking opera heroine in an elaborate silver headdress and blue-and-white embroidered robes, with a cold, distant gaze.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2108188790733132102"
+ },
+ {
+  "creator": "Glitter Gal",
+  "desc": "竖长幅的水乡、楼阁与花树，色彩清新。作者公开带权重的多重 sref 和参数。",
+  "duration": 0,
+  "handle": "@GlitterPixely",
+  "likes": 289,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-08",
+  "prompt": "--sref 1559042433::4 3961311624::2 2120427644 4029501061 6917049681::2 --sw 220 --stylize 350",
+  "promptSource": "正文",
+  "title": "江南水乡长卷",
+  "url": "https://x.com/GlitterPixely/status/2108201525411738066",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "中式"
+   ],
+   "题材": [
+    "旅行城市"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Water Town Scroll",
+  "desc_en": "A tall vertical illustration of a coral-red shop with green doors, stone steps and climbing flowers, in fresh, bright colors.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2108201525411738066",
+  "images": [
+   "img-x-2108201525411738066_2.jpg",
+   "img-x-2108201525411738066_3.jpg",
+   "img-x-2108201525411738066_4.jpg"
+  ]
+ },
+ {
+  "creator": "🇸🇦 AREEJ AlTHAQAFI",
+  "desc": "阿拉伯男女与花卉长袍，花朵填满女子的衣裙，像丝网版画。作者公开多重 sref。",
+  "duration": 0,
+  "handle": "@areej_design",
+  "likes": 574,
+  "medium": "image",
+  "model": "Midjourney v8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-09",
+  "prompt": "--v 8.2 --sref 419021074 3824458850 1895975870 2404897432 --stylize 400",
+  "promptSource": "正文",
+  "title": "在你之中绽放",
+  "url": "https://x.com/areej_design/status/2108370798532771912",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "爱情青春"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ]
+  },
+  "title_en": "Blooming Within You",
+  "desc_en": "A Gulf couple in illustrated style; the woman's long robe is filled with painted flowers, framed by palms and blue architecture.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2108370798532771912",
+  "images": [
+   "img-x-2108370798532771912_2.jpg",
+   "img-x-2108370798532771912_3.jpg",
+   "img-x-2108370798532771912_4.jpg"
+  ]
+ },
+ {
+  "creator": "Glitter Gal",
+  "desc": "蓝白小镇、海湾和花丛的竖长幅插画。作者公开多重 sref 组合。",
+  "duration": 0,
+  "handle": "@GlitterPixely",
+  "likes": 539,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-10",
+  "prompt": "--sref 2120427644::4 837554414::2 4162424471 2121218727::3 --sw 220 --stylize 350",
+  "promptSource": "正文",
+  "title": "地中海小镇",
+  "url": "https://x.com/GlitterPixely/status/2108905110139212188",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "旅行城市",
+    "自然风光"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Mediterranean Village",
+  "desc_en": "A tall vertical illustration of a white hill town with a blue tower above green slopes and a field of blue flowers.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2108905110139212188",
+  "images": [
+   "img-x-2108905110139212188_2.jpg",
+   "img-x-2108905110139212188_3.jpg",
+   "img-x-2108905110139212188_4.jpg"
+  ]
+ },
+ {
+  "creator": "Lloyd Creates",
+  "desc": "洋红与紫色渐变里的跑车、人脸和抽象形体，像唱片封面。作者公开 sref 代码。",
+  "duration": 0,
+  "handle": "@lloydcreates",
+  "likes": 284,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-10",
+  "prompt": "--sref 1640129042",
+  "promptSource": "正文",
+  "title": "洋红渐变",
+  "url": "https://x.com/lloydcreates/status/2109058858794836139",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "汽车"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ]
+  },
+  "title_en": "Magenta Fade",
+  "desc_en": "A sports car silhouette dissolves into a smooth magenta-to-purple gradient, like an album cover.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2109058858794836139",
+  "images": [
+   "img-x-2109058858794836139_2.jpg",
+   "img-x-2109058858794836139_3.jpg",
+   "img-x-2109058858794836139_4.jpg"
+  ]
+ },
+ {
+  "creator": "夢職人",
+  "desc": "水彩淡彩的大橘猫与少女，四格温柔日常。作者公开 sref 组合。",
+  "duration": 0,
+  "handle": "@yumesyokunin",
+  "likes": 199,
+  "medium": "image",
+  "model": "Niji (Midjourney)",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-10",
+  "prompt": "--sref 2638159318 3746883461",
+  "promptSource": "正文",
+  "title": "猫与少女日常",
+  "url": "https://x.com/yumesyokunin/status/2109061640142651805",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫",
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "宠物动物",
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "A Girl and Her Big Cat",
+  "desc_en": "Four soft watercolor panels of a schoolgirl and a huge orange tabby cat sharing gentle everyday moments.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2109061640142651805"
+ },
+ {
+  "creator": "Ziha",
+  "desc": "上半为原照片，下半转为水彩速写，留白和颜料晕染很自然。作者公开完整提示词。",
+  "duration": 0,
+  "handle": "@Ziha_ai",
+  "likes": 259,
+  "medium": "image",
+  "model": "GPT Image 2.5",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-11",
+  "prompt": "The image is in a 3:4 vertical composition, divided into two regions, with a strict 1:1 ratio, each taking up 50% of the image.\n\nUpper Region - Original Photo Shoot Area\n\nPreserves the subject's identity, structure, perspective, and true material, natural light, and original color atmosphere, with only slight high-end color grading and image purification, presenting it with the texture of art magazines or exhibition photography. It allows for a moderate expansion of the background to fit the screen size, but does not stretch, distort, or reshape the subject, without changing the subject's structure, posture, and core composition.\n\nLower Region - Minimalist Ink Wash Reconstruction Area\n\nFirst, refine the subject with the most memorable details, such as the outline, structure, trend, perspective, rhythm, and atmosphere, and then reconstruct the same scene into a minimalist ink wash material landscape. Do not copy the photo details, do not make a realistic copy, only preserve the most recognizable structure and charm, allowing people to recognize the corresponding relationship between the upper region and the original photo at first glance.\n\nThe overall base of the lower half is milky white, warm white or paper white, with delicate paper fiber and natural texture. The main body is reconstructed in ink wash blending, dry-wet interplay, flying white, seepage, ink accumulation, and white space, forming a quiet, restrained, and poetic Eastern visual. Removing secondary details, only retaining the most distinctive contours, structural turns, spatial layers, and breath, not pursuing realistic completeness, but rather summarizing, refining, and leaving a lingering impression. The use of ink in black, gray, and light ink tones, layered and progressing, with varying intensities and rhythms.\n\nThe most vibrant colors can be extracted from the original image to create a few spots of dyeing or coloring, without mechanically replicating the color values. The colors can be transformed locally into clear blue-gray, distant blue, soft gold, warm yellow, vermilion red, light cyan, etc., to emphasize the main focus and emotional rhythm, but the overall composition is still dominated by ink tones and negative space. Avoiding dull, heavy, old brown, excessive decoration, and vulgar color combinations.\n\nThe main core areas should be more refined and concentrated, with edges gradually loosening, breaking away, disappearing, and scattering, forming a sense of breathing with the large negative space. The lower half of the composition should account for about 30%-45%, with the rest reserved for large negative spaces. The composition can be biased, framed, suspended, or slightly cut, but must maintain an asymmetrical balance and a high-end editorial feel. Negative space is not blank, but an important component of the visual structure. It is better to reduce information than to fill the entire image, so that the main focus looks like an ink seal or an oriental material work displayed on a page.\n\nText Treatment\n\nText is only allowed a very small amount of editing intervention, without preset titles and numbers. A small number of words or short sentences can be extracted from the subject, location, time, action, emotion, or metaphor, and quietly placed in the blank area or the edge of the subject. The text should be restrained, sparse, and have a sense of breathing, not noisy or dominant.\n\nOverall Presentation\n\nContemporary Eastern aesthetics, minimalist ink wash reconstruction, large-scale art blank, small-scale seal impression, quiet editing layout and exhibition poster style. Avoid complex backgrounds, piled-up real details, overly decorative, excessive text, template layout and filled composition",
+  "promptSource": "正文",
+  "title": "照片转水彩",
+  "url": "https://x.com/Ziha_ai/status/2109118256045002828",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "旅行城市"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Photo to Watercolor",
+  "desc_en": "A split image: on top a photo of a narrow teal building by the sea, below the same scene redrawn as a loose watercolor sketch.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2109118256045002828",
+  "images": [
+   "img-x-2109118256045002828_2.jpg",
+   "img-x-2109118256045002828_3.jpg",
+   "img-x-2109118256045002828_4.jpg"
+  ]
+ },
+ {
+  "creator": "K",
+  "desc": "用纹理几何风格画出全身街头时装插画，配色克制、构图干净。作者公开了完整提示词。",
+  "duration": 0,
+  "handle": "@ChillaiKalan__",
+  "likes": 494,
+  "medium": "image",
+  "model": "Nano Banana 2.1",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-11",
+  "prompt": "Create a stylish, full-body editorial fashion illustration of a young woman in a modern casual outfit, using a minimalist, textured geometric art style. She wears an oversized forest-green hoodie, wide-leg blue denim jeans with folded cuffs, and chunky brown sneakers. Her dark hair is tied in a neat low bun. She carries a bouquet of vibrant pink roses wrapped in white paper, a takeaway coffee cup, and a black shoulder bag. Show her walking naturally in a relaxed pose, viewed from a three-quarter rear angle, with soft, elegant body proportions and simplified facial details.\n\nUse a warm ivory background with plenty of negative space, soft ground shadows, subtle paper grain, visible brush textures, and angular polygonal shading across the clothing and shoes. The color palette features deep forest green, denim blue, warm brown, cream, and vivid pink. Soft diffused lighting, clean composition, contemporary lifestyle magazine aesthetic, hand-painted digital illustration, refined edges, artistic fabric textures, vertical 3:4 composition, high detail. No photorealism, no 3D rendering, no extra objects, no text or watermark.",
+  "promptSource": "正文",
+  "title": "街头编辑插画",
+  "url": "https://x.com/ChillaiKalan__/status/2109123213351632977",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Street Editorial",
+  "desc_en": "A full-body fashion illustration of a young woman in a green hoodie and wide jeans carrying flowers and coffee, in textured geometric style.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2109123213351632977",
+  "images": [
+   "img-x-2109123213351632977_2.jpg",
+   "img-x-2109123213351632977_3.jpg"
+  ]
+ },
+ {
+  "creator": "Gizem Akdag",
+  "desc": "水粉色块画出地铁、乘客和座椅，橙蓝撞色。作者公开 sref 代码。",
+  "duration": 0,
+  "handle": "@gizakdag",
+  "likes": 256,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-11",
+  "prompt": "--sref 2792491415",
+  "promptSource": "正文",
+  "title": "地铁",
+  "url": "https://x.com/gizakdag/status/2109342100659769832",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "日常生活",
+    "旅行城市"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Subway",
+  "desc_en": "A gouache-style poster of a blurred subway car rushing past bands of teal and orange, with rough paper edges.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2109342100659769832",
+  "images": [
+   "img-x-2109342100659769832_2.jpg",
+   "img-x-2109342100659769832_3.jpg",
+   "img-x-2109342100659769832_4.jpg"
+  ]
+ },
+ {
+  "creator": "Ahmed",
+  "desc": "穿宽大旧衣的角色设定，灰绿雾色背景，人物各有性格。作者公开风格说明。",
+  "duration": 0,
+  "handle": "@gridzzle",
+  "likes": 236,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-12",
+  "prompt": "--sref 2769905113",
+  "promptSource": "正文",
+  "title": "安静的层次",
+  "url": "https://x.com/gridzzle/status/2109613826228273197",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "游戏CG"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Quiet Layers",
+  "desc_en": "A character design of a large man in an oversized shearling-collared coat, set against a misty grey-green backdrop.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2109613826228273197",
+  "images": [
+   "img-x-2109613826228273197_2.jpg",
+   "img-x-2109613826228273197_3.jpg",
+   "img-x-2109613826228273197_4.jpg"
+  ]
+ },
+ {
+  "creator": "Kaski_Anna@",
+  "desc": "日式插画风的神女与粉色巨蛇，背景是繁复的织锦纹样。",
+  "duration": 0,
+  "handle": "@G_Eskeles",
+  "likes": 512,
+  "medium": "image",
+  "model": "Midjourney V8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-14",
+  "prompt": "",
+  "title": "蛇与神女",
+  "url": "https://x.com/G_Eskeles/status/2110352033870119327",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "title_en": "Goddess and the Serpent",
+  "desc_en": "A white-haired goddess in a floral kimono is coiled by a giant pink snake before an ornate brocade full of dragon motifs.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2110352033870119327"
+ },
+ {
+  "creator": "Dogan Ural",
+  "desc": "一辆跑车沿着发光星环疾驰，四联竖幅可拼成一整幅长卷。红白光带配深空黑，构图有很强的速度感。",
+  "duration": 0,
+  "handle": "@doganuraldesign",
+  "likes": 8372,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-15",
+  "prompt": "",
+  "title": "驶向星环之外",
+  "url": "https://x.com/doganuraldesign/status/2110745483547206034",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "汽车",
+    "科幻"
+   ],
+   "情绪": [
+    "热血燃"
+   ]
+  },
+  "title_en": "Beyond the Ring",
+  "desc_en": "Red and white light trails streak along a glowing planetary ring against deep black space, part of a four-panel continuous poster.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2110745483547206034",
+  "images": [
+   "img-x-2110745483547206034_2.jpg",
+   "img-x-2110745483547206034_3.jpg",
+   "img-x-2110745483547206034_4.jpg"
+  ]
+ },
+ {
+  "creator": "Tatiana Tsiguleva",
+  "desc": "黑底上的行星排成光带，像天文摄影又像抽象装置，用极暗的画面托住一点光。",
+  "duration": 0,
+  "handle": "@ciguleva",
+  "likes": 157,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-15",
+  "prompt": "",
+  "title": "行星连珠",
+  "url": "https://x.com/ciguleva/status/2110766554539593898",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Planetary Alignment",
+  "desc_en": "Planets in phases line up across a black void, leading into a corridor of glowing light columns.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2110766554539593898",
+  "images": [
+   "img-x-2110766554539593898_2.jpg",
+   "img-x-2110766554539593898_3.jpg"
+  ]
+ },
+ {
+  "creator": "Brian 🎨 Bri Guy AI",
+  "desc": "复古杂志插画风格里，怪物与女人同处一室，民族纹样地毯和家具非常讲究。作者公开多重 sref。",
+  "duration": 0,
+  "handle": "@bri_guy_ai",
+  "likes": 57,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-15",
+  "prompt": "--sref 81941175 1624446770 537009498",
+  "promptSource": "正文",
+  "title": "怪物与女人",
+  "url": "https://x.com/bri_guy_ai/status/2110795911559594064",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "title_en": "Monster and the Woman",
+  "desc_en": "A retro-magazine painting of a blonde woman on a patterned kilim rug with a horned, tongue-lolling monster looming over her.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2110795911559594064",
+  "images": [
+   "img-x-2110795911559594064_2.jpg",
+   "img-x-2110795911559594064_3.jpg",
+   "img-x-2110795911559594064_4.jpg"
+  ]
+ },
+ {
+  "creator": "goo.vision",
+  "desc": "德国街景里的普通住宅被白色有机体吞噬、融化，以纪实摄影的手法呈现。",
+  "duration": 0,
+  "handle": "@goo_vision",
+  "likes": 193,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-16",
+  "prompt": "",
+  "title": "被侵蚀的房屋",
+  "url": "https://x.com/goo_vision/status/2111156402022678651",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "纪实手持",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "title_en": "Consumed Houses",
+  "desc_en": "A documentary-style street photo of a row of German houses whose facades melt into a grey-white organic mass.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2111156402022678651",
+  "images": [
+   "img-x-2111156402022678651_2.jpg",
+   "img-x-2111156402022678651_3.jpg",
+   "img-x-2111156402022678651_4.jpg"
+  ]
+ },
+ {
+  "creator": "Taaruk",
+  "desc": "把风景照片转成线条构成的极简海报，配小字排版。作者公开完整提示词。",
+  "duration": 0,
+  "handle": "@Taaruk_",
+  "likes": 88,
+  "medium": "image",
+  "model": "GPT Image 2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-17",
+  "prompt": "Create a stunning minimalist landscape art series inspired by majestic snow-covered mountains, serene reflections, and the peaceful beauty of nature. The first composition features towering snowy peaks beneath a soft pastel pink and lavender sky, a calm reflective lake, and dark evergreen forests, captured in cinematic photography. The second composition transforms the mountain landscape into an abstract 3D topographic wireframe sculpture, using intricate flowing contour lines, monochrome black-and-white tones, dramatic fog, and a tiny human silhouette emphasizing scale and solitude. Combine photorealism with conceptual digital art, elegant editorial typography, subtle horizontal line patterns, clean geometric layouts, atmospheric lighting, fine details, and a sophisticated contemporary art-gallery aesthetic. Vertical poster format, ultra-high resolution, breathtaking composition.",
+  "promptSource": "正文",
+  "title": "极简风景海报",
+  "url": "https://x.com/Taaruk_/status/2111380726847557775",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Minimal Landscape Poster",
+  "desc_en": "A snowy mountain lake photo above its redrawn version as a line-art poster in pastel pink and lavender with small type.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2111380726847557775",
+  "images": [
+   "img-x-2111380726847557775_2.jpg"
+  ]
+ },
+ {
+  "creator": "Kaski_Anna@",
+  "desc": "水手服少女走在夜色城市中，暗蓝背景配纸张白，留白自然。",
+  "duration": 0,
+  "handle": "@G_Eskeles",
+  "likes": 313,
+  "medium": "image",
+  "model": "Midjourney V8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-17",
+  "prompt": "",
+  "title": "夜城少女",
+  "url": "https://x.com/G_Eskeles/status/2111483703738396993",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "爱情青春"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Girl in the Night City",
+  "desc_en": "A schoolgirl in a sailor uniform floats beside a collage of neon city buildings set into a dark blue night with stars.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2111483703738396993"
+ },
+ {
+  "creator": "Sgt Sref",
+  "desc": "深绿山谷里的孤人、白屋和羊，光线像老电影胶片。作者公开 sref 代码。",
+  "duration": 0,
+  "handle": "@sergeantsref",
+  "likes": 165,
+  "medium": "image",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-18",
+  "prompt": "--sref 3689510055",
+  "promptSource": "正文",
+  "title": "绿色山谷",
+  "url": "https://x.com/sergeantsref/status/2111717163279237503",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "胶片复古",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "The Green Valley",
+  "desc_en": "A lone tiny figure stands on a deep green hillside under rolling green-tinted mist, graded like old film.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2111717163279237503",
+  "images": [
+   "img-x-2111717163279237503_2.jpg",
+   "img-x-2111717163279237503_3.jpg",
+   "img-x-2111717163279237503_4.jpg"
+  ]
+ },
+ {
+  "creator": "Anima",
+  "desc": "花朵部落的猎手与他的飞行坐骑，角色设定图风格。",
+  "duration": 0,
+  "handle": "@Anima_Labs",
+  "likes": 288,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-18",
+  "prompt": "",
+  "title": "飞花部落猎手",
+  "url": "https://x.com/Anima_Labs/status/2111750451624604039",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "游戏CG"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "热血燃"
+   ]
+  },
+  "title_en": "Flower Tribe Hunter",
+  "desc_en": "A character concept of an archer wearing a pink flower mask and leaf cloak with a long bow, plus a color palette swatch.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2111750451624604039",
+  "images": [
+   "img-x-2111750451624604039_2.jpg"
+  ]
+ },
+ {
+  "creator": "Travis Davids",
+  "desc": "以古代非洲为背景的奇幻场景：图腾石柱、巨像和沙漠驼队。",
+  "duration": 0,
+  "handle": "@MrDavids1",
+  "likes": 30,
+  "medium": "image",
+  "model": "Seedream 5.0 Pro",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-18",
+  "prompt": "",
+  "title": "古非洲幻想",
+  "url": "https://x.com/MrDavids1/status/2111813925457072523",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "奇幻神话",
+    "历史年代"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Ancient African Fantasy",
+  "desc_en": "A white-robed figure walks through a forest of towering carved wooden totem pillars on blue-lit sand.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2111813925457072523",
+  "images": [
+   "img-x-2111813925457072523_2.jpg",
+   "img-x-2111813925457072523_3.jpg",
+   "img-x-2111813925457072523_4.jpg"
+  ]
+ },
+ {
+  "creator": "Benjamin Springer",
+  "desc": "瓷砖包裹的巨型建筑立在雾中海岸，作者用作 3D 世界的视觉开发。",
+  "duration": 0,
+  "handle": "@Ben__Springer",
+  "likes": 13,
+  "medium": "image",
+  "model": "Midjourney v8.2",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-18",
+  "prompt": "",
+  "title": "瓷砖巨构",
+  "url": "https://x.com/Ben__Springer/status/2111932948752593074",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "史诗壮阔",
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Tiled Giants by the Sea",
+  "desc_en": "A tile-clad brutalist megastructure rises from a misty, rain-slicked coast, made as visual development for a 3D world.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2111932948752593074",
+  "images": [
+   "img-x-2111932948752593074_2.jpg",
+   "img-x-2111932948752593074_3.jpg",
+   "img-x-2111932948752593074_4.jpg"
+  ]
+ },
+ {
+  "creator": "keshi",
+  "desc": "白色机械装甲的猫与少女，机械细节密集，色调干净。",
+  "duration": 0,
+  "handle": "@keshiAIart",
+  "likes": 256,
+  "medium": "image",
+  "model": "Midjourney v8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-19",
+  "prompt": "",
+  "title": "机械猫",
+  "url": "https://x.com/keshiAIart/status/2112015891731034257",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "宠物动物",
+    "科幻"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Mecha Cat",
+  "desc_en": "A cat in a white, gadget-covered mech suit with gas mask and red scarf, drawn as a clean character-design sheet.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2112015891731034257",
+  "images": [
+   "img-x-2112015891731034257_2.jpg",
+   "img-x-2112015891731034257_3.jpg",
+   "img-x-2112015891731034257_4.jpg"
+  ]
+ },
+ {
+  "creator": "Kōda",
+  "desc": "撞色背景上的动态剑士，衣摆和颜料飞溅。作者公开混合 sref。",
+  "duration": 0,
+  "handle": "@aimikoda",
+  "likes": 123,
+  "medium": "image",
+  "model": "Midjourney v8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-19",
+  "prompt": "--sref 1689088019 2622224214 2423811400 3060113345 --profile kxxcnp9 --stylize 1000",
+  "promptSource": "正文",
+  "title": "跃动的剑士",
+  "url": "https://x.com/aimikoda/status/2112132620100215038",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "武侠打斗"
+   ],
+   "情绪": [
+    "热血燃"
+   ]
+  },
+  "title_en": "Leaping Swordswoman",
+  "desc_en": "A swordswoman mid-leap in baggy orange trousers against teal and coral colour blocks, with fluttering cloth and paint flecks; blended sref codes shared.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2112132620100215038",
+  "images": [
+   "img-x-2112132620100215038_2.jpg",
+   "img-x-2112132620100215038_3.jpg",
+   "img-x-2112132620100215038_4.jpg"
+  ]
+ },
+ {
+  "creator": "eraser",
+  "desc": "紫色线稿少女配大号排版文字，像独立杂志封面。",
+  "duration": 0,
+  "handle": "@eraser_creater",
+  "likes": 100,
+  "medium": "image",
+  "model": "Midjourney v8.2",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-19",
+  "prompt": "",
+  "title": "晚安好梦",
+  "url": "https://x.com/eraser_creater/status/2112154293751156956",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Good Night, Sweet Dreams",
+  "desc_en": "A violet line-art anime girl beside large stacked type reading 'good night sweet dream', laid out like an indie magazine cover.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2112154293751156956"
+ },
+ {
+  "creator": "goo.vision",
+  "desc": "古典雕像与建筑在阴天下溶解、流淌，像大理石活了过来。",
+  "duration": 0,
+  "handle": "@goo_vision",
+  "likes": 139,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-19",
+  "prompt": "",
+  "title": "文艺复兴废墟",
+  "url": "https://x.com/goo_vision/status/2112211891330396209",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "恐怖"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "title_en": "Ruins of the Renaissance",
+  "desc_en": "Classical caryatid statues and colonnades melt and drip under an overcast sky, with a long-haired ghostly figure among them.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2112211891330396209",
+  "images": [
+   "img-x-2112211891330396209_2.jpg",
+   "img-x-2112211891330396209_3.jpg",
+   "img-x-2112211891330396209_4.jpg"
+  ]
+ },
+ {
+  "creator": "Brian 🎨 Bri Guy AI",
+  "desc": "丝网印刷感的怪物与少女，粉绿撞色，像地下漫画海报。作者公开 sref 组合。",
+  "duration": 0,
+  "handle": "@bri_guy_ai",
+  "likes": 36,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-19",
+  "prompt": "--sref 877644977 978279305 1428138",
+  "promptSource": "正文",
+  "title": "今日风格调配",
+  "url": "https://x.com/bri_guy_ai/status/2112226391370367019",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "诡异不安",
+    "热血燃"
+   ]
+  },
+  "title_en": "Monster and Chainsaw Girl",
+  "desc_en": "A screen-print-style girl with a chainsaw stands before a hairy green-and-pink horned monster, in punchy underground-comic colours.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2112226391370367019",
+  "images": [
+   "img-x-2112226391370367019_2.jpg",
+   "img-x-2112226391370367019_3.jpg",
+   "img-x-2112226391370367019_4.jpg"
+  ]
+ },
+ {
+  "creator": "simeon-sanai",
+  "desc": "罗马、东京的水彩旅行海报，带竖排标题和留白。作者公开完整提示词。",
+  "duration": 0,
+  "handle": "@Naiknelofar788",
+  "likes": 89,
+  "medium": "image",
+  "model": "GPT Image 2.5",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-20",
+  "prompt": "Create a beautiful, minimalist vintage travel journal cover titled “[CITY, COUNTRY]”, featuring the iconic landmark of [LANDMARK NAME].\n\nIllustrate the destination in a delicate, hand-painted style using loose watercolor brushstrokes and expressive ink sketches. Include the landmark surrounded by recognizable local architecture, charming streets, trees, cultural details, and subtle elements of everyday life that capture the unique character of the place.\n\nArt style: French vintage travel illustration, imperfect watercolor washes, loose botanical sketches, delicate ink lines, and an authentic handmade aesthetic.\n\nColor palette: Muted sage green, olive green, soft eucalyptus, warm ivory, pale beige, and subtle dusty pastel accents. Keep the colors natural, harmonious, and understated.\n\nComposition: Portrait-oriented travel journal cover on warm ivory paper, with the landmark as the central focal point. Leave generous negative space around the illustration, add softly scattered clouds and loosely painted foliage, and allow some brushstrokes to remain unfinished for an authentic artistic feel.\n\nTypography: Display the destination name, “[CITY / COUNTRY]”, vertically along one edge in elegant, understated lettering. Add a small vintage inscription at the bottom, such as “Carnet de Voyage”, along with a beautiful historical tagline: “Where History Lives in Every Stone.”\n\nTexture and finish: Matte paper grain, subtle vintage imperfections, delicate watercolor bleeding, fine ink details, and the appearance of a hand-painted illustration on a premium French stationery cover.\n\nOverall mood: Nostalgic, peaceful, artistic, timeless, and sophisticated—like a treasured travel diary discovered in an old Parisian bookshop.\n\nImportant: Preserve the landmark’s authentic architectural features and recognizable proportions. Avoid photorealism, 3D effects, glossy digital finishes, oversaturated colors, heavy outlines, and excessive detail. The final image should look naturally hand-painted, with a clean, elegant composition and a genuine vintage travel-journal Asthetic",
+  "promptSource": "正文",
+  "title": "复古旅行海报",
+  "url": "https://x.com/Naiknelofar788/status/2112390343023042585",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "旅行城市"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Vintage Travel Journal",
+  "desc_en": "Watercolour travel-journal covers of Rome and Tokyo with landmarks, vertical titles and generous white space; the full prompt is shared.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2112390343023042585",
+  "images": [
+   "img-x-2112390343023042585_2.jpg"
+  ]
+ },
+ {
+  "creator": "Timeless",
+  "desc": "白发少女与巨型骨骸，黑白色块和留白，像水墨漫画。",
+  "duration": 0,
+  "handle": "@Timeless_aiart",
+  "likes": 147,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-20",
+  "prompt": "",
+  "title": "心流",
+  "url": "https://x.com/Timeless_aiart/status/2112468123601514531",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫",
+    "国风水墨"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "紧张刺激"
+   ]
+  },
+  "title_en": "Flow State",
+  "desc_en": "A white-haired girl crouches under a giant skeletal beast in stark black-and-white blocks with ink-like negative space.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2112468123601514531"
+ },
+ {
+  "creator": "Viki",
+  "desc": "调色刀厚涂的湖景，云、树和倒影都堆出浮雕般的油彩肌理。作者公开完整提示词。",
+  "duration": 0,
+  "handle": "@churvikv",
+  "likes": 117,
+  "medium": "image",
+  "model": "GPT Image 2.5 Flare",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-21",
+  "prompt": "Impasto oil painting on coarse canvas, thick sculptural palette-knife paint standing in raised ridges, wide 16:9 panoramic composition, symmetrically mirrored scene. Edge to edge, no frame, no border.\n\nCONCEPT: a still lake splits the canvas dead centre into a perfect horizontal mirror line, the upper half the world and the lower half its exact rippled reflection.\n\nSKY upper: pale silver-white torn cloud banks of heavy thick knife-paint, their undersides shaded grey-cream, opening in the middle to a band of soft duck-egg turquoise and pale aqua. Low on the horizon, a warm blush of peach, apricot and faint rose glows behind a distant ridge.\n\nMOUNTAINS: a soft pale blue-lavender ridge sits in the centre distance, hazy and simple, its crest catching the warm horizon light.\n\nTREES: on both shores stand tall slender cypresses in deep teal-blue and near-black, their surface built from dense vertical knife-scrapes. Around them cluster rounded bushy trees in pale ice-blue and silvery turquoise. The trunks are dark and faint, and thin bare branches on the right shore rise against the sky. The tree masses crowd both banks symmetrically, framing the water.\n\nBANKS: narrow strips of pale silver-tan bank with fine grass strokes run along both sides at the waterline.\n\nWATER: the mirror surface is painted in long horizontal knife-drags, its colour a vivid saturated turquoise shading to deep indigo, with wide pale gold and peach patches where the horizon glow reflects.\n\nREFLECTION lower: every element repeats downward upside-down — the cypress spires pointing down, the bushy crowns as silvery fans, the sky as torn pale slabs, all of it smeared by horizontal knife ridges and broken into flat elongated flecks like floating debris.\n\nPALETTE: teal blue, turquoise, silver-white, pale aqua, slate, peach and apricot glow, near-black cypress. Heavy tactile ridges, matte glossy paint, serene and dreamlike, clean and unmarked.",
+  "promptSource": "正文",
+  "title": "厚涂静湖",
+  "url": "https://x.com/churvikv/status/2112858088373940495",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Impasto Still Lake",
+  "desc_en": "A palette-knife impasto painting of a mirrored lake with cypress trees and sunset clouds, the paint built up in raised ridges.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2112858088373940495"
+ },
+ {
+  "creator": "Harboris",
+  "desc": "上半部保留原照片，下半部转为炭笔素描海报，配手写排版，成套三张。",
+  "duration": 0,
+  "handle": "@harboriis",
+  "likes": 110,
+  "medium": "image",
+  "model": "GPT Image 2.5",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-22",
+  "prompt": "Create a high-resolution, vertical 2:3 editorial art poster using the uploaded reference photo.\n\nTOP HALF: Use the original photograph full bleed, preserving the subject's identity, appearance, natural lighting, and photographic quality. Crop carefully if needed. No borders or margins.\n\nBOTTOM HALF: On textured ivory paper, create a monochrome scratchboard illustration of only the main subject and essential accessories. Place a large, rough-edged black ink block in the center. The figure must be larger than the block, with roughly two-thirds inside it and the lower third breaking out onto the ivory paper. Add loose horizontal ink strokes beneath the feet for grounding.\n\nInside the black block, use fine white and light-grey etched linework. Outside it, continue the same figure in expressive black pen strokes on ivory. Ensure a seamless transition between both tonal styles. Avoid excessive hatching and unnecessary background details.\n\nCOLORS: The bottom half must use only black, white, and ivory, with subtle paper grain.\n\nTYPOGRAPHY: Use rough, upright handwritten lettering.\n\n- Top left: a 2 to 4 word title across two lines, followed by three short lowercase verbs separated by periods.\n- Top right: latitude and longitude on two lines only.\n- Bottom left: the location or theme followed by “DIARY.”, with a short descriptive sentence beneath.\n- Keep all typography black on ivory, natural and imperfect, never cursive.\n\nFINAL COMPOSITION: Exactly one standalone poster with two equal horizontal halves and one perfectly straight dividing line. Preserve the original subject's identity and proportions. Maintain generous negative space and a restrained, collectible editorial aesthetic, combining documentary photography with expressive hand-printed illustration. Print quality, 2:3 vertical aspect ratio.",
+  "promptSource": "正文",
+  "title": "照片转艺术海报",
+  "url": "https://x.com/harboriis/status/2113153634833993796",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "爱情青春"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ]
+  },
+  "title_en": "Photo to Art Poster",
+  "desc_en": "A couple on a carousel: the top half keeps the original photo, the bottom redraws it as a charcoal sketch poster with handwritten type.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2113153634833993796",
+  "images": [
+   "img-x-2113153634833993796_2.jpg",
+   "img-x-2113153634833993796_3.jpg"
+  ]
+ },
+ {
+  "creator": "Sgt Sref",
+  "desc": "铅笔线稿加红色粉笔涂色，穿红羽绒服的小动物。作者公开 sref 组合。",
+  "duration": 0,
+  "handle": "@sergeantsref",
+  "likes": 248,
+  "medium": "image",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-22",
+  "prompt": "--sref 3228970970 1953763635",
+  "promptSource": "正文",
+  "title": "红羽绒服小动物",
+  "url": "https://x.com/sergeantsref/status/2113171999816130833",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "宠物动物"
+   ],
+   "情绪": [
+    "轻松欢快",
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Little One in a Red Puffer",
+  "desc_en": "A pencil-sketched little white creature wearing an oversized red puffer jacket, coloured in loose red chalk strokes.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2113171999816130833",
+  "images": [
+   "img-x-2113171999816130833_2.jpg",
+   "img-x-2113171999816130833_3.jpg",
+   "img-x-2113171999816130833_4.jpg"
+  ]
+ },
+ {
+  "creator": "Umesh",
+  "desc": "沙漏、雨中街道、恐龙骨架都笼罩在紫蓝色水彩雾气里。作者公开 sref 代码。",
+  "duration": 0,
+  "handle": "@umesh_ai",
+  "likes": 40,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-22",
+  "prompt": "--sref 820221253",
+  "promptSource": "正文",
+  "title": "紫雾水彩",
+  "url": "https://x.com/umesh_ai/status/2113340259132125500",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Violet Watercolour Haze",
+  "desc_en": "An hourglass holding a tiny world, swirled by a galaxy in violet-blue watercolour mist; one sref ties a set of four images together.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2113340259132125500",
+  "images": [
+   "img-x-2113340259132125500_2.jpg",
+   "img-x-2113340259132125500_3.jpg",
+   "img-x-2113340259132125500_4.jpg"
+  ]
+ },
+ {
+  "creator": "Andy Masley",
+  "desc": "朴素民间画风格的新英格兰小镇秋景，红黄树林与白教堂。",
+  "duration": 0,
+  "handle": "@AndyMasley",
+  "likes": 175,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-22",
+  "prompt": "",
+  "title": "秋日民间画",
+  "url": "https://x.com/AndyMasley/status/2113399406880084035",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "自然风光",
+    "历史年代"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Autumn Folk Village",
+  "desc_en": "A naive folk-art painting of a New England town in autumn, with red and yellow trees around white clapboard houses and a church.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2113399406880084035"
+ },
+ {
+  "creator": "Keskin",
+  "desc": "大天使米迦勒与恶魔对决，金色羽翼、火焰和古典油画笔触。作者公开了 sref 代码。",
+  "duration": 0,
+  "handle": "@craftian_keskin",
+  "likes": 170,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-23",
+  "prompt": "--sref 1607710423",
+  "promptSource": "正文",
+  "title": "天使长米迦勒",
+  "url": "https://x.com/craftian_keskin/status/2113583209283813384",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Archangel Michael",
+  "desc_en": "Archangel Michael with vast golden wings stands over a winged demon amid flames, painted in classical oil with dramatic light.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2113583209283813384",
+  "images": [
+   "img-x-2113583209283813384_2.jpg",
+   "img-x-2113583209283813384_3.jpg",
+   "img-x-2113583209283813384_4.jpg"
+  ]
+ },
+ {
+  "creator": "MayorkingAI",
+  "desc": "扁平插画风的角色站在蓝色森林中，红色斗篷和图案布料很抢眼，作者公开 sref。",
+  "duration": 0,
+  "handle": "@MayorKingAI",
+  "likes": 44,
+  "medium": "image",
+  "model": "Midjourney 8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-23",
+  "prompt": "--sref 4265077435",
+  "promptSource": "正文",
+  "title": "红色森林巫女",
+  "url": "https://x.com/MayorKingAI/status/2113668770103238717",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "title_en": "Red Forest Witch",
+  "desc_en": "A flat-illustrated figure in a red coat holding a huge red mallet stands in a blue forest, flanked by hooded red shapes with glowing eyes.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2113668770103238717",
+  "images": [
+   "img-x-2113668770103238717_2.jpg",
+   "img-x-2113668770103238717_3.jpg",
+   "img-x-2113668770103238717_4.jpg"
+  ]
+ },
+ {
+  "creator": "Ege",
+  "desc": "80 年代胶片质感的生活瞬间：飞机、帆船、读报的年轻人。作者公开 sref 代码。",
+  "duration": 0,
+  "handle": "@egeberkina",
+  "likes": 113,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-23",
+  "prompt": "--sref 368009474",
+  "promptSource": "正文",
+  "title": "一点乡愁",
+  "url": "https://x.com/egeberkina/status/2113736563444289744",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "A Touch of Nostalgia",
+  "desc_en": "Eighties-film snapshots of everyday moments: a young man in a tan jacket looks up at a jet crossing a blue sky; one sref code.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2113736563444289744",
+  "images": [
+   "img-x-2113736563444289744_2.jpg",
+   "img-x-2113736563444289744_3.jpg",
+   "img-x-2113736563444289744_4.jpg"
+  ]
+ },
+ {
+  "creator": "Amira Zairi",
+  "desc": "经典恐怖片人物被处理成紫蓝色的运动模糊剪影，只剩下轮廓和气氛。",
+  "duration": 0,
+  "handle": "@azed_ai",
+  "likes": 53,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-24",
+  "prompt": "",
+  "title": "模糊的恐怖",
+  "url": "https://x.com/azed_ai/status/2114059853140316246",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "恐怖"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "title_en": "Blurred Horror",
+  "desc_en": "A classic horror-film figure dissolves into a violet-blue motion-blurred silhouette, leaving only outline and mood.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114059853140316246",
+  "images": [
+   "img-x-2114059853140316246_2.jpg",
+   "img-x-2114059853140316246_3.jpg",
+   "img-x-2114059853140316246_4.jpg"
+  ]
+ },
+ {
+  "creator": "Tatiana Tsiguleva",
+  "desc": "无尽延伸的服务器机房被拍成建筑摄影，暖橙灯点密布，最后一张是红色荒原上的一只羊。",
+  "duration": 0,
+  "handle": "@ciguleva",
+  "likes": 90,
+  "medium": "image",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-24",
+  "prompt": "",
+  "title": "服务器迷宫",
+  "url": "https://x.com/ciguleva/status/2114123036672794832",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "孤独忧郁",
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Server Labyrinth",
+  "desc_en": "An endless server hall shot like architectural photography, its grid dotted with warm orange lights; the series ends on a lone sheep on a red plain.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114123036672794832",
+  "images": [
+   "img-x-2114123036672794832_2.jpg",
+   "img-x-2114123036672794832_3.jpg",
+   "img-x-2114123036672794832_4.jpg"
+  ]
+ },
+ {
+  "creator": "あじずむ｜幻想視覚Lab",
+  "desc": "黑发少女与金色锁链、蓝色发丝，像浮世绘与当代插画的结合。",
+  "duration": 0,
+  "handle": "@ajishiai",
+  "likes": 90,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-24",
+  "prompt": "",
+  "title": "朝之记忆",
+  "url": "https://x.com/ajishiai/status/2114138461662007458",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Memory of Morning",
+  "desc_en": "A black-haired girl wrapped in golden chains and blue strands of hair, mixing ukiyo-e motifs with dense contemporary illustration.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114138461662007458",
+  "images": [
+   "img-x-2114138461662007458_2.jpg"
+  ]
+ },
+ {
+  "creator": "AlexandrIA",
+  "desc": "古怪的女巫、愤怒的吐司、骷髅和稻草人，复古童书插画风。作者公开 sref 代码。",
+  "duration": 0,
+  "handle": "@AleRVG",
+  "likes": 1053,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-25",
+  "prompt": "--sref 3146771930",
+  "promptSource": "正文",
+  "title": "待会再吓你",
+  "url": "https://x.com/AleRVG/status/2114307322453299544",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "喜剧搞笑"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Boo You Later",
+  "desc_en": "A wide-eyed witch holds a 'Lost Cat' sign in a storybook old town, part of a set with an angry toast, skeletons and scarecrows.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114307322453299544",
+  "images": [
+   "img-x-2114307322453299544_2.jpg",
+   "img-x-2114307322453299544_3.jpg",
+   "img-x-2114307322453299544_4.jpg"
+  ]
+ },
+ {
+  "creator": "MayorkingAI",
+  "desc": "赛博街头的角色立绘，黄紫撞色的服装和霓虹背景，作者公开 sref。",
+  "duration": 0,
+  "handle": "@MayorKingAI",
+  "likes": 48,
+  "medium": "image",
+  "model": "Midjourney 8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-25",
+  "prompt": "--sref 3283823617",
+  "promptSource": "正文",
+  "title": "霓虹街头角色",
+  "url": "https://x.com/MayorKingAI/status/2114341490780688552",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "赛博霓虹",
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "游戏电竞"
+   ],
+   "情绪": [
+    "热血燃"
+   ]
+  },
+  "title_en": "Neon Street Character",
+  "desc_en": "A white-haired, scarred character in a yellow-and-purple jacket against neon-lit cyberpunk streets, drawn as a character sheet.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114341490780688552",
+  "images": [
+   "img-x-2114341490780688552_2.jpg",
+   "img-x-2114341490780688552_3.jpg",
+   "img-x-2114341490780688552_4.jpg"
+  ]
+ },
+ {
+  "creator": "unseen",
+  "desc": "深蓝夜色里，骑马、骑豹的人与水面倒影上下对称，像波斯细密画遇上极简主义。",
+  "duration": 0,
+  "handle": "@unseenai",
+  "likes": 98,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-25",
+  "prompt": "",
+  "title": "夜色倒影骑行",
+  "url": "https://x.com/unseenai/status/2114440190341341467",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Night Ride Reflection",
+  "desc_en": "A rider in red on a white horse gallops under a crescent moon, mirrored perfectly in water on a deep blue night ground, like a Persian miniature.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114440190341341467",
+  "images": [
+   "img-x-2114440190341341467_2.jpg",
+   "img-x-2114440190341341467_3.jpg",
+   "img-x-2114440190341341467_4.jpg"
+  ]
+ },
+ {
+  "creator": "Zidan 子丹",
+  "desc": "青花瓷色调的东方神女，衣袂与浪花缠绕成漩涡。作者公开完整提示词。",
+  "duration": 0,
+  "handle": "@liluocheng13",
+  "likes": 205,
+  "medium": "image",
+  "model": "GPT Image (ChatGPT)",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "An extraordinary masterpiece of Chinese mythological fantasy fine art, an exquisitely beautiful young Chinese celestial maiden floating gracefully among blooming cherry blossom trees and flying white cranes.\n\nA breathtaking low-angle cinematic composition, full-body portrait, dramatic upward perspective, monumental flowing silk robes occupying the entire frame.\n\nThe young woman has an extraordinarily delicate East Asian face, luminous porcelain skin with realistic natural texture, soft crimson lips, elegant almond-shaped eyes, subtle peach-red eyeshadow, and a serene, melancholic, aristocratic expression.\n\nHer dark hair is arranged in an elaborate traditional Chinese imperial updo, adorned with an extravagant three-dimensional floral crown made of ivory blossoms, sapphire-blue flowers, intricate golden filigree, delicate silver ornaments, and long dangling pearl tassels.\n\nShe wears an extraordinarily luxurious Chinese-inspired haute couture hanfu gown in deep sapphire blue, antique ivory, porcelain white, and champagne gold.\n\nThe magnificent gown is covered with thousands of intricate three-dimensional embroidered peonies, delicate ivory blossoms, blue silk flowers, golden botanical ornaments, sculptural floral appliqués, and elaborate metallic embroidery.\n\nEnormous flowing sleeves, multiple layers of translucent ivory silk, richly embroidered blue brocade, cascading ribbons, and dramatic swirling fabric extending across the entire composition.\n\nThe luxurious silk appears almost weightless, billowing dramatically in the wind, creating magnificent sculptural curves and intricate organic folds.\n\nBoth hands are raised gracefully in front of her chest and face, performing an elegant traditional Chinese dance gesture.\n\nBoth hands clearly visible, exactly five anatomically correct fingers on each hand, ten delicate slender fingers in total, naturally separated fingers, elegant feminine hand proportions, realistic knuckles, correct thumb placement, graceful wrists, anatomically accurate joints, natural finger curvature, no overlapping or fused fingers.\n\nSurrounding her are magnificent ancient flowering trees covered with countless delicate ivory-white blossoms.\n\nSeveral elegant white cranes with black-tipped wings and subtle crimson crowns fly gracefully through the scene, their wings dramatically extended.\n\nThousands of tiny flower petals float through the atmosphere, illuminated by soft golden sunlight.\n\nA vast muted dusty-blue sky provides a sophisticated atmospheric background.\n\nExtraordinary dynamic composition, powerful diagonal movement, dramatic fabric motion, elegant asymmetry, magnificent visual rhythm, breathtaking sense of scale.\n\nSophisticated color palette of sapphire blue, porcelain white, antique ivory, muted powder blue, champagne gold, and delicate warm skin tones.\n\nSoft directional sunlight, luminous atmospheric depth, delicate rim lighting, subtle volumetric illumination, realistic textile reflections, refined cinematic color grading.\n\nA sophisticated fusion of Chinese classical imperial aesthetics, contemporary haute couture photography, European Old Master painting, and Japanese fantasy illustration.\n\nExtraordinary painterly details, intricate embroidery, realistic silk textures, delicate floral craftsmanship, natural human anatomy, subtle film grain, cinematic depth of field.\n\nRendered in the aesthetic of Midjourney V8.2, extraordinarily refined painterly realism, breathtaking visual complexity, luxurious artistic craftsmanship, elegant cinematic lighting.\n\nNo plastic skin, no excessive beauty retouching, no deformed hands, no extra fingers, no fused fingers, no distorted anatomy, no text, no watermark.\n\nratio 9:16",
+  "promptSource": "正文",
+  "title": "东方神话瓷韵",
+  "url": "https://x.com/liluocheng13/status/2114562925524664380",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "中式"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Porcelain Goddess",
+  "desc_en": "A Chinese celestial maiden in blue-and-white porcelain robes, her sleeves swirling into waves among cherry blossoms and cranes.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114562925524664380"
+ },
+ {
+  "creator": "Oogie",
+  "desc": "把人像照片转成针织材质的定格动画玩偶胸像，毛线纹理和表情都很细。",
+  "duration": 0,
+  "handle": "@oggii_0",
+  "likes": 323,
+  "medium": "image",
+  "model": "GPT Image 2.5",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "Task: Create a 1:1 Square 3D Textile Art Toy Bust from the Attached Real Photograph\n\nUse the attached real photograph to create a square 1:1, stylized 3D textile art toy bust. Interpret the inputs by their roles: the real photograph is the source of identity and content, while the minimalist white-background toy image is the style reference. Their order does not matter.\n\nPreserve the subject’s identity, facial expression, pose, and spatial relationships between objects. Reconstruct the subject as an exaggerated, humorous designer collectible toy. Do not apply a simple fuzzy or plush filter to the original photograph.\n\n## 1. Style Reference\n\nBorrow only these visual characteristics from the reference image:\n\n- An oversized, horizontally broad head with rounded corners.\n- Extremely small, centrally concentrated facial features with generous facial negative space.\n- Sculptural knitted forms, clustered yarn shapes, and soft textile construction.\n- Subtle asymmetry for a handmade, designer-toy appearance.\n- Contrast between fine-grained flocked surfaces and chunky knitted textures.\n- A deliberate primary and accent color hierarchy.\n- Clean, minimalist white studio photography.\n\nDo not inherit the reference character’s body, pose, hairstyle, hat, glasses, clothing, props, or colors.\n\n## 2. Subject and Identity Preservation\n\nThe real photograph is the exclusive source of visible content. Reproduce only the body parts, hairstyle, clothing, accessories, objects, poses, and contact relationships that are actually visible in the original image. Never invent or complete details that extend beyond the photograph.\n\nIdentify 2–5 distinctive identity anchors from the source image. Exaggerate 1–2 of them while simplifying the remaining details to maintain recognizability.\n\n- **Head:** Transform it into a broad, thick, rounded rectangular block or a short cylindrical form with softened corners.\n- **Eyes:** Use tiny black beads or capsule-shaped forms.\n- **Nose:** Reduce it to a small, rounded rectangular block.\n- **Mouth:** Preserve the original expression using a short line or a small opening, as appropriate.\n- **Hair:** Reconstruct it as large yarn loops, chunky knitted clusters, or sculptural bundles of wool.\n- **Hands:** Strictly preserve the number of visible hands. If no hands are visible, add none. If one hand is visible, reproduce only one. Preserve its orientation, sleeve cuff, and contact with the original object.\n- **Text and logos:** Convert any visible lettering or branding into illegible woven or knitted texture rather than readable text.\n\n## 3. Composition\n\nCreate a compact, close-up head-and-shoulders composition.\n\n- The head should occupy approximately 75–90% of the image width.\n- Compress the body into a small supporting form, retaining only the essential visible pose, gestures, and objects.\n- Allow elements to be cropped by the image boundaries when necessary.\n- Do not add body parts or anatomy extending beyond the original photograph.\n- Maintain a clear silhouette and recognizable relationships between the subject and any visible objects.\n\n## 4. Visual Style\n\n**Stylized 3D textile art toy, oversized head, tiny concentrated facial features, sculptural knitted forms, micro-flocked surfaces.**\n\nPrioritize abstract exaggeration over photorealism while preserving recognizability through the subject’s silhouette, hairstyle, facial expression, pose, clothing, and visible objects.\n\nThe result should feel like a thoughtfully designed, premium collectible art toy rather than a conventional 3D cartoon character.\n\n## 5. Color Palette\n\nAutomatically develop a cohesive palette of 3–5 colors, including:\n\n- A dominant primary color.\n- A contrasting accent color with a clear difference in temperature or brightness.\n- One or more supporting colors.\n- A neutral color for balance.\n\nNon-identity-defining elements may be recolored to improve visual harmony. Preserve the essential identity cues of the original subject while avoiding monotonous palettes, excessive neutrals, evenly distributed rainbow colors, or repetitive mechanical stripes.\n\n## 6. Materials, Texture, and Lighting\n\nUse distinct textile treatments for different surfaces:\n\n- **Face, hands, and small components:** Fine, dense micro-flocked or short-fiber felt surfaces.\n- **Hair, hats, and clothing:** Chunky knitting, crochet structures, large yarn loops, and clustered wool forms, applied only where those elements exist in the original photograph.\n\nCreate visible material contrast between the fine-grained felt and the coarser knitted structures. The surfaces should appear sculpted from real textile materials, not covered with a generic fuzzy filter.\n\nUse a subtly warm-white seamless background, soft high-key studio lighting, gentle highlights, and short, delicate shadows. Keep the presentation clean, bright, and premium.\n\n## 7. Strict Exclusions\n\n- No photorealistic eyeballs, detailed nostrils, realistic lips, natural skin texture, or individual hair strands.\n- No copying the reference character’s identity or distinctive design elements.\n- No invented body parts, hand gestures, accessories, clothing, or props absent from the source photograph.\n- No conventional 3D cartoon aesthetics.\n- No plastic, polymer clay, wax figure, or long-pile plush appearance.\n- No readable text, logos, or branding.\n- No rooms, environmental scenes, or complex backgrounds.\n- No generic fuzzy overlay that obscures the underlying sculptural textile construction.\n\n## Final Priority\n\n**The source photograph determines WHAT is depicted. The style reference determines HOW it is depicted.**\n\nDeliver a polished, humorous, exaggerated 1:1 square 3D textile art toy bust with a distinctive oversized head, tiny facial features, sculptural yarn construction, contrasting textile textures, a deliberate color palette, and clean white studio lighting. Preserve the original subject’s identity and visible content without inventing anything beyond the photographic evidence.",
+  "promptSource": "正文",
+  "title": "针织定格人偶",
+  "url": "https://x.com/oggii_0/status/2114585881059459119",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "黏土定格",
+    "3D卡通"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Knitted Stop-Motion Doll",
+  "desc_en": "A portrait photo turned into a knitted textile toy bust in a cap, with yarn hair and rosy cheeks; the full prompt is shared.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114585881059459119",
+  "images": [
+   "img-x-2114585881059459119_2.jpg",
+   "img-x-2114585881059459119_3.jpg"
+  ]
+ },
+ {
+  "creator": "James Yeung",
+  "desc": "日式房间里沉睡的女子，冷蓝光线和斜射的窗光，像电影剧照。作者谈到人体结构的筛选成本。",
+  "duration": 0,
+  "handle": "@jamesyeung18",
+  "likes": 68,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "",
+  "title": "榻榻米上的睡眠",
+  "url": "https://x.com/jamesyeung18/status/2114639314709782747",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Sleeping on Tatami",
+  "desc_en": "A woman sleeps on a tatami floor in cold blue light with slanting window shadows, framed like a film still.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114639314709782747",
+  "images": [
+   "img-x-2114639314709782747_2.jpg",
+   "img-x-2114639314709782747_3.jpg",
+   "img-x-2114639314709782747_4.jpg"
+  ]
+ },
+ {
+  "creator": "Beanie Blossom",
+  "desc": "穿芥末黄毛衣的小老鼠在落叶堆里，绘本油画质感。作者公开完整提示词。",
+  "duration": 0,
+  "handle": "@BeanieBlossom",
+  "likes": 101,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "A tiny mouse in a mustard-yellow knitted cardigan discovering a fallen coat button among autumn leaves, holding it up like a precious treasure, a small satchel already filled with colourful buttons slung across its body, low woodland perspective, curled leaves and delicate mushrooms towering overhead, beautiful storybook watercolour with fine pencil details, warm russet, moss green and soft gold, expressive character, a cheerful sense of discovery.",
+  "promptSource": "正文",
+  "title": "秋叶里的小老鼠",
+  "url": "https://x.com/BeanieBlossom/status/2114643454026490254",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "宠物动物"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Mouse in Autumn Leaves",
+  "desc_en": "A tiny mouse in a mustard knitted cardigan holds up a found button among fallen leaves, a satchel of colourful buttons at its side.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114643454026490254"
+ },
+ {
+  "creator": "OscarAI",
+  "desc": "粗墨线、网点和复古印刷色的漫画人物肖像，作者公开 sref 代码。",
+  "duration": 0,
+  "handle": "@Artedeingenio",
+  "likes": 108,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "--sref 351467440",
+  "promptSource": "正文",
+  "title": "复古漫画风",
+  "url": "https://x.com/Artedeingenio/status/2114713928420950150",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ]
+  },
+  "title_en": "Retro Comic Style",
+  "desc_en": "A close-up comic portrait of a blonde woman with red lips, in bold ink lines and vintage print colours; one sref code.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114713928420950150",
+  "images": [
+   "img-x-2114713928420950150_2.jpg",
+   "img-x-2114713928420950150_3.jpg",
+   "img-x-2114713928420950150_4.jpg"
+  ]
+ },
+ {
+  "creator": "Olga Volosin",
+  "desc": "古典建筑与悬崖被荧光色的手绘线条和色卡侵入，像拼贴艺术。作者公开 sref。",
+  "duration": 0,
+  "handle": "@OVolosin82152",
+  "likes": 240,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "--sref 2637540467",
+  "promptSource": "正文",
+  "title": "建筑与色彩溢出",
+  "url": "https://x.com/OVolosin82152/status/2114731451052958032",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "旅行城市"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "title_en": "Architecture and Colour Spill",
+  "desc_en": "A classical building on a cliff invaded by fluorescent hand-drawn lines, a grid and a colour-swatch chart, like a mixed-media collage.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114731451052958032",
+  "images": [
+   "img-x-2114731451052958032_2.jpg",
+   "img-x-2114731451052958032_3.jpg",
+   "img-x-2114731451052958032_4.jpg"
+  ]
+ },
+ {
+  "creator": "𝐙𝐞𝐧𝐠 💜",
+  "desc": "女孩缩在一座粉紫色的玩偶屋里，复古胶片质感。作者写了创作意图。",
+  "duration": 0,
+  "handle": "@zeng_wt",
+  "likes": 4,
+  "medium": "image",
+  "model": "Recraft V4.1 Pro",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "",
+  "title": "不肯离开的玩偶屋",
+  "url": "https://x.com/zeng_wt/status/2114735651455152196",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "胶片复古",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "The Dollhouse She Won't Leave",
+  "desc_en": "A girl with long braids huddles inside a pink-and-lilac dollhouse frame in a fluffy coat, with faded vintage-film colour.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114735651455152196"
+ },
+ {
+  "creator": "Kadir(Hayalet)",
+  "desc": "黄色重型运输舰降落在沙漠，扬起尘雾，三个宇航员站在前景。",
+  "duration": 0,
+  "handle": "@hayalet_kadir",
+  "likes": 250,
+  "medium": "image",
+  "model": "Flux",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "",
+  "title": "荒漠运输舰",
+  "url": "https://x.com/hayalet_kadir/status/2114847851922456691",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "游戏CG",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Desert Hauler",
+  "desc_en": "A heavy yellow-and-white transport ship lands in the desert, kicking up dust, while three astronauts stand in the foreground.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2114847851922456691"
+ },
+ {
+  "creator": "OscarAI",
+  "desc": "欧洲漫画风的巨型机械与宇航员，粉蓝配色，作者公开 sref 代码。",
+  "duration": 0,
+  "handle": "@Artedeingenio",
+  "likes": 16,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-27",
+  "prompt": "--sref 2216798544",
+  "promptSource": "正文",
+  "title": "莫比斯风科幻",
+  "url": "https://x.com/Artedeingenio/status/2115036371433746647",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Moebius-Style Sci-Fi",
+  "desc_en": "Astronauts walk toward a colossal ring-shaped ruined machine under a pale blue sky, in Moebius-like ligne-claire comic style.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2115036371433746647",
+  "images": [
+   "img-x-2115036371433746647_2.jpg",
+   "img-x-2115036371433746647_3.jpg",
+   "img-x-2115036371433746647_4.jpg"
+  ]
+ },
+ {
+  "creator": "Leiko Tar",
+  "desc": "老人在暗处双手合十，蓝与金的厚涂笔触。",
+  "duration": 0,
+  "handle": "@LeikoTar",
+  "likes": 172,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-27",
+  "prompt": "",
+  "title": "守护我们的手",
+  "url": "https://x.com/LeikoTar/status/2115037256666992745",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "亲情"
+   ],
+   "情绪": [
+    "催泪伤感",
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Hands That Keep Us",
+  "desc_en": "An elderly woman in shadow presses her hands together in prayer, painted in thick blue and gold strokes.",
+  "addedAt": "2026-10-27T11:55:23",
+  "id": "img-x-2115037256666992745"
  }
 ]

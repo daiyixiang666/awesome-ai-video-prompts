@@ -12,6 +12,45 @@ A human-curated index of top-tier AI-generated short clips from X, TikTok and Do
 Takedown / contact: yixiang@umich.edu — works are removed promptly at the rights holder's request.
 
 ## Works with prompts
+- [Rainbow Silhouette](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2104278802683851083.html): Midjourney by 🇸🇦 AREEJ AlTHAQAFI
+- [Boo You Later](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2114307322453299544.html): AI video by AlexandrIA
+- [Blooming Within You](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2108370798532771912.html): Midjourney v8.2 by 🇸🇦 AREEJ AlTHAQAFI
+- [Mediterranean Village](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2108905110139212188.html): Midjourney by Glitter Gal
+- [Sunday Mode](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2104152101375070227.html): AI video by Ege
+- [Street Editorial](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2109123213351632977.html): Nano Banana 2.1 by K
+- [Blue-and-White Opera Diva](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2108188790733132102.html): GPT Image (ChatGPT) by Zidan 子丹
+- [Woodcut Troll](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2103447104303849669.html): Midjourney by Michael Rabone
+- [Knitted Stop-Motion Doll](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2114585881059459119.html): GPT Image 2.5 by Oogie
+- [Water Town Scroll](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2108201525411738066.html): Midjourney by Glitter Gal
+- [Magenta Fade](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2109058858794836139.html): Midjourney by Lloyd Creates
+- [Photo to Watercolor](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2109118256045002828.html): GPT Image 2.5 by Ziha
+- [Subway](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2109342100659769832.html): AI video by Gizem Akdag
+- [Little One in a Red Puffer](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2113171999816130833.html): AI video by Sgt Sref
+- [Architecture and Colour Spill](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2114731451052958032.html): AI video by Olga Volosin
+- [Quiet Layers](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2109613826228273197.html): Midjourney by Ahmed
+- [Porcelain Goddess](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2114562925524664380.html): GPT Image (ChatGPT) by Zidan 子丹
+- [A Girl and Her Big Cat](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2109061640142651805.html): Niji (Midjourney) by 夢職人
+- [Archangel Michael](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2113583209283813384.html): AI video by Keskin
+- [The Green Valley](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2111717163279237503.html): AI video by Sgt Sref
+- [Leaping Swordswoman](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2112132620100215038.html): Midjourney v8.2 by Kōda
+- [Ordinary Beings](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2103447765745291614.html): Midjourney by Ahmed
+- [Impasto Still Lake](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2112858088373940495.html): GPT Image 2.5 Flare by Viki
+- [Little Witch in Flight](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2106638080685834407.html): Midjourney v8.2 by Kōda
+- [The Surprise](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2107796081669022031.html): AI video by AlexandrIA
+- [A Touch of Nostalgia](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2113736563444289744.html): AI video by Ege
+- [Photo to Art Poster](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2113153634833993796.html): GPT Image 2.5 by Harboris
+- [Retro Comic Style](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2114713928420950150.html): Midjourney by OscarAI
+- [Dance of the Black Wind](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2107788094527135794.html): Midjourney by Michael Rabone
+- [Mouse in Autumn Leaves](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2114643454026490254.html): AI video by Beanie Blossom
+- [Vintage Travel Journal](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2112390343023042585.html): GPT Image 2.5 by simeon-sanai
+- [Minimal Landscape Poster](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2111380726847557775.html): GPT Image 2 by Taaruk
+- [Monster and the Woman](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2110795911559594064.html): AI video by Brian 🎨 Bri Guy AI
+- [Neon Street Character](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2114341490780688552.html): Midjourney 8.2 by MayorkingAI
+- [Ink Lines and Sunlight](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2107803125973200921.html): Midjourney V8 by Carolina Delgado
+- [Red Forest Witch](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2113668770103238717.html): Midjourney 8.2 by MayorkingAI
+- [Violet Watercolour Haze](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2113340259132125500.html): Midjourney by Umesh
+- [Monster and Chainsaw Girl](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2112226391370367019.html): AI video by Brian 🎨 Bri Guy AI
+- [Moebius-Style Sci-Fi](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2115036371433746647.html): Midjourney by OscarAI
 - [Street Race on Set](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2107572909086761325.html): Seedance 2.5 by Rory Flynn
 - [City Turned White Overnight](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2107345257495138416.html): Seedance 2.5 by Nawal
 - [Seoul's First Snow](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2106251329085874184.html): Seedance 2.5 by Nawal
@@ -120,73 +159,73 @@ Takedown / contact: yixiang@umich.edu — works are removed promptly at the righ
 - [Milo Unboxing ASMR](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2076202198888022135.html): GPT Image 2 + Seedance 2.0 by Ciri
 
 ## Tags
+- [Cinematic realism / 写实电影感](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/cinematic-realism.html): 92 works
+- [No specific region / 无明显地域](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/no-region.html): 90 works
 - [Multi-shot edit / 多镜头剪辑](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/technique/multi-shot.html): 86 works
-- [Cinematic realism / 写实电影感](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/cinematic-realism.html): 81 works
-- [No specific region / 无明显地域](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/no-region.html): 65 works
+- [Daily life / 日常生活](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/daily-life.html): 62 works
+- [Heartwarming / 温暖治愈](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/heartwarming.html): 61 works
 - [Narrative short / 叙事短片](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/use/short-film.html): 60 works
-- [Daily life / 日常生活](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/daily-life.html): 51 works
-- [Heartwarming / 温暖治愈](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/heartwarming.html): 47 works
-- [Japanese / 日系](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/japanese.html): 41 works
-- [Lighthearted / 轻松欢快](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/lighthearted.html): 41 works
-- [Lonely / melancholy / 孤独忧郁](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/melancholy.html): 39 works
+- [Lonely / melancholy / 孤独忧郁](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/melancholy.html): 56 works
+- [Japanese / 日系](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/japanese.html): 50 works
+- [Lighthearted / 轻松欢快](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/lighthearted.html): 48 works
+- [Fantasy / myth / 奇幻神话](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/fantasy-myth.html): 46 works
+- [European / 欧洲](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/european.html): 45 works
+- [Epic / 史诗壮阔](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/epic.html): 38 works
 - [Vlog / vlog](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/use/vlog.html): 38 works
-- [European / 欧洲](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/european.html): 35 works
-- [Documentary handheld / 纪实手持](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/documentary-handheld.html): 31 works
-- [Fantasy / myth / 奇幻神话](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/fantasy-myth.html): 30 works
-- [Epic / 史诗壮阔](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/epic.html): 28 works
+- [Surreal / dreamcore / 超现实梦境](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/surreal-dream.html): 35 works
+- [American / 美式](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/american.html): 34 works
+- [Film / retro / 胶片复古](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/film-retro.html): 33 works
+- [Commercial / ad look / 广告大片](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/commercial.html): 32 works
+- [Documentary handheld / 纪实手持](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/documentary-handheld.html): 32 works
+- [Travel / city / 旅行城市](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/travel-city.html): 29 works
+- [Fashion / beauty / 时尚美妆](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/fashion-beauty.html): 28 works
 - [One-take / 一镜到底](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/technique/one-take.html): 28 works
-- [Film / retro / 胶片复古](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/film-retro.html): 28 works
-- [American / 美式](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/american.html): 27 works
-- [Commercial / ad look / 广告大片](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/commercial.html): 26 works
-- [Tense / thrilling / 紧张刺激](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/tense.html): 25 works
-- [Romance / youth / 爱情青春](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/romance-youth.html): 24 works
-- [Travel / city / 旅行城市](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/travel-city.html): 23 works
-- [Surreal / dreamcore / 超现实梦境](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/surreal-dream.html): 21 works
+- [Romance / youth / 爱情青春](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/romance-youth.html): 27 works
+- [Tense / thrilling / 紧张刺激](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/tense.html): 27 works
+- [Romantic / 浪漫心动](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/romantic.html): 22 works
+- [Nature / landscape / 自然风光](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/nature.html): 22 works
+- [Watercolor storybook / 水彩绘本](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/watercolor-storybook.html): 21 works
+- [Sci-fi / 科幻](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/sci-fi.html): 20 works
+- [Hype / adrenaline / 热血燃](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/hype.html): 20 works
 - [Product / 产品](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/product.html): 20 works
-- [Fashion / beauty / 时尚美妆](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/fashion-beauty.html): 20 works
-- [Romantic / 浪漫心动](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/romantic.html): 18 works
+- [Historical / period / 历史年代](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/historical.html): 19 works
+- [Eerie / unsettling / 诡异不安](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/eerie.html): 18 works
+- [Game CG / 游戏CG](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/game-cg.html): 18 works
 - [Ad / TVC / 广告TVC](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/use/tvc.html): 18 works
-- [Nature / landscape / 自然风光](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/nature.html): 17 works
 - [Korean / 韩系](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/korean.html): 17 works
-- [Historical / period / 历史年代](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/historical.html): 16 works
+- [Anime / 日系动漫](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/anime.html): 16 works
 - [First-person POV / 第一人称](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/technique/pov.html): 16 works
-- [Hype / adrenaline / 热血燃](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/hype.html): 15 works
+- [Chinese / 中式](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/chinese.html): 15 works
+- [Pets / animals / 宠物动物](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/animals.html): 14 works
 - [Sports / extreme / 运动极限](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/sports-extreme.html): 14 works
 - [Micro-expression close-up / 微表情特写](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/technique/micro-expression.html): 14 works
-- [Game CG / 游戏CG](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/game-cg.html): 14 works
+- [Comedy / 喜剧搞笑](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/comedy.html): 13 works
+- [Other regions / 其他地域](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/other-region.html): 12 works
 - [Transformation transition / 变身转场](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/technique/transformation-transition.html): 12 works
 - [Character consistency / 角色一致性](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/technique/character-consistency.html): 12 works
-- [Chinese / 中式](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/chinese.html): 12 works
-- [Comedy / 喜剧搞笑](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/comedy.html): 12 works
-- [Sci-fi / 科幻](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/sci-fi.html): 11 works
 - [Slow motion / 慢动作](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/technique/slow-motion.html): 11 works
+- [Martial arts / action / 武侠打斗](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/martial-arts-action.html): 10 works
 - [Demo / tutorial / 演示教程](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/use/demo-tutorial.html): 10 works
-- [Martial arts / action / 武侠打斗](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/martial-arts-action.html): 9 works
-- [Pets / animals / 宠物动物](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/animals.html): 9 works
+- [Black and white / 黑白影像](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/black-and-white.html): 9 works
 - [Thriller / mystery / 悬疑惊悚](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/thriller.html): 9 works
-- [Eerie / unsettling / 诡异不安](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/eerie.html): 9 works
 - [Food / 美食](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/food.html): 9 works
-- [Black and white / 黑白影像](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/black-and-white.html): 8 works
+- [3D cartoon / 3D卡通](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/3d-cartoon.html): 8 works
+- [Tearjerker / 催泪伤感](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/tearjerker.html): 8 works
 - [Trailer / 预告片](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/use/trailer.html): 8 works
-- [3D cartoon / 3D卡通](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/3d-cartoon.html): 7 works
 - [Meme / sketch / 梗段子](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/use/meme-sketch.html): 7 works
-- [Tearjerker / 催泪伤感](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/mood/tearjerker.html): 7 works
 - [Music video / MV](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/use/music-video.html): 6 works
-- [Watercolor storybook / 水彩绘本](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/watercolor-storybook.html): 4 works
+- [Automotive / 汽车](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/automotive.html): 4 works
+- [Horror / 恐怖](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/horror.html): 4 works
+- [Cyberpunk neon / 赛博霓虹](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/cyberpunk-neon.html): 4 works
 - [Orbit shot / 环绕运镜](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/technique/orbit-shot.html): 4 works
 - [Storyboard grid / 宫格分镜](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/technique/storyboard-grid.html): 4 works
 - [Beat-synced edit / 卡点节奏](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/technique/beat-sync.html): 4 works
-- [Cyberpunk neon / 赛博霓虹](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/cyberpunk-neon.html): 3 works
-- [Anime / 日系动漫](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/anime.html): 3 works
-- [Chinese ink / guofeng / 国风水墨](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/chinese-ink.html): 2 works
-- [Automotive / 汽车](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/automotive.html): 2 works
-- [Other regions / 其他地域](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/other-region.html): 2 works
+- [Family / 亲情](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/family.html): 3 works
+- [Chinese ink / guofeng / 国风水墨](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/chinese-ink.html): 3 works
+- [Claymation / stop-motion / 黏土定格](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/claymation.html): 2 works
+- [Gaming / 游戏电竞](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/gaming.html): 2 works
 - [Disaster / 灾难](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/disaster.html): 2 works
-- [Horror / 恐怖](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/horror.html): 2 works
-- [Family / 亲情](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/family.html): 2 works
 - [Dialogue / lip-sync / 对白口型](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/technique/dialogue-lipsync.html): 2 works
 - [Time freeze / reverse / 时间冻结倒放](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/technique/time-freeze-reverse.html): 2 works
 - [Music / dance / 音乐舞蹈](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/music-dance.html): 2 works
-- [Claymation / stop-motion / 黏土定格](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/style/claymation.html): 1 works
 - [Hong Kong / 港风](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/region/hong-kong.html): 1 works
-- [Gaming / 游戏电竞](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/t/genre/gaming.html): 1 works
