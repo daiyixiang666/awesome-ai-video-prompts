@@ -6964,5 +6964,1257 @@
   "addedAt": "2026-10-27T11:26:59",
   "id": "web-2112547859333877852",
   "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2112547859333877852.mp4"
+ },
+ {
+  "creator": "Brian Gruber",
+  "desc": "浏览器实时WebGPU程序化山湖世界，可一键切换为印象派笔触渲染，四季与昼夜动态可调，湖面会结冰。",
+  "duration": 31,
+  "handle": "@gruberbuilds",
+  "likes": 416,
+  "made_with": "Opus 5.5 (Claude)",
+  "medium": "web",
+  "model": "Opus 5.5 (Claude)",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-06",
+  "prompt": "",
+  "stack": [
+   "WebGPU"
+  ],
+  "title": "印象派3D世界",
+  "url": "https://x.com/gruberbuilds/status/2107285581109547516",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Impressionist Mountain Lake",
+  "desc_en": "A real-time WebGPU procedural world of mountains and a lake that switches between realistic and impressionist brushstroke rendering, with adjustable seasons, time of day and a freezing lake surface.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "web-2107285581109547516",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2107285581109547516.mp4"
+ },
+ {
+  "creator": "Ainthropos",
+  "desc": "Opus 5.5一次性运行24小时，借Blender MCP自建模型，在three.js里生成可漫游的雨夜霓虹街区，无外部素材。",
+  "duration": 31,
+  "handle": "@Ainthropos",
+  "likes": 1797,
+  "made_with": "Opus 5.5 (Claude) + Blender MCP",
+  "medium": "web",
+  "model": "Opus 5.5 (Claude) + Blender MCP",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-12",
+  "prompt": "",
+  "stack": [
+   "three.js"
+  ],
+  "title": "一次成型霓虹城",
+  "url": "https://x.com/Ainthropos/status/2109718931409699043",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "赛博霓虹"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻",
+    "旅行城市"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Neon City in One Run",
+  "desc_en": "A walkable rainy-night neon street in three.js, built in a single 24-hour autonomous run where the model also made its own assets through Blender MCP.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "web-2109718931409699043",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2109718931409699043.mp4"
+ },
+ {
+  "creator": "gokaygokay",
+  "desc": "把一段20秒视频交给Opus 5.5，它重建为单个156KB的GLSL片段着色器：无纹理无帧，纯数学无缝循环。",
+  "duration": 31,
+  "handle": "@gokayfem",
+  "likes": 1508,
+  "live_url": "https://shadertoy.com/view/s3cSDX",
+  "made_with": "Claude Opus 5.5",
+  "medium": "web",
+  "model": "Claude Opus 5.5",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-18",
+  "prompt": "",
+  "repo_url": "https://github.com/gokayfem/shader-skills",
+  "stack": [
+   "GLSL",
+   "Shadertoy"
+  ],
+  "title": "视频转着色器",
+  "url": "https://x.com/gokayfem/status/2111907592129671505",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "3D卡通"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "旅行城市"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Video Into Shader",
+  "desc_en": "A 20-second animated clip of a character walking a storybook street, rebuilt as a single 156KB GLSL fragment shader that loops with no textures or frames.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "web-2111907592129671505",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2111907592129671505.mp4"
+ },
+ {
+  "creator": "Techartist",
+  "desc": "一本可交互的3D立体书：翻开书页，弹出装置演示动能、势能、效率等十课GCSE能量知识，学生可预测、实验、验证。",
+  "duration": 30.06,
+  "handle": "@techartist_",
+  "likes": 2776,
+  "live_url": "https://iamtechartist.com/every-joule/",
+  "made_with": "Opus 5.5 (Claude)",
+  "medium": "web",
+  "model": "Opus 5.5 (Claude)",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-24",
+  "prompt": "",
+  "stack": [
+   "three.js",
+   "WebGL"
+  ],
+  "title": "会动的能量之书",
+  "url": "https://x.com/techartist_/status/2114035463153742180",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "产品"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "The Pop-Up Energy Book",
+  "desc_en": "An interactive 3D pop-up book whose pages unfold paper mechanisms teaching ten GCSE energy lessons; students predict, experiment and check results.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "web-2114035463153742180",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2114035463153742180.mp4"
+ },
+ {
+  "creator": "Leon Lin",
+  "desc": "610万网格的真实三维燃烧模拟，火焰颜色由黑体辐射计算，外加火星与余烬，全程无素材无音频文件。",
+  "duration": 20.01,
+  "handle": "@LexnLin",
+  "likes": 692,
+  "made_with": "Opus 5.5 (Claude)",
+  "medium": "web",
+  "model": "Opus 5.5 (Claude)",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-25",
+  "prompt": "",
+  "repo_url": "https://github.com/Leonxlnx/procedural-fire",
+  "stack": [
+   "WebGPU",
+   "WGSL"
+  ],
+  "title": "物理篝火",
+  "url": "https://x.com/LexnLin/status/2114370856810107201",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Physics Campfire",
+  "desc_en": "A 6.1-million-cell 3D combustion simulation of a campfire in the browser, with flame color from blackbody radiation plus sparks and embers, using no asset files.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "web-2114370856810107201",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2114370856810107201.mp4"
+ },
+ {
+  "creator": "Nawal",
+  "desc": "首尔小巷的初雪，女孩冲出家门在雪中打转、捧雪。",
+  "duration": 30.1,
+  "handle": "@nawalsehar",
+  "likes": 227,
+  "medium": "video",
+  "model": "Seedance 2.5",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-03",
+  "prompt": "Prompt:\nCreate a 30-second ultra-photorealistic early-2000s Korean DV-camcorder home video of a young Korean woman experiencing Seoul’s first snowfall of winter. Use the attached image as the character reference and keep her face, hairstyle, body proportions, outfit and identity consistent throughout.\n\nShe notices the first snow from her window, excitedly grabs her coat and scarf, rushes outside and catches snowflakes in her hand. She runs briefly through the residential lane, crouches to make a tiny snowball, shows it proudly to the camera and tosses it. The snowball follows realistic gravity and breaks apart naturally on impact.\n\nShe continues walking through the snowy older Seoul neighborhood, leaving believable footprints as snow gradually settles on bicycles, cars, rooftops and bushes. Her hair, scarf and coat move naturally in the winter breeze, with subtle visible breath in the cold air.\n\nAt the end, she stops beneath a streetlight, looks into the camera, catches a snowflake in her palm and softly says, “First snow.” She smiles and walks away as the handheld camera follows.\n\nAuthentic early-2000s consumer DV look: shaky handheld framing, autofocus hunting, slight exposure/white-balance shifts, soft digital detail, CCD noise, subtle interlacing, cool white balance, natural motion blur, limited dynamic range and occasional awkward zooms. The camera operator reacts imperfectly like a real home-video recording.\n\nNatural diegetic audio only: wind, footsteps crunching snow, breathing, doors, fabric movement, distant traffic, birds and neighborhood ambience. No music, narration, subtitles, CGI, beauty filters, cinematic grading, slow motion or polished camera movement.\n\nNegative prompt: inconsistent face, changing clothes, morphing, distorted hands, extra fingers, unnatural physics, floating snow, instant snowballs, impossible trajectories, teleportation, clipping, plastic skin, cinematic camera, excessive stabilization, commercial look, logos, watermark.",
+  "promptSource": "正文",
+  "title": "初雪",
+  "url": "https://x.com/nawalsehar/status/2106251329085874184",
+  "views": 19428,
+  "tags": {
+   "画风": [
+    "纪实手持"
+   ],
+   "地域氛围": [
+    "韩系"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "角色一致性",
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "title_en": "Seoul's First Snow",
+  "desc_en": "An early-2000s camcorder-style home video: a young woman sees the first snow from her window, then runs into a Seoul alley to spin and scoop up snow.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2106251329085874184",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2106251329085874184.mp4"
+ },
+ {
+  "creator": "Nawal",
+  "desc": "女孩清晨醒来发现全城落雪，手持自拍一路兴奋地冲出门。",
+  "duration": 30.1,
+  "handle": "@nawalsehar",
+  "likes": 249,
+  "medium": "video",
+  "model": "Seedance 2.5",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-06",
+  "prompt": "Prompt:\nCreate an exactly 30-second, 16:9, 24fps, 4K ultra-photorealistic live-action university vlog following the same European brunette woman in her mid-20s through an unexpected snowy morning.\n\nShe wakes expecting rain, opens the curtains, and discovers the entire city covered in heavy fresh snow. She quickly dresses in a cream thermal sweater, dark jeans, charcoal coat, beige scarf, gloves, boots and dark university backpack. She prepares hot chocolate, takes a quick sip, then steps outside into the snowfall.\n\nShow realistic snow compression and footprints, visible breath, steam from the hot chocolate, natural wind movement in her hair and scarf, backpack inertia, careful walking on slippery snow, realistic slush and traffic, and snow naturally accumulating on cars, trees, buildings and clothing.\n\nShe walks through the snow-covered city while filming herself with an authentic handheld smartphone. Include natural side-tracking and environmental angles showing snowy streets, cafés, pedestrians, cars and the university campus. She arrives at university, enters the warm hallway and quietly says:\n\n“Okay… this is actually the best morning ever.”\n\nCut naturally to black at exactly 30 seconds.\n\nUse authentic smartphone imperfections: subtle hand shake, autofocus breathing, exposure adjustment, rolling-shutter artifacts, realistic motion blur and imperfect framing. Maintain identical face, hair, body proportions, wardrobe and backpack throughout.\n\nNatural diegetic audio only: alarm, bedsheets, curtains, clothing, milk pouring, spoon, mug, steam, door, wind, snow crunch, traffic, slush, footsteps and university ambience. No music or narration.\n\nNegative prompt: CGI appearance, animation, fantasy snow, glowing snow, impossible physics, floating objects, teleportation, weather changes, unrealistic sliding, distorted hands, extra fingers, face drift, body distortion, wardrobe changes, duplicated people or objects, fake snow particles, impossible reflections, excessive slow motion, subtitles, captions, logos, watermark, background music.",
+  "promptSource": "正文",
+  "title": "一夜白城",
+  "url": "https://x.com/nawalsehar/status/2107345257495138416",
+  "views": 21508,
+  "tags": {
+   "画风": [
+    "纪实手持"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "第一人称",
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "title_en": "City Turned White Overnight",
+  "desc_en": "A selfie-style vlog: a young woman wakes expecting rain, opens the curtains to a snow-covered city and rushes outside, camera in hand.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2107345257495138416",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2107345257495138416.mp4"
+ },
+ {
+  "creator": "Rory Flynn",
+  "desc": "以 Blender 预演为骨架生成的街头飙车“片场录像”，与预演画面上下对照。",
+  "duration": 25.1,
+  "handle": "@Ror_Fly",
+  "likes": 383,
+  "medium": "video",
+  "model": "Seedance 2.5",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-06",
+  "prompt": "REFs + Prompt: \n\n+ Video 1: Blender Previs Render\n+ Contact Sheet 1: Car Refs \n+ Contact Sheet 2: Env Plates + Cinemotagraphy Refs\n\nGenerate a brand-new finished film. [V1] is a rough low-poly previz storyboard: follow its single continuous camera path, its gentle drift and occasional jolts, its altitude, framing, car positions, lead changes, crash motion and beat timing second for second, and take NOTHING else from it: not its faceted boxy shapes, flat shading, blank beige ground or pale sky. The dark wedge car is the black muscle car in [CHARGER]: 1970 coupe, chrome supercharger bursting through the hood, chrome bumpers, slotted wheels. The orange wedge car is the orange sports coupe in [SUPRA]: green tribal side graphics, tall silver rear wing, five-spoke silver wheels. [LOOK] is the film look; its blurred patches are not part of the scene.\n\nThe world is Terminal Island in the Port of Los Angeles, around 2001. Every shape in [V1] becomes this real place, and [P1] to [P7] are photographs of these exact streets: match their poles, wires, screens, fences, buildings, cranes, crossing hardware, train and road surface. [P1] is Terminal Way: the street and its screen-and-pole corridor. [P2] is the start by the old cannery. [P3] is the Vincent Thomas Bridge behind the container cranes. [P4] is the approach to the Earle Street crossing. [P5] is its warning lamps and crossbuck. [P6] is the freight train. [P7] is the green truck and the overhead conveyor at the crash site. The roads are long, flat, straight industrial streets of faded cracked asphalt with tar-snake patches, potholes and a worn double-yellow centre line, gravel and litter in the gutters. Both sides are lined with tall, weathered wooden utility poles, close together, with crossarms, transformers and heavy sagging bundles of wire, receding in rhythm to the vanishing point. The green blocks are olive-green corrugated sheet-metal fences and chain-link topped with barbed wire, with faded rust-brown and grey shipping containers stacked behind them. The white blocks are low, windowless tuna-cannery warehouses with sun-faded cream walls, peeling paint, loading docks and flat tar roofs crowded with vents. The trees are scraggly eucalyptus and a few tall thin palms. Red-and-white container gantry cranes stand on the skyline, and the towers and cables of the long green-grey Vincent Thomas suspension bridge rise in the haze beyond the rooftops. Hot late-afternoon sun, ochre air, dust hanging over the road.\n\nOne unbroken take from a racing FPV drone carrying a small cinema camera: amber highlights, muted olive greens, deep warm shadows, hard shadows, fine grain, soft bloom.\n\nThe cars are fighting, never gliding: body roll into every swerve, squat under throttle, noses dipping on shifts, rear ends twitching, suspension bouncing over patched asphalt, tyres chirping, exhaust heat and dust kicking out behind them.\n\nReal piloted flight, never floating CGI: banked turns carry momentum, a light constant float and prop-wash shiver, with a few hard jolts only at the big moments (the rails, the impact, the landing). Foreground constantly cuts through the frame: poles and wires whipping past the lens edge, fence posts and barbed wire smearing by, grit and dust thrown up by the tyres hitting the lens, a smudge on the glass catching the sun, flare streaking across. Fast vintage glass: razor-thin focus, focus missing for a beat then snapping to the cars, background smeared in directional motion blur, heat shimmer.\n\n0-1.5s: high over the old cannery blocks near Tuna Street (P2), the frame breathing on the wind; the two cars small, side by side at the line.\n1.5-3.5s: launch: the black car's front wheels lift in a wheelie and it jumps a car length ahead, tyre smoke behind both cars.\n3.5-4.5s: a banked dive past a roof edge, horizon tilting, a power line flicking through the frame.\n4.5-6.5s: flare out onto Terminal Way (P1) at road level through dust, skimming the orange car's rear quarter; the black car stretches its lead.\n6.5-8.5s: low chase; the orange car surges on a burst of boost and pulls past the black car.\n8.5-10.5s: slide along the black car's flank as the two cars squeeze door to door, inches apart, the chrome blower filling frame.\n10.5-11.5s: punch past its nose and yaw around hard to fly backward ahead; the bridge towers (P3) swing through the haze; the black car back in front.\n11.5-15s: low reverse tracking, both cars charging at the lens and trading the lead again, door to door; at 14s the Earle Street crossing (P4) comes up, its lamps (P5) flashing red on the left, gate arms down.\n15-17.5s: both cars hit the rails side by side, all four wheels leave the road for a moment, slam down and bounce; the freight train (P6) thunders across behind them, horn blaring. The camera jolts over the crossing and climbs.\n17.5-20s: higher, flying backward ahead; the black car noses half a car ahead; power-line shadows slide across them.\n19.8-20.4s: under the overhead conveyor (P7), a green long-nose semi with a white trailer pulls out from a side street on the black car's right (screen left); the black car jinks away at the last moment.\n20.4s: the black car's front right corner clips the truck's front bumper: the truck lurches, the black car launches.\n20.5-21.4s: the black car flies up, rolling over sideways, and passes upside down directly over the orange car, which keeps driving underneath it; glass and trim glitter. The frame jolts and yaws, then fights back on target.\n21.4-23.5s: the black car slams down on its side beside the orange car, bounces, and keeps barrel-rolling down the road, shedding debris, dust rolling toward the lens, while the orange car swerves away and brakes hard; focus hunts.\n23.5-24.7s: the black car rolls back onto its wheels and slides sideways to rest at the roadside; the orange car stops further on. The aggressive flying stops.\n24.7-29s: a slow high hover still breathing on the wind, smoke and dust drifting through the low sun past the poles. Hold.\n\nAudio: supercharged V8 whine against a turbo six, gear shifts, crossing bells, train horn and rail clatter, truck air horn, a heavy metal impact, glass, tyre screech, prop whine, wind buffet. No background music.\n\nGlobal supplement: one continuous shot, prohibit any cut. Keep the camera path, motion, car positions and crash motion of V1 at every second. Strictly maintain both cars from CHARGER and SUPRA: rigid metal, real curved bodywork. Drivers are dark shapes behind tinted glass, no faces visible. Prohibit gimbal smoothness, floating 3D camera movement and cars gliding on rails. Prohibit slow-motion or floating in the crash: real speed, real gravity. Prohibit bright, colourful, new-looking container walls; this place is old, sun-bleached and dusty. Prohibit low-poly, faceted or flat-shaded surfaces. Prohibit objects appearing out of thin air. No subtitles, no on-screen text, no watermark.",
+  "promptSource": "作者评论",
+  "title": "速激片场录像",
+  "url": "https://x.com/Ror_Fly/status/2107572909086761325",
+  "views": 24868,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "汽车",
+    "运动极限"
+   ],
+   "情绪": [
+    "紧张刺激"
+   ],
+   "镜头技法": [
+    "一镜到底"
+   ],
+   "用途": [
+    "演示教程"
+   ]
+  },
+  "title_en": "Street Race on Set",
+  "desc_en": "Behind-the-scenes-style footage of a street car chase generated from a low-poly Blender previz, shown stacked above the previz for comparison.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2107572909086761325",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2107572909086761325.mp4"
+ },
+ {
+  "creator": "Nicolas Neubert",
+  "desc": "沙尘中的着陆舱旁，宇航员独行，木星巨大的弧面压在地平线上。",
+  "duration": 30.1,
+  "handle": "@iamneubert",
+  "likes": 38,
+  "medium": "video",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-07",
+  "prompt": "",
+  "title": "重返木卫二",
+  "url": "https://x.com/iamneubert/status/2107854117574246430",
+  "views": 2775,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "孤独忧郁",
+    "史诗壮阔"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Return to Europa",
+  "desc_en": "An astronaut walks alone beside a landing capsule in a dust storm, with the huge curve of Jupiter on the horizon, shot in muted grey tones.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2107854117574246430",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2107854117574246430.mp4"
+ },
+ {
+  "creator": "Uncanny Harry AI",
+  "desc": "昏暗酒吧与舞池里，皮夹克男人的对峙一步步升级到拔枪。",
+  "duration": 30,
+  "handle": "@Uncanny_Harry",
+  "likes": 190,
+  "medium": "video",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-15",
+  "prompt": "",
+  "title": "酒吧里的危险",
+  "url": "https://x.com/Uncanny_Harry/status/2110704645274304747",
+  "views": 7094,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "悬疑惊悚"
+   ],
+   "情绪": [
+    "紧张刺激"
+   ],
+   "镜头技法": [
+    "多镜头剪辑",
+    "微表情特写"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Trouble at the Bar",
+  "desc_en": "In a dim pub and dance floor, a standoff with a man in a leather jacket escalates until a gun is drawn; shown alongside its previz.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2110704645274304747",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2110704645274304747.mp4"
+ },
+ {
+  "creator": "el.cine",
+  "desc": "从街市俯拍穿过窗户进入公寓、再越窗回到街上汽车，复杂的一镜到底。",
+  "duration": 30.1,
+  "handle": "@EHuanglu",
+  "likes": 2009,
+  "medium": "video",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-15",
+  "prompt": "",
+  "title": "1920年代长镜头",
+  "url": "https://x.com/EHuanglu/status/2110753787287863579",
+  "views": 113405,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "历史年代"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ],
+   "镜头技法": [
+    "一镜到底"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "1920s in One Take",
+  "desc_en": "A single continuous shot that cranes down over a 1920s street market, passes through a window into an apartment and back out to a vintage car on the street.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2110753787287863579",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2110753787287863579.mp4"
+ },
+ {
+  "creator": "𝔹𝕃𝕍ℂ𝕂𝕃!𝔾ℍ𝕋",
+  "desc": "雨夜站台，列车驶过巨大的彩虹镜头光晕，地面积水倒映斑斓色彩。",
+  "duration": 30.1,
+  "handle": "@BLVCKLIGHTai",
+  "likes": 100,
+  "medium": "video",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-15",
+  "prompt": "",
+  "title": "彩虹光晕列车",
+  "url": "https://x.com/BLVCKLIGHTai/status/2110789417631903799",
+  "views": 2403,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "旅行城市"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ],
+   "镜头技法": [
+    "慢动作"
+   ],
+   "用途": [
+    "MV"
+   ]
+  },
+  "title_en": "Rainbow Flare Express",
+  "desc_en": "A train rushes past a rainy night platform through a huge rainbow lens flare, its colors reflected in puddles on the ground.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2110789417631903799",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2110789417631903799.mp4"
+ },
+ {
+  "creator": "Ali",
+  "desc": "破败古寺的光柱中，黑衣武者与白衣女侠交手过招。",
+  "duration": 15.1,
+  "handle": "@aiwithaly",
+  "likes": 206,
+  "medium": "video",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-19",
+  "prompt": "",
+  "title": "古寺对决",
+  "url": "https://x.com/aiwithaly/status/2112055308701053088",
+  "views": 4829,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "中式"
+   ],
+   "题材": [
+    "武侠打斗"
+   ],
+   "情绪": [
+    "热血燃"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Duel in the Old Temple",
+  "desc_en": "In shafts of light inside a ruined temple, a fighter in black trades blows with a swordswoman in white.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2112055308701053088",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2112055308701053088.mp4"
+ },
+ {
+  "creator": "el.cine",
+  "desc": "纽约堵车时女孩按下按钮，汽车腾空加入满天飞车的车流。",
+  "duration": 22.1,
+  "handle": "@EHuanglu",
+  "likes": 132,
+  "medium": "video",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-20",
+  "prompt": "",
+  "title": "堵车就起飞",
+  "url": "https://x.com/EHuanglu/status/2112574910182949227",
+  "views": 21256,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "科幻",
+    "喜剧搞笑"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "第一人称",
+    "变身转场"
+   ],
+   "用途": [
+    "梗段子"
+   ]
+  },
+  "title_en": "Stuck in Traffic? Fly",
+  "desc_en": "Stuck in New York traffic, a woman presses a button and her car lifts off to join a sky full of flying cars.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2112574910182949227",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2112574910182949227.mp4"
+ },
+ {
+  "creator": "𝐙𝐞𝐧𝐠 💜",
+  "desc": "超现实沙漠里的贝壳、楼梯、风车与礼帽小屋，像一本会动的绘本。",
+  "duration": 30.1,
+  "handle": "@zeng_wt",
+  "likes": 18,
+  "medium": "video",
+  "model": "Seedance 2.5",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-22",
+  "prompt": "",
+  "title": "沙漠的低语",
+  "url": "https://x.com/zeng_wt/status/2113300782334283914",
+  "views": 440,
+  "tags": {
+   "画风": [
+    "超现实梦境",
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Whispers of the Desert",
+  "desc_en": "A pastel surreal desert of shells, stairs, windmills and a top-hat house, animated like a moving picture book in soft pink and lilac.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2113300782334283914",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2113300782334283914.mp4"
+ },
+ {
+  "creator": "探路AI",
+  "desc": "披甲小猫在湿地中闪避巨龙拍击、借龙臂三连跳升空，以万剑剑阵将巨龙化为灰烬。",
+  "duration": 16.3,
+  "handle": "@TanLuAI",
+  "likes": 16,
+  "medium": "video",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-23",
+  "prompt": "【一、成片规格与完整剧情】\n\n生成一支目标总时长为16秒的写实奇幻战斗短片，采用4∶3横画幅、24帧/秒的电影运动观感。所有剧情在同一片阴天湿地连续发生。整体有清晰的空间、连续的动作和强烈的力量反馈，毛发、旧金属、皮革、鳞甲、湿泥、薄雾与魔法光照都具有可信的材质层次。\n\n完整保留以下事件顺序。小猫闭眼、双爪竖剑承接前作；巨龙首先怒吼，气流吹动小猫的毛发、蕾丝与披风；小猫睁眼，随后改为右前爪持剑；巨龙用左前爪拍下，小猫用猫式侧向弹跳惊险避开；小猫从泥地跳上龙腕，再跳到肘部，最后主动蹬离龙臂；小猫上升到最高点后稳定悬浮，身后展开密集的万剑剑阵；小猫双爪挥动实体长剑，剑影汇成剑流集中攻击巨龙胸口；巨龙先出现明确受击反应，随后被剑光吞没、完全化为灰烬；小猫从原悬停位置下降，双脚先落地缓冲，再把剑尖放到泥地撑稳，以短促收势结束。\n\n16秒内保持事件完整，用动作之间的自然衔接形成紧凑感。巨龙抬爪与小猫换握同时发生，摄影机跟随借力跳跃连续升高，剑阵展开与小猫举剑同步完成，灰烬飘散与剑光消退同步发生。每一段文字描述的是同一时段内同时可见的细节，不把材质、表情、衣摆和镜头运动分别扩展为新的停顿。动作保持敏捷自然的速度，不使用全片倍速、长时间慢动作、定格回放或无接触的瞬移。\n\n【资产绑定】\n\n图1为“小猫骑士_角色资产_v1.png”。它是小猫身份与服装的主要依据，锁定面部轮廓、幼态头身比例、毛色花纹、眼睛、鼻头、耳形、猫爪、长尾及整套盔甲与配饰。每次切镜都必须能够认出同一只小猫，侧脸、背影与近景应由同一套角色结构自然转动得到。\n\n图2为“巨龙_角色资产_v1.png”。它锁定巨龙的头颈结构、长吻、弯角、骨刺、红色眼睛、灰色鳞甲、粗壮四足、独立连接在背部的双翼、翼膜缺口、爪形与长尾。受击前后都维持这一生物结构，直到剧情规定的化灰阶段。图2只决定角色形态，动作中的肌肉拉伸、关节转动、翼膜张力和光影需要随场景真实改变。\n\n图3为“小猫骑士续集_开场衔接参考_前作14.5秒.jpg”。它负责开场闭眼、双爪竖剑的姿势，双爪上下握柄的关系，剑身在面前的位置，十字护手与剑柄的形制，以及前作湿地的光线和构图。图3中的面部细节不覆盖图1的角色身份，不把它识别成另一只猫。开场直接进入这个动作状态，不先播放参考图片。\n\n图1和图2中的灰色背景、摄影棚地面、展示灯光、正面站姿、固定翼角和图片画幅全部不进入视频。两张图片中角色占画面的大小不作为共同场景的比例依据。成片始终是娇小的猫骑士面对庞大的巨龙，近景、广角和高低机位都保持这一尺度关系。角色图片用于维持外形，镜头、动作、表演和环境按照下面的分镜执行。\n\n【三、角色外形、服装、武器与表演】\n\n小猫保留图1的暖金灰色蓬松长毛，额头有较深的条纹，嘴周、脸颊和腹部呈浅奶油色。灰绿色虹膜包围深色圆瞳孔，鼻头粉棕，胡须细长，耳尖有自然绒毛。头大身小，双足站立时仍保留幼猫的身体比例，毛茸茸的前爪与后脚不变成人类手脚。长尾有明确根部和蓬松轮廓，随转向、起跳、悬浮和着地调整姿态。\n\n服装完整保留银灰色做旧板甲、铜棕色旧痕、金色百合纹胸饰、分层肩甲、护臂、腿甲、深棕色腰带和金色纹饰扣件。关节处能看见链甲、皮革与毛发的合理连接。白色镂空蕾丝圆领保持孔洞和褶边，红底白色爱心蝴蝶结与草莓吊坠始终位于胸前。米灰褐色破旧斗篷保留粗布织纹、边缘磨损、孔洞和参差下摆，受风时从肩部连接处传递拉力，不能像一张没有重量的塑料片。\n\n小猫的表演从闭眼凝神迅速进入警觉。听到龙吼时睁眼、耳朵略向后压，视线先捕捉巨龙的抬爪动作。闪避时眼神追踪落点，沿臂跳跃时关注下一处鳞甲支撑面，悬停施法时视线重新锁定巨龙胸口。保持专注与决断，不插入夸张咧嘴、庆祝或额外卖萌动作。猫的可爱感来自原有体型、毛发与动作习性。\n\n巨龙保留厚重灰色鳞甲、红色发光眼睛、成组弯角、头颈层叠骨刺以及延伸到尾部的棘刺。大鳞片覆盖主要受力区域，小鳞片与皮褶连接颈部和关节。前爪接触湿地后附着少量泥水，发力时趾爪抓入泥中；胸腹呼吸带动相邻鳞甲，肩背随转移重心起伏，双翼的骨架与翼膜共同运动。它是一条有重量、惯性和反应的活体巨龙。\n\n全片只有一把实体长剑，沿用图3的冷灰钢制双刃、笔直剑身、十字护手与深色剑柄。剑身、护手、剑柄和剑首保持刚性连接，长度与造型不随景别改变。开场右前爪握在上方，左前爪握在下方。移动和借力跳跃时右前爪持续握剑，左前爪腾出负责平衡或短暂撑扶。离开龙臂后左前爪重新握柄，施法时双爪操作；下降前左前爪再次松开，右前爪继续持剑。\n\n实体剑始终留在猫爪中。白金色魔法只沿刃口形成发光边缘，剑本身仍能看出金属表面与原有结构。身后的万剑全部由半透明剑气构成，具有清楚的剑尖、剑身和简化护手。剑阵中的剑影飞出时，手中的实体剑不复制、不消失、不跟随射出。大招结束后剑刃的光芒减弱，恢复原有冷灰金属光泽。\n\n【四、环境、空间轴线和统一影像风格】\n\n延续前作同一片阴天荒野湿地。地面由深褐色湿泥、低矮土坡、苔藓石块与成簇深绿长草构成，有细小积水和不规则脚印，反光柔弱。近景草叶和泥土保持可见纹理，中景雾带缓慢流动，远景浓雾遮住地平线。风压与剑流只推开局部雾气，背景不会突然变成清朗天空或另一处山谷。\n\n以小猫面向巨龙的方向作为空间基准。巨龙在小猫正前方，小猫自身右侧对应巨龙自身左侧。在小猫背后的建立镜头中，巨龙左前爪出现在画面右侧，小猫也朝画面右侧的安全区域闪避。龙爪原拍击位置、外侧落脚泥地、腕部鳞甲、肘部落脚面形成连续可读的路线，不能切镜后交换左右前肢。\n\n摄影机位于双方对峙轴线的同一侧半空间。开场从小猫略偏右前方观察面部，随后切到其右后方建立巨龙位置，再沿巨龙左前肢的外侧跟随动作。正面、背面和侧面机位通过同一条前肢、同一个爪坑及连续持剑动作衔接，避免突然越到相反方向造成攻防反转。\n\n最后一跳从肘部向巨龙左前方外侧的上空跃出，悬停点位于胸口斜前方，略高于巨龙当前头部，与头颈、翼缘和龙身保持可见间隔。悬停点的正下方是空旷泥地，结尾就落在这里。剑流从小猫身后绕过身体，在前方空处汇聚后斜向下命中龙胸。所有广角镜头都应允许观众判断这条攻击路径。\n\n整体色彩以冷灰、灰绿和褐色为主，红蝴蝶结与龙眼形成小面积色点。阴云提供柔和顶侧光，猫毛边缘、旧铠甲凸面和巨龙鳞甲边缘有自然亮暗差。魔法出现后增加白金色局部光源，面部与盔甲会被照亮，但保留阴影层次。禁止整屏变白导致角色、剑流和受击过程同时不可见。\n\n近景使用接近标准镜头的自然透视，广角用于建立体型差与动作空间。下面所述焦段是全画幅等效的视觉参考，重点是景别、透视与运动关系。摄影机推进时应产生真实的前后景视差，原地上摇只改变视线方向，跟焦只改变清晰平面，不把不同运镜混为同一种随机缩放。\n\n【五、0.00至1.20秒｜正面受风与背面空间建立】\n\n从图3的闭眼双爪竖剑状态直接开始，第一帧就有低沉龙吼从画外进入，不设置独立的等待或吸气段。开场约前0.8秒使用接近50毫米的正面中近景，镜头高度接近小猫眼睛，视线略偏向它的右前方。剑身处于面部中线附近，横向护手位于嘴下，胸甲上缘、蕾丝领、红蝴蝶结和双爪都能看见，剑尖自然伸出画面上缘。\n\n摄影机只做很小的平稳前移，保留与前作接续的构图。焦点落在眼睛和握剑附近，景深允许眼睛、胡须、护手及领口同时可读，湿地背景柔和虚化。小猫在龙吼响起后迅速睁眼，双爪继续握住剑，身体轻微降低重心，双脚稳住原位置。\n\n风压从画面前方巨龙的位置吹来，先推动脸颊长毛和耳边绒毛，再带动胡须、蕾丝边缘与披风。脸侧毛发向后伏动，细毛有不同幅度的颤动，胡须随气流略向后弯，蕾丝褶边短促抖动。披风从肩后抬起并展开，肩甲与胸甲仍然保持稳定重量。小猫不能被吹得滑退，猫毛不能整团像橡胶一样变形。\n\n约0.8秒切到接近28毫米的小猫右后方低机位广角。同一声龙吼连续跨镜，音量与空间方向自然变化，不重新播放另一声吼。小猫占画面下方较小面积，巨龙头颈与双翼占据上方，远侧翼尖可出画或融入雾中。镜头略微仰拍，让体型差一眼可读。\n\n背面镜头看清斗篷从肩部到破损下摆被气流拉起，布料向小猫后方、也就是摄影机这一侧翻动，尾巴下段仍可辨认。两者之间的雾带向小猫方向压来并从身体两侧分流。巨龙张口怒吼的同时开始转移重心，为下一段抬爪做准备，镜头结束时动作仍在继续。\n\n【六、1.20至3.00秒｜换握、拍爪、贴边险躲】\n\n在已经建立的位置关系上切入约32至35毫米的同侧中全景。摄影机接近小猫腰部高度，稍向外侧让出空间，把小猫全身、巨龙左前爪、原站位和右侧落脚地面同时纳入画面。地面爪影先逼近小猫，巨龙的左肩和腕部共同带动前爪抬起，另外三肢承担重心。\n\n巨龙抬爪与小猫换握同步发生。小猫右前爪持续抓牢原来的剑柄，左前爪松开后移到身体侧前方用于平衡，剑随右前爪移到身体右侧。剑尖斜向外后方，和双腿、尾巴、披风保持空间间隔。换握要能看见手爪与剑柄的接触变化，不能在剪切后突然变成另一只爪持剑。\n\n小猫双后腿迅速屈曲，身体压低，尾巴向另一侧摆动，形成清楚但短促的蓄力。紧接着双后腿伸展发力，身体朝自身右侧横向弹出。镜头沿侧跳方向做短距离横移，同时保持原拍击点在构图内，使观众能够比较小猫刚才的位置与现在的位置。\n\n巨爪斜向下砸落时，保持厚重的腕关节和整条前肢的惯性，不能只让几个趾爪轻轻点地。爪掌挤压湿泥，积水和草叶被推开，较重的泥块沿低弧线飞散，细小水滴短暂闪光。冲击发生时给摄影机一次很短的上下震动，立刻恢复稳定，避免持续摇晃遮掉动作。\n\n龙爪砸地的瞬间，小猫仍在横跳末段，身体刚越过拍击范围边缘，泥土从它身侧掠过，披风下摆受到侧向气流带动。小猫没有被拍中，也没有先在安全区域站好等待。随后双后脚触地，屈腿吸收冲击，左前爪短暂点地，右前爪持剑保持在外侧。落地的压低姿势立刻成为下一跳的蓄力姿势，镜头尾部跟着它转向龙腕。\n\n【七、3.00至6.20秒｜连续跟随三段借力弹跳】\n\n这一段采用约35毫米的稳定跟随镜头，优先连续看清泥地、腕部、肘部与最后蹬离，不插入无关面部特写。摄影机从龙爪外侧略低的位置开始，随小猫前进而前移，再沿前肢坡度逐渐升高。每次构图都给即将到达的落脚点留出空间，观众能够在小猫起跳前看到它将踩在哪里。\n\n巨龙左前爪因拍击余势压在湿泥里，腕部较低，前臂斜向后上方连接肘部，形成短暂稳定的支撑路径。巨龙头颈仍在转动，胸腹继续呼吸，另一前肢调整承重，身体保持活性。左爪在小猫完成借力之前留在原区域，不能提前猛然抽走或翻转落脚面。\n\n第一跳从小猫刚刚侧跳落地的泥面开始。后腿压缩随即伸展，双后脚离开泥地，身体短距离跃向爪掌后方的宽阔腕部。镜头随它向前横移，前景鳞片产生较快视差，远处雾地移动较慢。双后脚落到腕部后，脚掌与鳞片表面明确接触，膝部下沉，左前爪短促撑扶，接触点没有滑动。\n\n第二跳紧接着发生。小猫利用刚完成的屈腿迅速反弹，向更高的肘部外侧跃去。右前爪把剑保持在远离鳞甲的一侧，剑刃不会在借力时提前刺入巨龙。斗篷先滞后于身体扬起，再随移动方向收拢，尾巴轻微摆动帮助身体调整。镜头随小猫升高并适度上摇，保留腕部与肘部之间的连接关系。\n\n双后脚踩到肘部时，仍然表现一次清楚的接触、压腿和蹬伸。摄影机不切成看不见双脚的胸部近景，也不让雾气突然盖住接触位置。细小鳞甲边缘、脚掌压住的位置和左前爪短暂支撑应当可辨，保证这一段具有借力弹跳的身体逻辑。\n\n第三跳在本段后半程完成。小猫压低身体后从肘部主动蹬离，向巨龙左前方外侧的上空跃出，后腿从弯曲变为伸直，脚底离开鳞甲，尾巴与披风随后被带起。摄影机随之升高并向外侧跟随，保持小猫全身和龙臂末端同时入画，明确它已经离开支撑面。\n\n最后的上升有自然弧线，速度逐渐减小，不在刚离开脚底的瞬间就冻结。左前爪在已经离开龙臂后重新握住剑柄，右前爪始终没有松剑。巨龙此时立即抽回左前爪、转头向上追踪，地面留下原来的深爪坑。这些反应与小猫上升同步，不另占新的镜头停顿。\n\n【八、6.20至8.40秒｜最高点悬停，万剑在身后展开】\n\n摄影机承接上一段的上升运动，在同侧逐渐降低相对于小猫的上升速度，使用接近35至40毫米的中广景。小猫全身保持可见，画面下方仍保留少量湿地、雾带或巨龙头颈，提供判断高度的参照。镜头不能完全移到没有地面参照的纯色天空，否则会难以分辨小猫正在悬浮还是继续上升。\n\n小猫到达跳跃最高点时，上升速度自然减小。实体剑刃口先出现微弱白金色光线，身体周围有少量细碎剑气流动，随后托住身体，使它稳定停留在空中。明确保留约半秒的悬停确认。在这一小段时间里，身体高度相对背景基本稳定，双脚不再踩住任何物体，尾巴、披风与毛发仍轻微运动，不能表现成整张图片暂停。\n\n双爪已重新握住剑柄，右爪在上、左爪在下，先将剑收在胸前，随后开始向头部上方举起。悬停确认完成后，身后的光点迅速凝成剑影，举剑与剑阵展开同步进行。小猫神情专注，目光越过前方空间锁定巨龙胸口，不看向摄影机，也不额外张嘴喊招式名称。\n\n剑阵从小猫身后较近的一层开始，迅速向两侧和远处展开，形成有前后厚度的多层弧形阵列。近层剑影彼此留出可辨间隙，能看清尖锐剑尖、细长剑身、简单护手和内部流动的光纹；后方阵列更加密集，以透视和雾中亮度变化形成庞大规模。所有剑影都位于小猫身后或两侧上方，为脸、猫耳、双爪、实体剑和斗篷留出清楚的轮廓空间。\n\n摄影机在阵列展开时做小幅后移，使取景自然容纳扩大的剑阵，并保持小猫处于视觉中心附近。这是机位后移带来的透视变化，前后层剑影产生不同的位移幅度。不要使用突然大幅变焦或整圈环绕，也不要把小猫缩成难以辨认的小点。剑阵完成后保留一个短促但清楚的完整阵形，小猫双爪已把实体剑举过头部，下一动作直接接下劈。\n\n白金色光从背后和两侧照亮猫毛边缘、耳尖、蕾丝镂空与盔甲凸起，正面仍保留阴天环境光，眼睛和鼻头不陷入全黑。披风受到剑气扰动向后舒展，边缘有细小摆动，主体布料保持重量。下方巨龙持续抬头追踪，胸肩后移，双翼开始收向胸前，既展示它对威胁的反应，也为下一段受击留下清楚的胸部目标。\n\n【九、8.40至10.60秒｜挥剑引导、剑流飞行与首次重击】\n\n在小猫准备下劈的动作点切到约28至32毫米的同侧斜向广角。构图同时纳入悬浮的小猫、它身后的剑阵、前方空中通道和下方巨龙。小猫位于画面偏左上，巨龙位于偏右下，剑流将沿这条清楚的对角线前进。中间不要放置挡住攻击路径的山石、树干或突然出现的浓雾墙。\n\n小猫双爪只完成一次明确下劈，肩部带动手臂，剑从头部上方向前下方划过，身体随发力轻微前倾，但悬停位置不会突然改变。最后剑尖指向巨龙胸口，实体剑始终留在双爪之间。剑刃划过的轨迹只留下短促光痕，不另外释放月牙剑气或第二种独立招式。\n\n下劈开始时，前排剑影同步转向，剑尖指向同一个目标，随后前排射出、后排紧接跟上，形成一轮持续的剑流齐射。剑影从小猫两侧与头顶外侧沿弧线通过，绕开耳朵、身体、尾巴、斗篷和手中长剑，在小猫前方的空处汇聚，再集中冲向龙胸。不能把汇流中心放在小猫身体内部，也不能让剑影先飞到背后再突然反向。\n\n约8.4至9.1秒的广角画面优先交代下劈、剑阵启动和剑流飞过双方距离。每柄近处剑影仍有可辨剑形，远处汇聚成密集但有层次的白金色流束。运动模糊沿前进方向延伸，前端剑尖与核心轮廓保持锐利。剑流经过雾带时带出局部空隙和向两旁卷起的雾丝，地面短暂出现随光源移动的亮斑。\n\n在前端剑影即将接触巨龙胸口时，切到同侧偏正面的中景，取景包含胸口、肩颈、两只前肢和部分翼根。上一镜结束在飞近，首次接触只发生在这个镜头中，不能先在广角命中一次，再在近景重复命中。切镜后的剑流仍从相同的画面方向进入，速度与亮度连续。\n\n首次命中发生在约9.1秒。胸部承受冲击后，胸肩先猛然后挫，颈部随惯性回收，前爪抓住泥地并向后犁出短痕，翼膜和翼骨因身体震动绷紧。冲击沿身体传递，不能只在胸口贴一个爆光图案而全身毫无反应。给约半秒清楚的受击反馈，让鳞甲、肩部位移、爪痕和翼膜变化仍然可见。\n\n这一瞬间突出一个低沉有重量的命中声，摄影机出现一次极短的震动后立即稳住。随后后续剑影沿同一方向不断汇入，白金色亮光才从胸部向肩颈和双翼扩展，开始吞没龙体。光线集中在巨龙周围，小猫位置、地面泥痕和外围雾气仍然有层次，避免整屏过曝掩盖力量反馈。\n\n【十、10.60至13.20秒｜光中下沉，完整化为灰烬】\n\n在亮光扩散的连续动作上切回同侧较宽的全景，参考约28至35毫米的空间感。巨龙完整身体及主要翼形处于画面中央偏下，小猫仍悬在原来的斜前方上空，处于画面边缘可辨区域。镜头保持稳定或只做轻微后移，让观众看清整个庞大身躯将如何消失，不用快速环绕破坏结果的可读性。\n\n承接刚才同一轮攻击，最后一批剑影继续汇入胸口，小猫身后的阵列随着射出逐层耗尽。巨龙在亮光中仍保留短暂的暗色轮廓，胸肩后挫延续为全身屈膝下沉，头部失去抬起的力量，红眼从明亮变暗直至熄灭。不要把它重新恢复成站直怒吼的姿势，也不要重新开始一次完整受击。\n\n剑光覆盖身体后，翼缘、角尖、尾部与鳞甲轮廓逐步碎散成细小灰烬。先能看到大轮廓边缘出现缺失，随后骨刺、翼膜和躯干的轮廓不断变薄、断开，最后胸腹和四肢也全部化为灰烬。这个变化沿同一次剑光扩散推进，不让巨龙毫无过程地整块透明消失。\n\n灰烬从原身体位置散出，较近的颗粒大小不一，少量带有金白余光，远处则形成细密的暗灰尘带。颗粒离开身体后受同一方向的低空风带向侧后方，余光迅速冷却，部分灰屑落在湿泥上。灰烬不能变成大量实体碎石、鸟群或新的生物，也不留下完整尸体或重新拼合的龙形。\n\n摄影机在化灰过程中保留固定的地面参照。原来的爪坑、泥沟、苔藓石块和草簇依旧位于同一位置，只有巨龙身体被剑光消解。亮光减弱后，背后的雾气重新显现并流回空出来的区域，使观众明确看见那里已经没有巨龙。约13.2秒前完成主要龙体消失，画面里可以继续存在飘散的灰烬与少量余光。\n\n小猫在这一阶段仍稳定悬浮，双爪持剑指向目标，实体剑没有脱手。身后剑阵完全耗尽，刃口发光随攻击结束而减弱，盔甲和猫毛重新显出阴天环境色。它只保持施法后的自然呼吸与衣尾轻动，不提前落地，不增加独立的胜利姿势。\n\n【十一、13.20至16.00秒｜从原位置下降，脚先落稳再撑剑】\n\n巨龙已经完全化灰后，托住小猫的剑气开始消退。接约35毫米的同侧侧前方中全景，保留小猫全身、下方空旷泥地和背后飘散灰烬。摄影机跟随下降降低高度，同时略微调整朝向，让小猫始终处于构图中心附近，双脚和剑尖始终可见。\n\n下降开始前，左前爪从剑柄下方松开，右前爪继续握住上方位置，将实体剑移至身体右侧。这个换握与剑气减弱同时发生，画面中能够看见左爪离开、右爪保持抓握。剑尖偏向外侧并远离双脚、尾巴和披风，下落过程中不能提前插入地面，也不能从身体中穿过。\n\n小猫从刚才的悬停位置向正下方泥地下降，身体相对地面连续接近。摄影机可以随它下降，但地面尺度、爪坑位置和灰烬背景应提供明确的移动参照，避免看起来像地面忽然升到脚下。双腿在落地前自然调整，尾巴摆动帮助姿态稳定，披风因下降气流短暂抬起，随后逐渐回落。\n\n约15秒前后，双后脚先接触泥地。后腿屈曲吸收冲击，身体重心随之降低，左前爪轻点地面辅助稳定；少量泥水从脚边挤开，甲片发生短促轻响。脚底接触时摄影机略微减缓下降并稳定下来，让接触、缓冲和身体停住的过程可读。\n\n双脚完成落地缓冲后，右前爪才把剑尖放到身体右前方的泥地。剑尖压入很浅的位置用于撑稳，手腕、剑柄与剑身保持连接，不能把长剑当成提前落地的撑杆。左前爪从辅助触地转为自然支撑，斗篷下摆和尾巴随后回落，动作的余势逐渐结束。\n\n最终保持小猫半蹲、右爪持剑撑地的收势，眼睛望向巨龙消失的方向，只有轻微呼吸。摄影机以略低的三分之四角度保留脸、红色领饰、银灰铠甲和剑的轮廓，背景可见爪坑、空地与逐渐稀薄的灰烬。最后只停留一个短促的结束瞬间，在16秒处结束，不添加新的回望、行走、庆祝或第二次抬剑。\n\n【十二、声音、音乐与剪辑连接】\n\n开场龙吼从第一镜画外进入，在背面建立镜头中看见对应的张口动作，并延续到抬爪准备。吼声具有低频胸腔共鸣、口腔粗粝感与湿地空间混响，声源始终来自巨龙方向。近处猫毛、领口和披风受风的细响可以混在吼声边缘，使风压与画面相互对应；吼声尾音在拍击后自然衰减，不在全片持续循环。\n\n巨爪抬起时有鳞甲与泥地脱离的低沉摩擦，拍地时以一个厚重冲击为主，叠加湿泥挤压、积水飞溅与草叶折动。小猫侧跳和沿臂三次借力使用轻短而清楚的接触声，泥面落脚与鳞甲落脚的音色不同。右前爪持剑移动只有克制的金属与护臂摩擦，不能每次跳跃都出现一次夸张拔剑声。\n\n自然上升阶段保留衣料和空气声，转为悬停时加入集中、持续的低频剑鸣。剑阵由近到远展开，剑鸣也由近到远形成层次，但不要让每柄剑都发出彼此竞争的响声。挥剑对应一次明确破空声，随即接上连续剑流呼啸，使观众能从声音上理解一个动作带动整轮攻击。\n\n第一次命中的声音要比后续持续剑流更突出，低频冲击对应胸肩后挫，短促尖锐边缘对应鳞甲受力。强光扩散时保持连续能量声，巨龙的反应声随着红眼熄灭与身体化灰迅速衰减。灰烬散开后能量声收束，保留风声、细屑落地声和小猫落地的短促铠甲轻响。\n\n音乐使用低弦、克制鼓点与简洁的上行张力，随躲爪和沿臂跳跃推进，在剑阵展开时集中抬升，在首次命中时形成一个明确重音，巨龙消失后快速收束。全片无对白、旁白、歌词、字幕、标题、标志与界面元素。用声桥连接正反打、上升与悬停、剑流飞行与命中，避免每切一个镜头音乐就重新起头。\n\n【十三、动作状态与必须遵守的连续性】\n\n角色数量固定为图1对应的一只小猫与图2对应的一条巨龙，实体武器固定为一把长剑。奶瓶已经留在前作身后，本段不拾取，不重新出现在手里，不变成剑。白色蕾丝、红色爱心蝴蝶结、草莓吊坠、胸甲花纹、腰带和斗篷始终属于同一套造型，只有光照、摆动和少量泥土附着发生自然变化。\n\n持剑状态按唯一顺序连续变化。开场双爪竖剑承受龙吼；巨龙抬爪时左爪松开、右爪把剑移到外侧；闪避和沿臂借力期间右爪始终持剑、左爪辅助；真正离开龙臂后左爪重新握柄；空中挥剑和巨龙化灰期间双爪持剑；下降前左爪再次松开；双脚落地缓冲之后右爪才用剑尖撑地。不能增加多余手爪、让剑自行跟随或让剑在切镜中换到另一只爪。\n\n所有跳跃都遵守接触、压腿、蹬伸、离开支撑面的顺序，允许这些动作迅速连贯发生。龙爪拍地时，小猫仍处于侧跳末段，之后才落地。腕部、肘部的支撑面始终属于巨龙同一条左前肢。巨龙在小猫最后一次蹬离后才抽回这条前肢，避免踩空、穿模、脚底滑行和无来源的弹射。\n\n小猫先完成实际跃起和上升减速，到最高点才转为剑气托举，确认悬浮后再展开身后剑阵。剑阵只展开一次，实体剑只下劈一次，剑影形成同一轮连续攻击。首次命中只呈现一次，随后直接延续受击、光芒吞没与化灰，不通过切镜重播撞击。\n\n剑流必须绕开小猫的身体和配饰，在小猫前方空处汇聚，沿明确方向攻向巨龙胸口。前端剑影飞过空间、胸口接触、胸肩后挫、全身受力和强光扩散依次可读。首次受击的约半秒身体反馈优先保留，避免强光提前遮住动作。巨龙被吞没后完整化灰，不留下完整尸体，不重新长出双翼或再次睁眼。\n\n巨龙消失后，小猫才从原悬停位置下降。落点由此前广角镜头建立，保持在悬停位置正下方，不跳到原来的出生点或另一处平台。脚先接地、腿部缓冲、左爪辅助、剑尖随后撑稳，结尾只保留一次收势。环境中的爪坑、泥沟、草簇、石块和雾气延续存在。\n\n画面避免人类手指、多余肢体、猫龙外形混合、巨龙四足变双足、双翼变前肢、脸型漂移、饰物消失、剑身弯曲、道具瞬移、灰底角色展示、全屏过曝与无意义的连续甩镜。运镜服务于接触、方向和力量传递，每次切镜都接住上一镜尚在进行的动作，最终在16秒内完成全部剧情。",
+  "promptSource": "正文",
+  "title": "骑士猫万剑归宗",
+  "url": "https://x.com/TanLuAI/status/2113472817735811492",
+  "views": 17857,
+  "tags": {
+   "画风": [
+    "写实电影感",
+    "游戏CG"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "奇幻神话",
+    "宠物动物"
+   ],
+   "情绪": [
+    "热血燃",
+    "史诗壮阔"
+   ],
+   "镜头技法": [
+    "一镜到底",
+    "角色一致性"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Knight Cat, Thousand Swords",
+  "desc_en": "An armored kitten in a misty marsh dodges a dragon's swipe, leaps up its arm, hovers and unleashes a formation of flying swords that burns the dragon to ash.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2113472817735811492",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2113472817735811492.mp4"
+ },
+ {
+  "creator": "John",
+  "desc": "一镜到底的新武侠：白衣女侠在武隆天生三桥的绝壁栈道间以折扇破敌。",
+  "duration": 30.2,
+  "handle": "@johnAGI168",
+  "likes": 83,
+  "medium": "video",
+  "model": "Seedance 2.5",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-23",
+  "prompt": "一镜到底，武隆天生三桥·徐克新式武侠大片，高帧率、4K超清；\n节奏：全片正常1倍速实拍，招式快、狠、连，每一招出手收手都在半秒内完成，每秒2到3个动作，无升格慢放、无空中悬停、无站桩摆拍；扇刃每次相碰都有火星迸溅和镜头微震；只有最后3秒收势放缓；\n色调：徐克新式武侠亮调，清透水墨青黛+鎏金高光，高对比电影感，山岚柔光锐化层次，达芬奇高级调色，干净凌厉高级感；\n场景：重庆武隆天生三桥（喀斯特奇观，三桥夹两坑亿年天险，天龙桥雄、青龙桥险、黑龙桥幽，天然石拱横空吞天，绝壁千仞，天福官驿藏幽谷，青藤覆崖、苔痕浸石，流泉飞珠、云气绕桥，栈道悬壁）；\n运镜：一镜到底无剪辑，低角度背跟→环绕180°→仰拍→推进穿洞→贴壁横移→疾速跟拍→穿瀑→环绕360°→急速仰拍拉升→缓拉→特写定格，气韵贯通；\n\n0-3秒【起势·掠驿出尘】：低角度背跟，图片1侧脸凝眸、眉目凌厉清冷，骤然转身镜头拉远；她身着淡青纱衣执扇立驿前草甸，足尖点草掠出，指尖捻扇挥向苍穹，素扇旋舞化青影，飞身穿梭崖壁间，衣袂猎猎；\n\n3-6秒【破影·扇退群敌】：环绕180°，四名黑衣蒙面刺客持刃围杀，图片1后仰贴地滑闪避让，素扇开合格挡化招；仰拍镜头下踏崖壁飞身腾越，点桥借力飞升，扇影如青翼护体；\n\n6-9秒【逐影·天坑激斗】：快速推进+穿桥洞，桥巅刺客俯身突袭，图片1捻扇凝气成锋，扇影化青幕格挡，气浪震碎崖石、碎石四溅；于绝壁间飞檐掠壁、辗转腾挪，折扇点刺劈扫，从容破袭；\n\n9-12秒【回旋·掷扇连环】：贴壁横移，两名刺客抓青藤从崖顶滑下左右夹击，图片1反手掷扇，素扇张开高速平旋飞出、拖出青色弧光，连撞两把刀刃、火星迸溅，两人刀脱手翻落；素扇划弧飞回，她右手接扇、顺势合拢，蹬壁再起；\n\n12-15秒【悬栈·一挡三】：疾速跟拍冲上悬壁栈道，三名刺客前后堵截、刀光交错，图片1合扇点腕、开扇卸刀、旋身扫腿，一气呵成；一人撞断栈道栏杆翻落、单手抓住青藤悬在崖边，木屑纷飞，她脚步不停；\n\n15-18秒【穿瀑·水帘破袭】：镜头紧跟图片1纵身冲向崖边飞瀑，扇风劈开水帘、水珠横飞，瀑后刺客挺刀直刺，她贴着刀锋侧身，扇骨架住刀身一拧，刀脱手坠入深谷，反手扇头点中对方胸口，对方倒飞撞上岩壁；\n\n18-21秒【危局·双刃锁喉】：环绕360°，图片1落上桥下巨石，五名刺客同时合围扑杀，两把刀交叉压向她咽喉，她后仰开扇硬接，火星炸开，脚下石面滑退半步；她眉头一压，眼神骤冷；\n\n21-24秒【破阵·扇风震崖】：图片1旋腕翻扇猛推，青色扇形气浪横扫而出，五名刺客同时被掀飞、撞上崖壁，崖石崩裂、碎石与尘雾翻涌；她借反震之力冲天而起；\n\n24-27秒【飞升·点桥踏云】：急速仰拍拉升，图片1连踏桥拱石面、崖壁凸石三连借力，衣袂与纱袖向下翻飞，冲破半空云层；最后一名刺客自云中扑下，她空中拧身一记回旋踢，对方坠入云海；\n\n27-30秒【收势·扇开凝锋】：缓拉远景→特写，图片1静立山巅，天光破雾镀身，腾空跃立青龙桥之巅，扇影归宗，素扇缓缓撑开（上有毛笔字\"梦\"），花瓣随风旋舞；镜头定格脸部特写，眉眼冷傲，尽显侠骨风华。",
+  "promptSource": "正文",
+  "title": "天生三桥扇影",
+  "url": "https://x.com/johnAGI168/status/2113531768556884287",
+  "views": 10649,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "中式"
+   ],
+   "题材": [
+    "武侠打斗",
+    "自然风光"
+   ],
+   "情绪": [
+    "热血燃",
+    "史诗壮阔"
+   ],
+   "镜头技法": [
+    "一镜到底",
+    "环绕运镜"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Fan Blade at Three Bridges",
+  "desc_en": "A single-take wuxia fight: a swordswoman in white fights off attackers with a folding fan along cliffside walkways at Wulong's Three Natural Bridges.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2113531768556884287",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2113531768556884287.mp4"
+ },
+ {
+  "creator": "TSUBAKI",
+  "desc": "手指戳向桌上的迷你相扑手办，它鼓腮踉跄、被按扁又弹回原形。",
+  "duration": 7,
+  "handle": "@AI__TSUBAKI",
+  "likes": 26,
+  "medium": "video",
+  "model": "Kling 4.0",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-25",
+  "prompt": "Image prompt:\n\nA hyper-realistic photograph of a tiny collectible figurine of a Japanese sumo wrestler, about 10 cm tall, standing on a miniature clay sumo ring (dohyo) with a straw rope border, placed on a wooden tabletop. The figurine has an oversized, photorealistic head with a chubby round face, a neat oiled topknot (chonmage), wide startled eyes and lips puckered into a surprised \"oh!\" expression. His small chibi body is round and plump, wearing only a dark navy silk mawashi belt with hanging sagari strings, bare feet planted wide.\n\nA giant real human index finger enters the frame from the right side and pokes into the wrestler's big bare belly, the soft skin visibly dimpling and jiggling around the fingertip. The scale contrast between the huge finger and the tiny figurine is the focus of the image.\n\nBackground: a softly blurred traditional sumo arena, with the hanging shrine-style roof (tsuriyane), purple tassels, warm spotlights and out-of-focus crowd seating, creating creamy bokeh.\n\nMacro tabletop photography, shallow depth of field, figurine and fingertip in sharp focus, soft warm key light from the upper left, subtle rim light, natural skin texture, realistic materials, playful and humorous mood. Vertical 2:3 composition with the figurine placed slightly left of center, eye-level camera angle.\n\nVideo prompt:\n\nUse the input image as the first frame. A tiny photorealistic sumo wrestler figurine with an oversized head, oiled topknot, navy mawashi with hanging sagari strings, standing barefoot on a miniature clay sumo ring on a wooden tabletop, inside a softly blurred sumo arena with a hanging shrine roof, purple tassels and warm bokeh lights. A giant human index finger is already touching his bare belly from the right.\n\n0–1.5s: The giant finger pulls back slightly, then pokes his round belly. The soft belly dimples inward and jiggles, his cheeks puff up comically and his eyes bulge in surprise. His body bounces back to its normal shape.\n\n1.5–3s: The finger pokes his belly a second time, a little harder. His cheeks inflate even more, his eyes go wide and his lips purse into a funny shocked \"oh!\". He wobbles on his bare feet, the sagari strings swinging.\n\n3–4.5s: The giant hand rises and gently presses down on top of his head with a fingertip, squishing his soft rubbery body down into a flat round pancake shape on the clay ring, playful cartoon squash. Hold the flattened shape for a brief beat.\n\n4.5–5.5s: He springs back up into his original shape like a soft rubber toy, with a quick elastic overshoot and settle.\n\n5.5–7s: He shakes himself off, tugs his mawashi back into place with both hands, then turns his face toward the giant finger and gives an exaggerated angry glare, puffed cheeks and deeply furrowed eyebrows. Hold on his funny angry expression until the end.\n\nStyle: photorealistic miniature figurine, soft rubber skin texture, physically believable belly deformation combined with playful cartoon squash-and-stretch, expressive face, macro tabletop photography, shallow depth of field, warm arena lighting with soft bokeh, natural human hand movement, cute, funny and harmless mood.\n\nCamera: locked-off shot matching the input image framing, vertical 2:3, eye-level macro view, no camera movement, the sumo wrestler stays fully visible on the miniature ring throughout.\n\nKeep the sumo wrestler's face, topknot, body shape and navy mawashi consistent throughout the entire video.",
+  "promptSource": "作者评论",
+  "title": "迷你相扑手",
+  "url": "https://x.com/AI__TSUBAKI/status/2114177828946403423",
+  "views": 1554,
+  "tags": {
+   "画风": [
+    "3D卡通"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "喜剧搞笑"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "微表情特写"
+   ],
+   "用途": [
+    "梗段子"
+   ]
+  },
+  "title_en": "Poke the Tiny Sumo",
+  "desc_en": "A finger pokes a miniature sumo figurine on a tabletop ring; it puffs its cheeks, wobbles, gets squashed flat and springs back.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2114177828946403423",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114177828946403423.mp4"
+ },
+ {
+  "creator": "Timeless",
+  "desc": "东京街巷中水墨白狼与黑影巨兽缠斗，从街头一路打到城市上空。",
+  "duration": 30.3,
+  "handle": "@Timeless_aiart",
+  "likes": 9458,
+  "medium": "video",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-25",
+  "prompt": "",
+  "title": "神不屈膝",
+  "url": "https://x.com/Timeless_aiart/status/2114193986789519859",
+  "views": 291269,
+  "tags": {
+   "画风": [
+    "国风水墨",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "史诗壮阔",
+    "热血燃"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Gods Do Not Kneel",
+  "desc_en": "An ink-wash white wolf battles a dark shadow beast through Tokyo streets, the fight rising into the sky above the city.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2114193986789519859",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114193986789519859.mp4"
+ },
+ {
+  "creator": "Shami",
+  "desc": "猫眼门铃视角下，南瓜装小宝宝和长着蝙蝠翅膀的小猫来讨糖。",
+  "duration": 15.1,
+  "handle": "@ShamiWeb3",
+  "likes": 204,
+  "medium": "video",
+  "model": "Seedance 2.5",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-25",
+  "prompt": "",
+  "title": "门铃里的万圣节",
+  "url": "https://x.com/ShamiWeb3/status/2114201654023385457",
+  "views": 27443,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "宠物动物",
+    "喜剧搞笑"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "第一人称"
+   ],
+   "用途": [
+    "梗段子"
+   ]
+  },
+  "title_en": "Halloween at the Doorbell",
+  "desc_en": "Seen through a fisheye doorbell camera, a baby in a pumpkin costume and a kitten with bat wings come trick-or-treating.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2114201654023385457",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114201654023385457.mp4"
+ },
+ {
+  "creator": "OscarAI",
+  "desc": "麦田边的小站，纸偶般的老人与狗等车，最后提箱独自走进夕阳。",
+  "duration": 30.2,
+  "handle": "@Artedeingenio",
+  "likes": 133,
+  "medium": "video",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-25",
+  "prompt": "",
+  "title": "最后一班火车",
+  "url": "https://x.com/Artedeingenio/status/2114318102280241437",
+  "views": 4634,
+  "tags": {
+   "画风": [
+    "黏土定格"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "日常生活",
+    "宠物动物"
+   ],
+   "情绪": [
+    "孤独忧郁",
+    "催泪伤感"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "The Last Train",
+  "desc_en": "At a small station beside wheat fields, a puppet-like old man waits with his dog, then picks up his suitcase and walks alone into the sunset.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2114318102280241437",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114318102280241437.mp4"
+ },
+ {
+  "creator": "Mr Das",
+  "desc": "雨滴打在玻璃温室上，一只橘色小猫在苔藓里打滚、趴着发呆。",
+  "duration": 10.1,
+  "handle": "@MrDasCreates",
+  "likes": 22,
+  "medium": "video",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "",
+  "title": "雨天温室小猫",
+  "url": "https://x.com/MrDasCreates/status/2114579990352445643",
+  "views": 601,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "宠物动物"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "微表情特写"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "title_en": "Rainy Greenhouse Kitten",
+  "desc_en": "Rain taps on a glass greenhouse while an orange kitten rolls in the moss and lies there gazing.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2114579990352445643",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114579990352445643.mp4"
+ },
+ {
+  "creator": "OscarAI",
+  "desc": "铅笔画出台阶，蘑菇头小人一步步走进逐渐上色的童话世界。",
+  "duration": 30.2,
+  "handle": "@Artedeingenio",
+  "likes": 614,
+  "medium": "video",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "",
+  "title": "铅笔下的小蘑菇",
+  "url": "https://x.com/Artedeingenio/status/2114645514553528460",
+  "views": 27041,
+  "tags": {
+   "画风": [
+    "水彩绘本",
+    "3D卡通"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "变身转场"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Mushroom Under the Pencil",
+  "desc_en": "A pencil draws steps for a little mushroom-headed figure, who climbs into a sketched fairy-tale world that gradually fills with color.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2114645514553528460",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114645514553528460.mp4"
+ },
+ {
+  "creator": "Latte",
+  "desc": "少年在瀑布悬崖与浮岛间追逐一只白绒小精灵，最后把它抱在怀里。",
+  "duration": 25.3,
+  "handle": "@0xbisc",
+  "likes": 26,
+  "medium": "video",
+  "model": "Seedance 2.5",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "",
+  "title": "与精灵追逐",
+  "url": "https://x.com/0xbisc/status/2114678213196882396",
+  "views": 1113,
+  "tags": {
+   "画风": [
+    "3D卡通"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "轻松欢快",
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "一镜到底"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Chasing the Sprite",
+  "desc_en": "A boy chases a fluffy white sprite across waterfall cliffs and floating islands, finally catching it in his arms.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2114678213196882396",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114678213196882396.mp4"
+ },
+ {
+  "creator": "Mr Das",
+  "desc": "移轴微缩视角下的火星基地：穹顶舱、漫游车和宇航员在红沙上忙碌。",
+  "duration": 10.1,
+  "handle": "@MrDasCreates",
+  "likes": 13,
+  "medium": "video",
+  "model": "Gemini Omni 1.1 Flash",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "",
+  "title": "火星殖民地",
+  "url": "https://x.com/MrDasCreates/status/2114703768407457955",
+  "views": 526,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "演示教程"
+   ]
+  },
+  "title_en": "Miniature Mars Colony",
+  "desc_en": "A tilt-shift miniature view of a Mars base where domed habitats, rovers and astronauts busy themselves on red sand.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2114703768407457955",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114703768407457955.mp4"
+ },
+ {
+  "creator": "Maria",
+  "desc": "美术馆里梵高与蒙娜丽莎从画框走出、相拥起舞，身后画框只剩空景。",
+  "duration": 20.1,
+  "handle": "@thisismariaa25",
+  "likes": 305,
+  "medium": "video",
+  "model": "Seedance 2.5",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "",
+  "title": "名画私奔夜",
+  "url": "https://x.com/thisismariaa25/status/2114761501819183337",
+  "views": 14774,
+  "tags": {
+   "画风": [
+    "超现实梦境",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "爱情青春",
+    "奇幻神话"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ],
+   "镜头技法": [
+    "一镜到底",
+    "角色一致性"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Masterpieces Elope at Night",
+  "desc_en": "In a museum at night, Van Gogh and the Mona Lisa step out of their frames and dance together, leaving empty backgrounds in the frames behind them.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2114761501819183337",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114761501819183337.mp4"
+ },
+ {
+  "creator": "Smiling Khan",
+  "desc": "微缩探险者在电器商场里攀爬吊扇、音箱和冰箱，像在巨人世界历险。",
+  "duration": 30.1,
+  "handle": "@AIwithkhan",
+  "likes": 111,
+  "medium": "video",
+  "model": "Seedance 2.5",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-27",
+  "prompt": "",
+  "title": "电器城小冒险",
+  "url": "https://x.com/AIwithkhan/status/2114928839797162434",
+  "views": 19797,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "紧张刺激",
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Tiny Explorers, Giant Store",
+  "desc_en": "Miniature explorers climb ceiling fans, speakers and fridges in an electronics store, as if adventuring through a land of giants.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2114928839797162434",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114928839797162434.mp4"
+ },
+ {
+  "creator": "Maria",
+  "desc": "少女在维也纳书店、多瑙河畔、地铁、咖啡馆与摩天轮之间穿梭的生活剪影。",
+  "duration": 20.1,
+  "handle": "@thisismariaa25",
+  "likes": 164,
+  "medium": "video",
+  "model": "Seedance 2.5",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-27",
+  "prompt": "",
+  "title": "维也纳电影感日常",
+  "url": "https://x.com/thisismariaa25/status/2114930084629111080",
+  "views": 992,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "旅行城市",
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "多镜头剪辑",
+    "角色一致性"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "title_en": "Cinematic Days in Vienna",
+  "desc_en": "A young woman in the same outfit moves through a Vienna bookshop, the Danube bank, the metro, a café and the Ferris wheel, all in warm tones.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2114930084629111080",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114930084629111080.mp4"
+ },
+ {
+  "creator": "Timeless",
+  "desc": "倒置的城市悬在头顶，少女从屋檐坠入云海，鲸鱼在天空游过。",
+  "duration": 15.1,
+  "handle": "@Timeless_aiart",
+  "likes": 116,
+  "medium": "video",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-27",
+  "prompt": "",
+  "title": "天空是海",
+  "url": "https://x.com/Timeless_aiart/status/2114943345529348229",
+  "views": 2776,
+  "tags": {
+   "画风": [
+    "日系动漫",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "浪漫心动",
+    "史诗壮阔"
+   ],
+   "镜头技法": [
+    "一镜到底"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "The Sky Is a Sea",
+  "desc_en": "An upside-down city hangs overhead as a girl falls from a rooftop into a sea of clouds where whales swim through the sky.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2114943345529348229",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114943345529348229.mp4"
+ },
+ {
+  "creator": "Zidan 子丹",
+  "desc": "云海之上的白色神殿，红衣小人从巨大的白狮与天马雕像旁走过。",
+  "duration": 15,
+  "handle": "@liluocheng13",
+  "likes": 30,
+  "medium": "video",
+  "model": "Seedance 2.0",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-27",
+  "prompt": "",
+  "title": "云端神殿",
+  "url": "https://x.com/liluocheng13/status/2115063720443629817",
+  "views": 543,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Temple Above the Clouds",
+  "desc_en": "A tiny figure in red walks past colossal white lion and pegasus statues at a marble temple floating above a sea of clouds.",
+  "addedAt": "2026-10-27T11:51:29",
+  "id": "x-2115063720443629817",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2115063720443629817.mp4"
  }
 ]
