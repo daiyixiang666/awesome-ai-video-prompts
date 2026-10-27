@@ -21,7 +21,10 @@ LANGS = {"zh": "", "en": "en/"}
 T = {
     "zh": {
         "html_lang": "zh-CN", "switch": "English", "name": "镜鉴 · 顶级 AI 视频提示词",
-        "tagline": "人工精选的顶级 AI 影像与提示词，按画风、氛围、题材检索",
+        "tagline": "人工精选的顶级 AI 视频、图片与 Coding 作品，附提示词，按画风、氛围、题材检索",
+        "med": {"video": "视频", "image": "图片", "web": "Coding"},
+        "med_p": {"video": "AI 视频生成模型（Seedance、Kling、Veo…）生成的单条短片。", "image": "图片生成模型（Midjourney、GPT Image、Nano Banana…）生成的作品。", "web": "大语言模型写代码做出的作品（three.js、WebGL、shader…），包括用代码渲染的视频。"},
+        "live": "打开在线作品", "repo": "源码", "made_with": "AI 工具", "stack": "技术栈",
         "nav_works": "作品", "nav_tags": "标签", "works": "部作品", "with_prompts": "附完整提示词", "updated": "更新于",
         "has_prompt": "附提示词", "empty": "首批作品正在人工筛选中，很快上线。",
         "creator": "作者", "platform": "平台", "model": "模型", "likes": "点赞", "posted": "发布", "duration": "时长",
@@ -35,7 +38,10 @@ T = {
     },
     "en": {
         "html_lang": "en", "switch": "中文", "name": "Jingjian · Awesome AI Video Prompts",
-        "tagline": "Hand-picked top-tier AI videos with their prompts — searchable by style, mood and genre",
+        "tagline": "Hand-picked top-tier AI videos, images and AI-coded works with their prompts — searchable by style, mood and genre",
+        "med": {"video": "Video", "image": "Images", "web": "Coding"},
+        "med_p": {"video": "Single short clips from AI video models (Seedance, Kling, Veo…).", "image": "Work from AI image models (Midjourney, GPT Image, Nano Banana…).", "web": "Works an LLM built by writing code (three.js, WebGL, shaders…), including code-rendered videos."},
+        "live": "Open live demo", "repo": "Source", "made_with": "Built with", "stack": "Stack",
         "nav_works": "Works", "nav_tags": "Tags", "works": "works", "with_prompts": "with full prompts", "updated": "updated",
         "has_prompt": "Prompt", "empty": "The first hand-picked batch is being reviewed and will be up soon.",
         "creator": "Creator", "platform": "Platform", "model": "Model", "likes": "Likes", "posted": "Posted", "duration": "Length",
@@ -55,6 +61,15 @@ tax_en = json.loads((ROOT / "data/taxonomy_en.json").read_text())
 works.sort(key=lambda w: (w.get("addedAt", ""), w.get("likes", 0)), reverse=True)
 today = datetime.date.today().isoformat()
 e = html.escape
+
+
+MED_ORDER = ["video", "image", "web"]
+MED_PAGE = {"video": "index.html", "image": "images.html", "web": "coding.html"}
+MED_NOUN = {"video": "AI video", "image": "AI image", "web": "AI-coded work"}
+
+
+def med(w):
+    return w.get("medium") or "video"
 
 
 def val_en(v):
@@ -131,7 +146,7 @@ def page(lang, path, title_, desc_, body, jsonld=None, cover=None):
 <link rel="stylesheet" href="{root}style.css">{ld}
 </head><body>
 <header><div class="wrap top"><a class="brand" href="{root}{LANGS[lang]}index.html"><b>镜<i>鉴</i></b><span>Awesome AI Video Prompts</span></a>
-<nav><a href="{root}{LANGS[lang]}index.html">{s['nav_works']}</a><a href="{root}{LANGS[lang]}tags.html">{s['nav_tags']}</a><a href="{REPO}">GitHub</a><a class="lang" href="{other_href}" hreflang="{T[other]['html_lang']}">{s['switch']}</a></nav></div></header>
+<nav>{''.join(f'<a href="{root}{LANGS[lang]}{MED_PAGE[m]}">{s["med"][m]}</a>' for m in MED_ORDER)}<a href="{root}{LANGS[lang]}tags.html">{s['nav_tags']}</a><a href="{REPO}">GitHub</a><a class="lang" href="{other_href}" hreflang="{T[other]['html_lang']}">{s['switch']}</a></nav></div></header>
 <main class="wrap">{body}</main>
 <footer class="wrap"><p>{s['footer'].format(mail=mail, issues=issues)}</p>
 <p>{s['machine']}: <a href="{root}works.json">works.json</a> · <a href="{root}llms.txt">llms.txt</a> · <a href="{root}sitemap.xml">sitemap.xml</a></p></footer>
@@ -143,9 +158,9 @@ def card(w, lang, root):
     tags = [lab(v, lang) for d in ["画风", "地域氛围", "题材"] for v in w.get("tags", {}).get(d, [])[:2] if v != "无明显地域"][:4]
     t = title(w, lang)
     return f"""<a class="card" href="{root}{LANGS[lang]}w/{w['id']}.html">
-<figure><img src="{root}covers/{w['id']}.jpg" alt="{e(t)} — AI video by {e(w['creator'])}" loading="lazy">
-<span class="plat">{e(w['platform'])}</span>{f'<span class="hp">{s["has_prompt"]}</span>' if w.get('prompt') else ''}</figure>
-<div class="cb"><h3>{e(t)}</h3><p class="by">{e(w['creator'])}{' · ' + e(w['model']) if w.get('model') else ''}</p>
+<figure><img src="{root}covers/{w['id']}.jpg" alt="{e(t)} — {MED_NOUN[med(w)]} by {e(w['creator'])}" loading="lazy">
+<span class="plat">{e(w['platform'])}</span>{f'<span class="nimg">{len(w["images"]) + 1}</span>' if w.get("images") else ''}{f'<span class="hp">{s["has_prompt"]}</span>' if w.get('prompt') else ''}</figure>
+<div class="cb"><h3>{e(t)}</h3><p class="by">{e(w['creator'])}{' · ' + e(w.get('made_with') or w.get('model')) if (w.get('made_with') or w.get('model')) else ''}</p>
 <p class="tg">{' '.join(f'<span>{e(x)}</span>' for x in tags)}</p></div></a>"""
 
 
@@ -153,38 +168,51 @@ def grid(ws, lang, root):
     return '<div class="grid">' + "".join(card(w, lang, root) for w in ws) + "</div>" if ws else f'<p class="empty">{T[lang]["empty"]}</p>'
 
 
-def build_index(lang, idx):
+def build_index(lang, idx, m="video"):
     s, root = T[lang], "../" * LANGS[lang].count("/")
+    ws_m = [w for w in works if med(w) == m]
+    idx = {k: [w for w in v if med(w) == m] for k, v in idx.items()}
+    idx = {k: v for k, v in idx.items() if v}
+    tabs = "".join(f'<a class="tab{" on" if x == m else ""}" href="{MED_PAGE[x]}">{s["med"][x]} <small>{sum(1 for w in works if med(w) == x)}</small></a>' for x in MED_ORDER)
     chips = "".join(f'<a class="chip" href="{tag_path(d, v)}">{e(lab(v, lang))} <small>{len(ws)}</small></a>'
                     for (d, v), ws in sorted(idx.items(), key=lambda kv: -len(kv[1]))[:24])
     n_p = sum(1 for w in works if w.get("prompt"))
     body = f"""<section class="hero"><h1>{s['name']}</h1><p>{s['tagline']}.</p>
 <p class="meta">{len(works)} {s['works']} · {n_p} {s['with_prompts']} · {s['updated']} {today}</p>
-{f'<div class="chips">{chips}</div>' if chips else ''}</section>{grid(works, lang, root)}"""
+<nav class="tabs">{tabs}</nav><p class="medp">{s['med_p'][m]}</p>
+{f'<div class="chips">{chips}</div>' if chips else ''}</section>{grid(ws_m, lang, root)}"""
     ld = {"@context": "https://schema.org", "@type": "CollectionPage", "name": s["name"], "url": BASE + LANGS[lang],
           "description": s["tagline"], "inLanguage": s["html_lang"],
-          "hasPart": [{"@type": "CreativeWork", "name": title(w, lang), "url": f"{BASE}{LANGS[lang]}w/{w['id']}.html"} for w in works[:100]]}
-    return page(lang, "index.html", s["home_title"], s["tagline"], body, ld)
+          "hasPart": [{"@type": "CreativeWork", "name": title(w, lang), "url": f"{BASE}{LANGS[lang]}w/{w['id']}.html"} for w in ws_m[:100]]}
+    ttl = s["home_title"] if m == "video" else f'{s["med"][m]} — {s["name"]}'
+    return page(lang, MED_PAGE[m], ttl, s["med_p"][m] if m != "video" else s["tagline"], body, ld)
 
 
 def build_work(w, lang):
     s, root = T[lang], "../" * (LANGS[lang].count("/") + 1)
     t, dsc = title(w, lang), desc(w, lang)
     rows = [(s["creator"], f'<a href="{e(w["url"])}" rel="nofollow noopener">{e(w["creator"])} {e(w.get("handle", ""))}</a>'),
-            (s["platform"], e(w["platform"])), (s["model"], e(w.get("model") or "—")),
+            (s["platform"], e(w["platform"]))]
+    rows += [(s["made_with"], e(w["made_with"]))] if w.get("made_with") else [(s["model"], e(w.get("model") or "—"))]
+    rows += [(s["stack"], e(" · ".join(w["stack"])))] if w.get("stack") else []
+    rows += [
             (s["duration"], f'{round(w["duration"])}s' if w.get("duration") else "—"),
             (s["likes"], fmt(w.get("likes"), lang)), (s["posted"], e(str(w.get("postedAt", ""))[:10]))]
+    if med(w) == "image": rows = [r for r in rows if r[0] != s["duration"]]
     tagrows = "".join(
         f'<tr><th>{dlab(d, lang)}</th><td>' + " ".join(f'<a class="chip" href="{root}{LANGS[lang]}{tag_path(d, v)}">{e(lab(v, lang))}</a>' for v in w["tags"][d]) + "</td></tr>"
         for d in DIM_ORDER if w.get("tags", {}).get(d))
     src = w.get("promptSource", "")
     src = (f" · {s['prompt_from']}{src}" if lang == "zh" else f" · {s['prompt_from']} {SRC_EN.get(src, src)}") if src else ""
     prompt = f'<h2>{s["prompt"]}{e(src)}</h2><pre class="prompt">{e(w["prompt"])}</pre>' if w.get("prompt") else f'<p class="muted">{s["no_prompt"]}</p>'
-    media = (f'<video src="{e(w["video_url"])}" poster="{root}covers/{w["id"]}.jpg" controls playsinline loop muted autoplay preload="metadata"></video>'
+    if med(w) == "image":
+        imgs = [f"{root}covers/{w['id']}.jpg"] + [f"{root}img/{x}" for x in w.get("images", [])]
+        media = '<div class="gal">' + "".join(f'<img src="{x}" alt="{e(t)} — {MED_NOUN["image"]} {k + 1}" loading="lazy">' for k, x in enumerate(imgs)) + "</div>"
+    else: media = (f'<video src="{e(w["video_url"])}" poster="{root}covers/{w["id"]}.jpg" controls playsinline loop muted autoplay preload="metadata"></video>'
              if w.get("video_url") else f'<img src="{root}covers/{w["id"]}.jpg" alt="{e(t)} — AI video still">')
     body = f"""<article class="work"><figure class="hero-img">{media}</figure>
 <div class="info"><h1>{e(t)}</h1><p>{e(dsc)}</p>
-<p><a class="btn" href="{e(w['url'])}" rel="nofollow noopener">{s['watch']} {e(w['platform'])} ↗</a></p>
+<p class="btns"><a class="btn" href="{e(w['url'])}" rel="nofollow noopener">{s['watch']} {e(w['platform'])} ↗</a>{f'<a class="btn" href="{e(w["live_url"])}" rel="nofollow noopener">{s["live"]} ↗</a>' if w.get("live_url") else ''}{f'<a class="btn" href="{e(w["repo_url"])}" rel="nofollow noopener">{s["repo"]} ↗</a>' if w.get("repo_url") else ''}</p>
 <table class="kv">{''.join(f'<tr><th>{k}</th><td>{v}</td></tr>' for k, v in rows)}{tagrows}</table>{prompt}</div></article>"""
     tags_flat = [lab(v, lang) for d in DIM_ORDER for v in w.get("tags", {}).get(d, [])]
     ld = {"@context": "https://schema.org", "@type": "VideoObject" if w.get("video_url") else "CreativeWork", "name": t, "description": dsc or t, "inLanguage": s["html_lang"],
@@ -192,11 +220,12 @@ def build_work(w, lang):
           "uploadDate": w.get("postedAt") if w.get("video_url") else None, "duration": f"PT{round(w['duration'])}S" if w.get("duration") else None,
           "url": f"{BASE}{LANGS[lang]}w/{w['id']}.html", "sameAs": w["url"], "image": f"{BASE}covers/{w['id']}.jpg",
           "dateCreated": w.get("postedAt"), "author": {"@type": "Person", "name": w["creator"], "url": w["url"]},
-          "keywords": ", ".join(tags_flat + ([w["model"]] if w.get("model") else [])), "genre": tags_flat, "isAccessibleForFree": True}
+          "keywords": ", ".join(tags_flat + [x for x in [w.get("model"), w.get("made_with")] + w.get("stack", []) if x]), "genre": tags_flat, "isAccessibleForFree": True}
     if w.get("prompt"): ld["text"] = w["prompt"]
     ld = {k: v for k, v in ld.items() if v}
     m = f" {w['model']}" if w.get("model") else ""
     ttl = s["work_title"].format(t=t, c=w["creator"], m=m, p=s["work_title_p"] if w.get("prompt") else "")
+    if med(w) != "video": ttl = ttl.replace("AI 视频", "AI 图片" if med(w) == "image" else "AI Coding").replace("AI video", MED_NOUN[med(w)])
     sep = "、" if lang == "zh" else ", "
     d_ = f"{dsc} {s['tags_word']}: {sep.join(tags_flat[:6])}."
     return page(lang, f"w/{w['id']}.html", ttl, d_, body, ld, cover=f"covers/{w['id']}.jpg")
@@ -207,7 +236,8 @@ def build_tag(d, v, ws, lang):
     vl = lab(v, lang)
     p = sum(1 for w in ws if w.get("prompt"))
     body = f"""<section class="hero"><p class="crumb"><a href="{root}{LANGS[lang]}tags.html">{s['nav_tags']}</a> / {dlab(d, lang)}</p>
-<h1>{s['tag_h1'].format(v=e(vl))}</h1><p>{s['tag_p'].format(n=len(ws), v=e(vl), v_l=e(vl.lower()), p=p)}</p></section>{grid(ws, lang, root)}"""
+<h1>{s['tag_h1'].format(v=e(vl))}</h1><p>{s['tag_p'].format(n=len(ws), v=e(vl), v_l=e(vl.lower()), p=p)}</p></section>""" + "".join(
+        f'<h2 class="medh">{s["med"][m]} <small>{len(g)}</small></h2>{grid(g, lang, root)}' for m in MED_ORDER for g in [[w for w in ws if med(w) == m]] if g)
     return page(lang, tag_path(d, v), s["tag_title"].format(v=vl), s["tag_desc"].format(v=vl, v_l=vl.lower()), body)
 
 
@@ -227,9 +257,12 @@ def build_tags(idx, lang):
 
 def public_record(w):
     keep = ["id", "title", "title_en", "desc", "desc_en", "creator", "handle", "platform", "url", "model",
-            "prompt", "promptSource", "likes", "postedAt", "orientation", "duration", "video_url", "tags"]
+            "prompt", "promptSource", "likes", "postedAt", "orientation", "duration", "video_url", "tags",
+            "medium", "made_with", "stack", "live_url", "repo_url"]
     r = {k: w[k] for k in keep if w.get(k) not in (None, "", [], {})}
     r["page_zh"] = f"{BASE}w/{w['id']}.html"; r["page_en"] = f"{BASE}en/w/{w['id']}.html"; r["cover"] = f"{BASE}covers/{w['id']}.jpg"
+    r["medium"] = med(w)
+    if w.get("images"): r["images"] = [f"{BASE}img/{x}" for x in w["images"]]
     r["tags_en"] = {dim_en(d)[0]: [val_en(v)[0] for v in vs] for d, vs in w.get("tags", {}).items() if d in tax_en["dims"]}
     return r
 
@@ -254,21 +287,23 @@ def llms_txt(idx):
 def readme(idx, lang):
     zh = lang == "zh"
     by_style = {}
-    for w in works:
-        by_style.setdefault((w.get("tags", {}).get("画风") or ["其他"])[0], []).append(w)
+    for m in MED_ORDER:
+        for w in works:
+            if med(w) == m:
+                by_style.setdefault((m, (w.get("tags", {}).get("画风") or ["其他"])[0]), []).append(w)
     n_p = sum(1 for w in works if w.get("prompt"))
     other = "[English](README.en.md)" if zh else "[中文](README.md)"
     site = BASE if zh else BASE + "en/"
     out = [f"# {T[lang]['name']}", "", f"{other}", "", f"> {T[lang]['tagline']}.", "",
            f"**[{'在线浏览' if zh else 'Browse online'} →]({site})** · {len(works)} {T[lang]['works']} · {n_p} {T[lang]['with_prompts']} · {T[lang]['updated']} {today}", "",
-           ("每一部作品都经过人工筛选，来自 X、TikTok、抖音的顶级 AI 影像创作者；只收单条短镜头（≤31 秒），按 **画风 / 地域氛围 / 题材 / 情绪 / 镜头技法 / 用途** 六个维度打标，并尽可能附上作者公开的完整提示词。"
-            if zh else "Every entry is a single short clip (≤31 s) hand-picked from top AI filmmakers on X, TikTok and Douyin, tagged on six facets (visual style, regional vibe, genre, mood, camera technique, use case), credited to its creator, and includes the full prompt whenever it was published."), ""]
+           ("每一部作品都经过人工筛选，来自 X、TikTok、抖音的顶级 AI 影像创作者；分 **视频 / 图片 / Coding** 三类（视频只收 ≤60 秒的短片），按 **画风 / 地域氛围 / 题材 / 情绪 / 镜头技法 / 用途** 六个维度打标，并尽可能附上作者公开的完整提示词。"
+            if zh else "Three separate sections — Video (short clips ≤60 s), Images and Coding — hand-picked from top AI filmmakers on X, TikTok and Douyin, tagged on six facets (visual style, regional vibe, genre, mood, camera technique, use case), credited to its creator, and includes the full prompt whenever it was published."), ""]
     if not works:
         out += [f"_{T[lang]['empty']}_", ""]
     else:
-        out += ["## " + ("目录" if zh else "Contents"), ""] + [f"- [{lab(s_, lang)}](#{val_en(s_)[0]}) ({len(ws)})" for s_, ws in by_style.items()] + [""]
-    for s_, ws in by_style.items():
-        out += [f'<a id="{val_en(s_)[0]}"></a>', f"## {lab(s_, lang)}", ""]
+        out += ["## " + ("目录" if zh else "Contents"), ""] + [f"- {T[lang]['med'][m_]} · [{lab(s_, lang)}](#{m_}-{val_en(s_)[0]}) ({len(ws)})" for (m_, s_), ws in by_style.items()] + [""]
+    for (m_, s_), ws in by_style.items():
+        out += [f'<a id="{m_}-{val_en(s_)[0]}"></a>', f"## {T[lang]['med'][m_]} · {lab(s_, lang)}", ""]
         for w in ws:
             tags = " ".join(f"`{lab(v, lang)}`" for d in DIM_ORDER for v in w.get("tags", {}).get(d, []))
             page_url = f"{site}w/{w['id']}.html"
@@ -325,10 +360,11 @@ def main():
         shutil.rmtree(DOCS / sub, ignore_errors=True)
     DOCS.mkdir(exist_ok=True)
     idx = tag_index()
-    paths = ["index.html", "tags.html"] + [f"w/{w['id']}.html" for w in works] + [tag_path(d, v) for d, v in idx]
+    paths = list(MED_PAGE.values()) + ["tags.html"] + [f"w/{w['id']}.html" for w in works] + [tag_path(d, v) for d, v in idx]
     files = {}
     for lang, pre in LANGS.items():
-        files[pre + "index.html"] = build_index(lang, idx)
+        for m in MED_ORDER:
+            files[pre + MED_PAGE[m]] = build_index(lang, idx, m)
         files[pre + "tags.html"] = build_tags(idx, lang)
         for w in works:
             files[f"{pre}w/{w['id']}.html"] = build_work(w, lang)
