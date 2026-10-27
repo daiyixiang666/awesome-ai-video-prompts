@@ -284,40 +284,55 @@ def llms_txt(idx):
     return "\n".join(lines) + "\n"
 
 
+def thumb(w):
+    """Square 360px crop for the README grid, so portrait and landscape covers line up."""
+    dst = DOCS / "thumbs" / f"{w['id']}.jpg"
+    if not dst.exists():
+        from PIL import Image, ImageOps
+        dst.parent.mkdir(exist_ok=True)
+        ImageOps.fit(Image.open(DOCS / "covers" / f"{w['id']}.jpg").convert("RGB"), (360, 360), Image.LANCZOS).save(dst, quality=82, optimize=True)
+    return f"docs/thumbs/{w['id']}.jpg"
+
+
 def readme(idx, lang):
-    zh = lang == "zh"
-    by_style = {}
-    for m in MED_ORDER:
-        for w in works:
-            if med(w) == m:
-                by_style.setdefault((m, (w.get("tags", {}).get("画风") or ["其他"])[0]), []).append(w)
+    """Short landing README: badges, a cover grid of the newest works per section, tag shortcuts. The full list lives on the site."""
+    zh, s = lang == "zh", T[lang]
+    site = BASE + LANGS[lang]
     n_p = sum(1 for w in works if w.get("prompt"))
-    other = "[English](README.en.md)" if zh else "[中文](README.md)"
-    site = BASE if zh else BASE + "en/"
-    out = [f"# {T[lang]['name']}", "", f"{other}", "", f"> {T[lang]['tagline']}.", "",
-           f"**[{'在线浏览' if zh else 'Browse online'} →]({site})** · {len(works)} {T[lang]['works']} · {n_p} {T[lang]['with_prompts']} · {T[lang]['updated']} {today}", "",
-           ("每一部作品都经过人工筛选，来自 X、TikTok、抖音的顶级 AI 影像创作者；分 **视频 / 图片 / Coding** 三类（视频只收 ≤60 秒的短片），按 **画风 / 地域氛围 / 题材 / 情绪 / 镜头技法 / 用途** 六个维度打标，并尽可能附上作者公开的完整提示词。"
-            if zh else "Three separate sections — Video (short clips ≤60 s), Images and Coding — hand-picked from top AI filmmakers on X, TikTok and Douyin, tagged on six facets (visual style, regional vibe, genre, mood, camera technique, use case), credited to its creator, and includes the full prompt whenever it was published."), ""]
-    if not works:
-        out += [f"_{T[lang]['empty']}_", ""]
-    else:
-        out += ["## " + ("目录" if zh else "Contents"), ""] + [f"- {T[lang]['med'][m_]} · [{lab(s_, lang)}](#{m_}-{val_en(s_)[0]}) ({len(ws)})" for (m_, s_), ws in by_style.items()] + [""]
-    for (m_, s_), ws in by_style.items():
-        out += [f'<a id="{m_}-{val_en(s_)[0]}"></a>', f"## {T[lang]['med'][m_]} · {lab(s_, lang)}", ""]
-        for w in ws:
-            tags = " ".join(f"`{lab(v, lang)}`" for d in DIM_ORDER for v in w.get("tags", {}).get(d, []))
-            page_url = f"{site}w/{w['id']}.html"
-            out += [f"### [{title(w, lang)}]({page_url})", "", f'<a href="{page_url}"><img src="docs/covers/{w["id"]}.jpg" width="420" alt="{e(title(w, lang))}"></a>', "",
-                    f"- **{T[lang]['creator']}:** [{w['creator']}]({w['url']}) · {w['platform']}" + (f" · **{w['model']}**" if w.get("model") else "") + f" · ♥ {fmt(w.get('likes'), lang)}",
-                    f"- **{T[lang]['tags_word']}:** {tags}", f"- {desc(w, lang)}", ""]
-            if w.get("prompt"):
-                out += [f"<details><summary>{T[lang]['prompt']}</summary>", "", "```text", w["prompt"], "```", "", "</details>", ""]
-    out += ["## " + ("收录标准" if zh else "Curation"), "",
-            ("- 只收顶级：高审美、高方法论的单条短镜头；不收梗图、软色情、搬运。" if zh else "- Top-tier only: single short clips with outstanding aesthetics and craft; no memes, thirst bait or reposts."),
-            ("- 始终署名并链接原作者。" if zh else "- Original creators are always credited and linked."), "",
+    badge = lambda l, m, c: f'<img alt="{l}" src="https://img.shields.io/badge/{l}-{m}-{c}?style=flat-square">'
+    out = ['<div align="center">', "", f"# {s['name']}", "", f"**{s['tagline']}**", "",
+           " · ".join([f"[{'在线浏览' if zh else 'Browse the site'}]({site})", f"[{s['nav_tags']}]({site}tags.html)",
+                       "[English](README.en.md)" if zh else "[中文](README.md)", f"[works.json]({BASE}works.json)"]), "",
+           " ".join([badge("works", len(works), "e2a24c"), badge("with_prompts", n_p, "2d2f33"), badge("updated", today.replace("-", "--"), "2d2f33")]),
+           "", "</div>", "",
+           ("人工筛选的 AI 作品合集，只收高审美、高方法论的作品，分 **视频**（≤60 秒短片）、**图片**、**Coding**（大模型写代码做的作品）三类。每部作品都署名并链接原作者，按画风、地域氛围、题材、情绪、镜头技法、用途打标，作者公开过提示词的附上完整提示词。"
+            if zh else "A hand-picked collection of AI works with outstanding aesthetics and craft, in three sections: **Video** (clips ≤60 s), **Images** and **Coding** (works an LLM built by writing code). Every work credits and links its creator, is tagged by style, regional vibe, genre, mood, camera technique and use case, and includes the full prompt whenever the creator published it."), ""]
+    for m in MED_ORDER:
+        ws = [w for w in works if med(w) == m]
+        if not ws: continue
+        out += [f"## {s['med'][m]} <sup>{len(ws)}</sup>", "", f"{s['med_p'][m]} [{'查看全部' if zh else 'See all'} →]({site}{MED_PAGE[m]})", "", "<table>"]
+        for r in range(0, 8, 4):
+            out.append("<tr>")
+            for w in ws[r:r + 4]:
+                page_url = f"{site}w/{w['id']}.html"
+                by = e(w["creator"]) + (f" · {e(w.get('made_with') or w.get('model'))}" if (w.get("made_with") or w.get("model")) else "")
+                out.append(f'<td width="25%" valign="top"><a href="{page_url}"><img src="{thumb(w)}" alt="{e(title(w, lang))}"></a><br>'
+                           f'<a href="{page_url}"><b>{e(title(w, lang))}</b></a><br><sub>{by}</sub></td>')
+            out.append("</tr>")
+        out += ["</table>", ""]
+    out += ["## " + ("按标签找" if zh else "Browse by tag"), ""]
+    for d in DIM_ORDER:
+        top = sorted(((v, ws) for (dd, v), ws in idx.items() if dd == d), key=lambda x: -len(x[1]))[:8]
+        if top:
+            out.append(f"**{dlab(d, lang)}**　" + " · ".join(f"[{lab(v, lang)}]({site}{tag_path(d, v)}) <sub>{len(ws)}</sub>" for v, ws in top) + "  ")
+    out += ["", "## " + ("收录标准" if zh else "Curation"), "",
+            ("- 只收顶级：高审美、高方法论；不收梗图、软色情、搬运、工具广告。" if zh else "- Top-tier only: outstanding aesthetics and craft; no memes, thirst bait, reposts or tool promos."),
+            ("- 视频只收 AI 视频模型生成的作品；图片只收图片模型生成的作品；大模型写代码做的（three.js、WebGL、代码渲染的视频）都归 Coding。" if zh else "- Video = AI video models only; Images = AI image models only; anything an LLM made by writing code (three.js, WebGL, code-rendered video) goes to Coding."),
+            ("- 始终署名并链接原作者，从不编造提示词。" if zh else "- Creators are always credited and linked; prompts are never invented."), "",
+            "## " + ("给 AI 与开发者" if zh else "For agents & developers"), "",
+            f"[`works.json`]({BASE}works.json) · [`llms.txt`]({BASE}llms.txt) · [`sitemap.xml`]({BASE}sitemap.xml)", "",
             "## " + ("版权与下架" if zh else "Takedown"), "",
-            (f"如权利人认为收录不当，请发邮件至 **{CONTACT}** 或提 Issue，我们核实后第一时间下架。" if zh else f"Rights holders: email **{CONTACT}** or open an issue and we will remove the work promptly."), "",
-            "## " + ("机器可读" if zh else "Machine-readable"), "", f"- [`works.json`]({BASE}works.json) · [`llms.txt`]({BASE}llms.txt) · [`sitemap.xml`]({BASE}sitemap.xml)", ""]
+            (f"作品版权归原作者所有。如权利人认为收录不当，请发邮件至 **{CONTACT}** 或提 Issue，我们核实后第一时间下架。" if zh else f"All works belong to their creators. Rights holders can email **{CONTACT}** or open an issue and we will remove the work promptly."), ""]
     return "\n".join(out)
 
 
