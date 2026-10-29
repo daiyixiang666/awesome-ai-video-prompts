@@ -10678,5 +10678,2257 @@
   "desc_en": "An elderly woman in shadow presses her hands together in prayer, painted in thick blue and gold strokes.",
   "addedAt": "2026-10-27T11:55:23",
   "id": "img-x-2115037256666992745"
+ },
+ {
+  "creator": "Finn McKenty",
+  "desc": "死神牵狼、黑骑士与城堡、恶魔与白狼，荧光紫粉配色的复古奇幻印刷风。",
+  "duration": 0,
+  "handle": "@thefinnmckenty",
+  "likes": 1227,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-01",
+  "prompt": "",
+  "title": "骷髅死神版画",
+  "url": "https://x.com/thefinnmckenty/status/2094887501265846573",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话",
+    "恐怖"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "title_en": "Grim Reaper Pulp Print",
+  "desc_en": "A hooded skeleton reaper leads white wolves on chains, with dark knights and demons in a fluorescent purple-and-yellow, 70s pulp-print fantasy style.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2094887501265846573",
+  "images": [
+   "img-x-2094887501265846573_2.jpg",
+   "img-x-2094887501265846573_3.jpg",
+   "img-x-2094887501265846573_4.jpg"
+  ]
+ },
+ {
+  "creator": "Alban Glazman",
+  "desc": "以《奥德赛》为题的四联：海浪中的女神、神殿长廊、红衣旗手、弓箭手纹样，橙白配色极其克制。",
+  "duration": 0,
+  "handle": "@alban_gz",
+  "likes": 5532,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-12",
+  "prompt": "--hd",
+  "promptSource": "正文",
+  "title": "奥德赛",
+  "url": "https://x.com/alban_gz/status/2098763810563928265",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "奇幻神话",
+    "历史年代"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "The Odyssey",
+  "desc_en": "A four-panel take on the Odyssey: a goddess in the waves, temple halls, a red-plumed warrior and archer motifs, rendered as restrained orange-and-white decorative patterns.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2098763810563928265",
+  "images": [
+   "img-x-2098763810563928265_2.jpg",
+   "img-x-2098763810563928265_3.jpg",
+   "img-x-2098763810563928265_4.jpg"
+  ]
+ },
+ {
+  "creator": "Glitter Gal",
+  "desc": "瀑布、石阶与藏在花木间的中式楼阁，四张长条竖幅连成一组幽静的园林长卷。",
+  "duration": 0,
+  "handle": "@GlitterPixely",
+  "likes": 1817,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-14",
+  "prompt": "--sref 1559042433::4 3961311624::2 2120427644",
+  "promptSource": "正文",
+  "title": "绿意幽居",
+  "url": "https://x.com/GlitterPixely/status/2099371209288733066",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "中式"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Hidden Green Retreat",
+  "desc_en": "Waterfalls, stone steps and a Chinese pavilion tucked among lush foliage, four tall panels forming a quiet garden scroll from a weighted multi-sref blend.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2099371209288733066",
+  "images": [
+   "img-x-2099371209288733066_2.jpg",
+   "img-x-2099371209288733066_3.jpg",
+   "img-x-2099371209288733066_4.jpg"
+  ]
+ },
+ {
+  "creator": "𝕁𝕦𝕝𝕚𝕒𝕟 ℂ",
+  "desc": "粉色巨构建筑、绿色天井与扭曲楼梯，广角仰拍的梦境城市。",
+  "duration": 0,
+  "handle": "@Julianc_AI",
+  "likes": 1522,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-21",
+  "prompt": "",
+  "title": "我在做梦吗",
+  "url": "https://x.com/Julianc_AI/status/2102156530049016263",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "旅行城市"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "title_en": "Am I Dreaming",
+  "desc_en": "Wide-angle, low-angle architectural shots of a dreamlike city with pink megastructures, green atriums and twisting stairways.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2102156530049016263",
+  "images": [
+   "img-x-2102156530049016263_2.jpg",
+   "img-x-2102156530049016263_3.jpg",
+   "img-x-2102156530049016263_4.jpg"
+  ]
+ },
+ {
+  "creator": "Olga Volosin",
+  "desc": "巨大胖子倒茶、巨脚踏山、巨手提袋，古典油画质感的尺度错乱。",
+  "duration": 0,
+  "handle": "@OVolosin82152",
+  "likes": 865,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-22",
+  "prompt": "",
+  "title": "巨人日常",
+  "url": "https://x.com/OVolosin82152/status/2102369381665951974",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "喜剧搞笑"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Daily Life of Giants",
+  "desc_en": "A giant pours tea, a huge foot steps on a mountain and a giant hand carries a bag, absurd shifts of scale painted with classical oil-painting texture.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2102369381665951974",
+  "images": [
+   "img-x-2102369381665951974_2.jpg",
+   "img-x-2102369381665951974_3.jpg",
+   "img-x-2102369381665951974_4.jpg"
+  ]
+ },
+ {
+  "creator": "Keskin",
+  "desc": "美杜莎、喀耳刻、赫斯提亚、得墨忒耳化身蜡笔童书角色，色块饱满温暖。",
+  "duration": 0,
+  "handle": "@craftian_keskin",
+  "likes": 10301,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-24",
+  "prompt": "",
+  "title": "可爱希腊神话",
+  "url": "https://x.com/craftian_keskin/status/2103072199393632445",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "温暖治愈",
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Cute Greek Myths",
+  "desc_en": "Medusa, Circe, Hestia and Demeter reimagined as crayon children's-book characters in warm, saturated color blocks.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2103072199393632445",
+  "images": [
+   "img-x-2103072199393632445_2.jpg",
+   "img-x-2103072199393632445_3.jpg",
+   "img-x-2103072199393632445_4.jpg"
+  ]
+ },
+ {
+  "creator": "Kōda",
+  "desc": "四位剑士在空中翻腾出招，衣袂飞扬，干净的蓝灰背景衬出强烈的动势。",
+  "duration": 0,
+  "handle": "@aimikoda",
+  "likes": 339,
+  "medium": "image",
+  "model": "Midjourney v8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-25",
+  "prompt": "--sref 1448908625 3123598145 387469134 3207844525 --profile kxxcnp9 --stylize 250 (pose keywords: mid-air action pose, mid-air combat pose)",
+  "promptSource": "正文",
+  "title": "凌空剑士",
+  "url": "https://x.com/aimikoda/status/2103429350028644816",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "武侠打斗"
+   ],
+   "情绪": [
+    "热血燃"
+   ]
+  },
+  "title_en": "Mid-Air Swordsmen",
+  "desc_en": "Four swordsmen flip and strike in mid-air with flowing robes against a clean blue-gray sky, built from a public sref blend plus action-pose keywords.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2103429350028644816",
+  "images": [
+   "img-x-2103429350028644816_2.jpg",
+   "img-x-2103429350028644816_3.jpg",
+   "img-x-2103429350028644816_4.jpg"
+  ]
+ },
+ {
+  "creator": "Kaski_Anna@",
+  "desc": "长发少女被紫色妖物与荧光绿触手环绕，粉红斜线和金色星芒打破画框。",
+  "duration": 0,
+  "handle": "@G_Eskeles",
+  "likes": 937,
+  "medium": "image",
+  "model": "Midjourney v8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-26",
+  "prompt": "",
+  "title": "妖异少女",
+  "url": "https://x.com/G_Eskeles/status/2103752326716751999",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "title_en": "Demon-Bound Girl",
+  "desc_en": "A long-haired horned girl is wrapped by a purple monster and neon-green tentacles, with pink slashes and gold starbursts breaking the frame.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2103752326716751999"
+ },
+ {
+  "creator": "Alban Glazman",
+  "desc": "橙白火焰般的战士、弓箭手纹样与戴冠女神，延续奥德赛系列的装饰风。",
+  "duration": 0,
+  "handle": "@alban_gz",
+  "likes": 3156,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-09-26",
+  "prompt": "",
+  "title": "希腊英雄",
+  "url": "https://x.com/alban_gz/status/2103773571159888284",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "奇幻神话",
+    "历史年代"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Greek Heroes",
+  "desc_en": "Flame-like orange-and-white warriors, archer motifs and a crowned goddess, continuing the decorative Odyssey series.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2103773571159888284",
+  "images": [
+   "img-x-2103773571159888284_2.jpg",
+   "img-x-2103773571159888284_3.jpg",
+   "img-x-2103773571159888284_4.jpg"
+  ]
+ },
+ {
+  "creator": "Dogan Ural",
+  "desc": "四联竖幅：漆黑太空下层层光环，小小人影立在红白光带上。",
+  "duration": 0,
+  "handle": "@doganuraldesign",
+  "likes": 3610,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-01",
+  "prompt": "",
+  "title": "星环地平线",
+  "url": "https://x.com/doganuraldesign/status/2105682224242971020",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "史诗壮阔",
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Ring Horizon",
+  "desc_en": "Four tall panels of layered planetary rings in black space, with a tiny figure standing on a red-and-white band of light.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2105682224242971020",
+  "images": [
+   "img-x-2105682224242971020_2.jpg",
+   "img-x-2105682224242971020_3.jpg",
+   "img-x-2105682224242971020_4.jpg"
+  ]
+ },
+ {
+  "creator": "🇸🇦 AREEJ AlTHAQAFI",
+  "desc": "阿拉伯男子、白马、少女与鸟，用绿蓝两色丝网版画质感画出，笔触粗粝有手作感。",
+  "duration": 0,
+  "handle": "@areej_design",
+  "likes": 390,
+  "medium": "image",
+  "model": "Midjourney v8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-01",
+  "prompt": "--v 8.2 --sref 350198020",
+  "promptSource": "正文",
+  "title": "绿蓝版画肖像",
+  "url": "https://x.com/areej_design/status/2105701080889979142",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Green-Blue Riso Portraits",
+  "desc_en": "An Arab man, a white horse, a girl and a bird drawn in rough two-color green-and-blue risograph texture from a single sref.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2105701080889979142",
+  "images": [
+   "img-x-2105701080889979142_2.jpg",
+   "img-x-2105701080889979142_3.jpg",
+   "img-x-2105701080889979142_4.jpg"
+  ]
+ },
+ {
+  "creator": "Glitter Gal",
+  "desc": "四张竖幅绘本场景：草地小径、篝火、林中行者、溪畔小人，深绿和暖红点缀，像一本童话插画集。",
+  "duration": 0,
+  "handle": "@GlitterPixely",
+  "likes": 1824,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-02",
+  "prompt": "--sref 2116795492 --profile lbffree --stylize 750",
+  "promptSource": "正文",
+  "title": "林间小径童话",
+  "url": "https://x.com/GlitterPixely/status/2106077300018348501",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "奇幻神话",
+    "自然风光"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Forest Path Fairy Tale",
+  "desc_en": "Four storybook panels of a meadow path, a campfire, a forest wanderer and small figures by a stream, in deep greens with warm red accents.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2106077300018348501",
+  "images": [
+   "img-x-2106077300018348501_2.jpg",
+   "img-x-2106077300018348501_3.jpg",
+   "img-x-2106077300018348501_4.jpg"
+  ]
+ },
+ {
+  "creator": "Dogan Ural",
+  "desc": "蓝白星环弯成漩涡与弧线，红色光带收边，人影渺小。",
+  "duration": 0,
+  "handle": "@doganuraldesign",
+  "likes": 2350,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-03",
+  "prompt": "",
+  "title": "光环漩涡",
+  "url": "https://x.com/doganuraldesign/status/2106414656449347776",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Ring Vortex",
+  "desc_en": "Blue-and-white star rings curve into vortices and arcs edged with red light bands, with tiny human figures for scale.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2106414656449347776",
+  "images": [
+   "img-x-2106414656449347776_2.jpg",
+   "img-x-2106414656449347776_3.jpg",
+   "img-x-2106414656449347776_4.jpg"
+  ]
+ },
+ {
+  "creator": "Kaski_Anna@",
+  "desc": "赤脚少女走在海浪边，白裙和帽带被风吹起，粉色天空的方框构图像一幅插画小品。",
+  "duration": 0,
+  "handle": "@G_Eskeles",
+  "likes": 843,
+  "medium": "image",
+  "model": "Midjourney v8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-09",
+  "prompt": "",
+  "title": "海边白裙",
+  "url": "https://x.com/G_Eskeles/status/2108565720997196205",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "爱情青春"
+   ],
+   "情绪": [
+    "浪漫心动",
+    "温暖治愈"
+   ]
+  },
+  "title_en": "White Dress by the Sea",
+  "desc_en": "A barefoot girl walks along the surf as wind lifts her white dress and hat ribbon, framed in a pink-sky square like a watercolor-light illustration.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2108565720997196205"
+ },
+ {
+  "creator": "Kadir(Hayalet)",
+  "desc": "荒漠里一辆白色重型越野探测车，宇航员站在车旁，硬科幻概念设计。",
+  "duration": 0,
+  "handle": "@hayalet_kadir",
+  "likes": 412,
+  "medium": "image",
+  "model": "Flux",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-10",
+  "prompt": "",
+  "title": "猛犸探测车",
+  "url": "https://x.com/hayalet_kadir/status/2108787591151517880",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "游戏CG"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻",
+    "汽车"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Mammoth Rover",
+  "desc_en": "A white heavy-duty exploration rover in the desert with an astronaut beside it, hard sci-fi concept art with solid industrial detail.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2108787591151517880"
+ },
+ {
+  "creator": "goo.vision",
+  "desc": "高速公路边长发细腿的灰影、桥下巨手与人形石柱，阴天纪实色调令人不安。",
+  "duration": 0,
+  "handle": "@goo_vision",
+  "likes": 1291,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-13",
+  "prompt": "",
+  "title": "高架下的异物",
+  "url": "https://x.com/goo_vision/status/2110109276446523674",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "纪实手持"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "恐怖"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "title_en": "Things Under the Overpass",
+  "desc_en": "A long-haired, spindly gray creature by a highway, a giant hand under a bridge and humanoid stone pillars, shot in overcast documentary tones.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2110109276446523674",
+  "images": [
+   "img-x-2110109276446523674_2.jpg",
+   "img-x-2110109276446523674_3.jpg",
+   "img-x-2110109276446523674_4.jpg"
+  ]
+ },
+ {
+  "creator": "MayorkingAI",
+  "desc": "持剑少女、戴冠国王、吹笛精灵与稻草人，紫橙暗调的绘本插画。",
+  "duration": 0,
+  "handle": "@MayorKingAI",
+  "likes": 285,
+  "medium": "image",
+  "model": "Midjourney 8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-14",
+  "prompt": "--sref 3218182685",
+  "promptSource": "正文",
+  "title": "暗夜童话",
+  "url": "https://x.com/MayorKingAI/status/2110397621689045465",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "title_en": "Dark Night Fairy Tale",
+  "desc_en": "A sword-wielding girl, a crowned king, a flute-playing sprite and a scarecrow in dark purple-and-orange storybook illustration from a public sref.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2110397621689045465",
+  "images": [
+   "img-x-2110397621689045465_2.jpg",
+   "img-x-2110397621689045465_3.jpg",
+   "img-x-2110397621689045465_4.jpg"
+  ]
+ },
+ {
+  "creator": "Leiko Tar",
+  "desc": "红日下的芦苇水塘，红衣人静立，水面倒影被刮刀笔触打碎。",
+  "duration": 0,
+  "handle": "@LeikoTar",
+  "likes": 769,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-15",
+  "prompt": "",
+  "title": "夜知我名之前",
+  "url": "https://x.com/LeikoTar/status/2110687689611825373",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Before Night Knows My Name",
+  "desc_en": "A red-robed figure stands still in a reed pond under a red sun, its reflection shattered by palette-knife strokes.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2110687689611825373"
+ },
+ {
+  "creator": "MayorkingAI",
+  "desc": "老爷爷、小乌龟、持杖小猴和眺望古城的孩子，暖光下的 3D 动画电影质感。",
+  "duration": 0,
+  "handle": "@MayorKingAI",
+  "likes": 143,
+  "medium": "image",
+  "model": "Midjourney 8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-15",
+  "prompt": "--sref 293620421",
+  "promptSource": "正文",
+  "title": "森林童话角色",
+  "url": "https://x.com/MayorKingAI/status/2110757286553727196",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "3D卡通"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Forest Fairy Tale Cast",
+  "desc_en": "An old man, a little turtle, a staff-holding monkey and a child gazing at an ancient city, in warm-lit 3D animated-film style from a single sref.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2110757286553727196",
+  "images": [
+   "img-x-2110757286553727196_2.jpg",
+   "img-x-2110757286553727196_3.jpg",
+   "img-x-2110757286553727196_4.jpg"
+  ]
+ },
+ {
+  "creator": "Kōda",
+  "desc": "背着行囊的旅人、蘑菇头巫师、红花丛里的剑客，绿松石底色上的角色设计感十足。",
+  "duration": 0,
+  "handle": "@aimikoda",
+  "likes": 342,
+  "medium": "image",
+  "model": "Midjourney v8.2",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-16",
+  "prompt": "--sref 1505168635 3664652813 1916012500 --profile d3zvtyp --stylize 1000",
+  "promptSource": "正文",
+  "title": "旅者角色集",
+  "url": "https://x.com/aimikoda/status/2111036186961572129",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Wanderer Character Set",
+  "desc_en": "A backpacking traveler, a mushroom-headed wizard and a swordsman in red flowers on turquoise grounds, rich character-design detail from an sref and profile recipe.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2111036186961572129",
+  "images": [
+   "img-x-2111036186961572129_2.jpg",
+   "img-x-2111036186961572129_3.jpg",
+   "img-x-2111036186961572129_4.jpg"
+  ]
+ },
+ {
+  "creator": "Keskin",
+  "desc": "人物被巨大的丝绸般流体包裹，橙白、蓝白两组色调在麦田与天空间翻卷。",
+  "duration": 0,
+  "handle": "@craftian_keskin",
+  "likes": 147,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-17",
+  "prompt": "--sref 268814299 4137760788::2 2109820134",
+  "promptSource": "正文",
+  "title": "流动的织物",
+  "url": "https://x.com/craftian_keskin/status/2111382393131073872",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境",
+    "广告大片"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Flowing Fabric",
+  "desc_en": "Figures engulfed by giant silk-like fluids rolling between wheat fields and sky in orange-white and blue-white palettes.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2111382393131073872",
+  "images": [
+   "img-x-2111382393131073872_2.jpg",
+   "img-x-2111382393131073872_3.jpg",
+   "img-x-2111382393131073872_4.jpg"
+  ]
+ },
+ {
+  "creator": "AlexandrIA",
+  "desc": "狼人约会、羊群里的狼、买甜甜圈的骷髅、记者鸽子，扁平漫画里藏着冷幽默。",
+  "duration": 0,
+  "handle": "@AleRVG",
+  "likes": 911,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-18",
+  "prompt": "--sref 459167727 2215873873 296242095 1628675712",
+  "promptSource": "正文",
+  "title": "尴尬但若无其事",
+  "url": "https://x.com/AleRVG/status/2111749726949224802",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "喜剧搞笑"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Awkward but Unbothered",
+  "desc_en": "A werewolf on a date, a wolf among sheep, a skeleton buying donuts and a pigeon reporter, deadpan humor in flat magazine-comic illustration.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2111749726949224802",
+  "images": [
+   "img-x-2111749726949224802_2.jpg",
+   "img-x-2111749726949224802_3.jpg",
+   "img-x-2111749726949224802_4.jpg"
+  ]
+ },
+ {
+  "creator": "MO",
+  "desc": "大理石雕像的脸布满金色裂纹，天使与金冠在暗金背景里，巴洛克神圣感。",
+  "duration": 0,
+  "handle": "@MO_IAI",
+  "likes": 633,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-19",
+  "prompt": "",
+  "title": "罪人",
+  "url": "https://x.com/MO_IAI/status/2112051686072098824",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "title_en": "Sinner",
+  "desc_en": "A marble statue face laced with golden cracks, angels and a gold crown against a dark-gold background, with Baroque sacred drama.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2112051686072098824",
+  "images": [
+   "img-x-2112051686072098824_2.jpg",
+   "img-x-2112051686072098824_3.jpg",
+   "img-x-2112051686072098824_4.jpg"
+  ]
+ },
+ {
+  "creator": "HPJJ",
+  "desc": "新艺术运动的曲线化成蓬松花瓣般的衣装，墙纸背景下四色变奏。",
+  "duration": 0,
+  "handle": "@HPJJ_u_l_5",
+  "likes": 5929,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-20",
+  "prompt": "",
+  "title": "植物志 2",
+  "url": "https://x.com/HPJJ_u_l_5/status/2112389077714788510",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ]
+  },
+  "title_en": "Botanica 2",
+  "desc_en": "Art Nouveau curves become puffy petal-like garments, shown in four color variations against floral wallpaper.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2112389077714788510",
+  "images": [
+   "img-x-2112389077714788510_2.jpg",
+   "img-x-2112389077714788510_3.jpg",
+   "img-x-2112389077714788510_4.jpg"
+  ]
+ },
+ {
+  "creator": "Lloyd Creates",
+  "desc": "白衣人在像素化的草坡上消散、羊群与白色教堂、光点隧道，深蓝天空下的超现实摄影。",
+  "duration": 0,
+  "handle": "@lloydcreates",
+  "likes": 908,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-20",
+  "prompt": "",
+  "title": "隐于眼前",
+  "url": "https://x.com/lloydcreates/status/2112673303466832292",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Hidden in Plain Sight",
+  "desc_en": "A figure in white dissolves into pixels on a grassy hill, with sheep, a white church and a tunnel of light points under a deep blue sky.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2112673303466832292",
+  "images": [
+   "img-x-2112673303466832292_2.jpg",
+   "img-x-2112673303466832292_3.jpg",
+   "img-x-2112673303466832292_4.jpg"
+  ]
+ },
+ {
+  "platform": "X",
+  "url": "https://x.com/egeberkina/status/2113378110104306163",
+  "creator": "Ege",
+  "handle": "@egeberkina",
+  "title": "胶片蓝天",
+  "desc": "被抛向天空的婴儿、监视器后的人、海边车旁的情侣、铁丝网前的背影，七十年代胶片质感。",
+  "prompt": "--sref 368009474",
+  "promptSource": "正文",
+  "model": "Midjourney",
+  "likes": 105,
+  "views": 0,
+  "postedAt": "2026-10-22",
+  "orientation": "portrait",
+  "duration": 0,
+  "medium": "image",
+  "tags": {
+   "画风": [
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Film Blue Sky",
+  "desc_en": "A baby tossed into the sky, a man behind a monitor, a couple by a car at the beach and a figure at a wire fence, in 70s film-magazine texture from a single sref.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2113378110104306163",
+  "images": [
+   "img-x-2113378110104306163_2.jpg",
+   "img-x-2113378110104306163_3.jpg",
+   "img-x-2113378110104306163_4.jpg"
+  ]
+ },
+ {
+  "creator": "Gizem Akdag",
+  "desc": "蓝白涂鸦图案爬满屋顶、骑手衬衫和画框，绿色香蕉林里的一组编辑大片。",
+  "duration": 0,
+  "handle": "@gizakdag",
+  "likes": 247,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-23",
+  "prompt": "",
+  "title": "蓝色涂鸦",
+  "url": "https://x.com/gizakdag/status/2113675501651054885",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Blue Graffiti",
+  "desc_en": "Blue-and-white graffiti patterns cover a rooftop, a rider's shirt and picture frames in a fashion editorial set in a green banana grove.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2113675501651054885",
+  "images": [
+   "img-x-2113675501651054885_2.jpg",
+   "img-x-2113675501651054885_3.jpg",
+   "img-x-2113675501651054885_4.jpg"
+  ]
+ },
+ {
+  "creator": "Gizem Akdag",
+  "desc": "红色花海里燃烧的汽车、红眼妆特写、火焰骏马和花雕像，红蓝互补极其浓烈。",
+  "duration": 0,
+  "handle": "@gizakdag",
+  "likes": 241,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-24",
+  "prompt": "",
+  "title": "火焰",
+  "url": "https://x.com/gizakdag/status/2114130202129232047",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "广告大片",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "热血燃"
+   ]
+  },
+  "title_en": "Fire",
+  "desc_en": "A burning car in a red flower field, red eye-makeup close-ups, a flaming horse and a flower statue, in intense red-blue complementary color.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2114130202129232047",
+  "images": [
+   "img-x-2114130202129232047_2.jpg",
+   "img-x-2114130202129232047_3.jpg",
+   "img-x-2114130202129232047_4.jpg"
+  ]
+ },
+ {
+  "creator": "Ege",
+  "desc": "银发老年女性的纹身与皱纹特写，红唇与豹纹，直闪光时装摄影。",
+  "duration": 0,
+  "handle": "@egeberkina",
+  "likes": 6015,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-25",
+  "prompt": "",
+  "title": "美",
+  "url": "https://x.com/egeberkina/status/2114316352773066834",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Beauty",
+  "desc_en": "Close-ups of a silver-haired older woman's tattoos and wrinkles with red lips and leopard print, shot in direct-flash fashion style.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2114316352773066834",
+  "images": [
+   "img-x-2114316352773066834_2.jpg",
+   "img-x-2114316352773066834_3.jpg",
+   "img-x-2114316352773066834_4.jpg"
+  ]
+ },
+ {
+  "platform": "X",
+  "url": "https://x.com/sergeantsref/status/2114639670437179644",
+  "creator": "Sgt Sref",
+  "handle": "@sergeantsref",
+  "title": "雪中小镇",
+  "desc": "白雪覆盖的坡地小镇，粉衣小人在雪里行走，粉蓝色调的童书插画。",
+  "prompt": "--sref 1240652461 369650292",
+  "promptSource": "正文",
+  "model": "Midjourney",
+  "likes": 132,
+  "views": 0,
+  "postedAt": "2026-10-26",
+  "orientation": "portrait",
+  "duration": 0,
+  "medium": "image",
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "自然风光",
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈",
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Snowy Hillside Town",
+  "desc_en": "A children's-book illustration of a snow-covered hillside town, with a small figure in pink walking through the snow in soft pink-blue tones.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2114639670437179644",
+  "images": [
+   "img-x-2114639670437179644_2.jpg",
+   "img-x-2114639670437179644_3.jpg",
+   "img-x-2114639670437179644_4.jpg"
+  ]
+ },
+ {
+  "creator": "Lloyd Creates",
+  "desc": "奔跑者被网格和光带切碎、宇航员在草丛里、星轨下的巨大光环，冷蓝色调。",
+  "duration": 0,
+  "handle": "@lloydcreates",
+  "likes": 227,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "",
+  "title": "原地疾行",
+  "url": "https://x.com/lloydcreates/status/2114699868165849508",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻",
+    "运动极限"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Running in Place",
+  "desc_en": "A runner sliced by grids and light bands, an astronaut in tall grass and a giant halo under star trails, all in cool blue.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2114699868165849508",
+  "images": [
+   "img-x-2114699868165849508_2.jpg",
+   "img-x-2114699868165849508_3.jpg",
+   "img-x-2114699868165849508_4.jpg"
+  ]
+ },
+ {
+  "creator": "𝕁𝕦𝕝𝕚𝕒𝕟 ℂ",
+  "desc": "雪山上空喷出的彩虹光束、UFO 光柱、行星与彩色道路，孤身人影伫立。",
+  "duration": 0,
+  "handle": "@Julianc_AI",
+  "likes": 232,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "--ar 9:16 --raw --sref 1933911226 1943849292 3179406982 192108337 --h",
+  "promptSource": "正文",
+  "title": "彩虹光柱",
+  "url": "https://x.com/Julianc_AI/status/2114739404589674980",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻",
+    "自然风光"
+   ],
+   "情绪": [
+    "史诗壮阔",
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Rainbow Light Beams",
+  "desc_en": "Rainbow beams burst from a snowy mountain beside UFO light columns, planets and colourful roads, with a lone figure watching. Full Midjourney parameters shared.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2114739404589674980",
+  "images": [
+   "img-x-2114739404589674980_2.jpg",
+   "img-x-2114739404589674980_3.jpg",
+   "img-x-2114739404589674980_4.jpg"
+  ]
+ },
+ {
+  "creator": "Anima",
+  "desc": "水晶守卫、羽毛斥候、森林战士、蘑菇萨满四张角色设定卡，附配色条。",
+  "duration": 0,
+  "handle": "@Anima_Labs",
+  "likes": 578,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "",
+  "title": "部落角色设定",
+  "url": "https://x.com/Anima_Labs/status/2114790258646913256",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "游戏CG"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话",
+    "游戏电竞"
+   ],
+   "情绪": [
+    "热血燃"
+   ],
+   "镜头技法": [
+    "角色一致性"
+   ]
+  },
+  "title_en": "Tribal Character Sheets",
+  "desc_en": "Four game-concept character cards (crystal guardian, feather scout, forest warrior, mushroom shaman), each with its own colour palette strip.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2114790258646913256",
+  "images": [
+   "img-x-2114790258646913256_2.jpg",
+   "img-x-2114790258646913256_3.jpg",
+   "img-x-2114790258646913256_4.jpg"
+  ]
+ },
+ {
+  "creator": "HPJJ",
+  "desc": "短发女孩与红蓝几何图形互相呼应，构成主义海报融入时装摄影。",
+  "duration": 0,
+  "handle": "@HPJJ_u_l_5",
+  "likes": 2872,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-26",
+  "prompt": "",
+  "title": "俄国先锋派",
+  "url": "https://x.com/HPJJ_u_l_5/status/2114813976244801665",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Russian Avant-Garde Fashion",
+  "desc_en": "A short-haired girl posed against red and blue geometric shapes, blending Constructivist poster design with fashion photography.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2114813976244801665",
+  "images": [
+   "img-x-2114813976244801665_2.jpg",
+   "img-x-2114813976244801665_3.jpg",
+   "img-x-2114813976244801665_4.jpg"
+  ]
+ },
+ {
+  "platform": "X",
+  "url": "https://x.com/ajishiai/status/2114858703468023847",
+  "creator": "あじずむ｜幻想視覚Lab",
+  "handle": "@ajishiai",
+  "title": "晨即记忆",
+  "desc": "银发小丑少女坐在宝箱上，纸牌与铃铛环绕，华丽的幻想人偶质感。",
+  "prompt": "",
+  "promptSource": "",
+  "model": "Midjourney",
+  "likes": 98,
+  "views": 0,
+  "postedAt": "2026-10-26",
+  "orientation": "portrait",
+  "duration": 0,
+  "medium": "image",
+  "tags": {
+   "画风": [
+    "游戏CG"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话",
+    "时尚美妆"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ]
+  },
+  "title_en": "Silver Jester on a Chest",
+  "desc_en": "A silver-haired jester girl sits on a treasure chest ringed by playing cards and bells, rendered like an ornate fantasy doll.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2114858703468023847",
+  "images": [
+   "img-x-2114858703468023847_2.jpg"
+  ]
+ },
+ {
+  "creator": "Olga Volosin",
+  "desc": "戴冠的黑衣人、骷髅、恶魔，蓝红底色上满是涂鸦纹样的潮流角色。",
+  "duration": 0,
+  "handle": "@OVolosin82152",
+  "likes": 900,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-27",
+  "prompt": "",
+  "title": "街头王者",
+  "url": "https://x.com/OVolosin82152/status/2115054456727281994",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "3D卡通"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "热血燃"
+   ],
+   "镜头技法": [
+    "角色一致性"
+   ]
+  },
+  "title_en": "Streetwear Kings",
+  "desc_en": "Crowned figures, skulls and demons in black, covered in graffiti patterns on blue and red backgrounds, styled as streetwear character designs.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2115054456727281994",
+  "images": [
+   "img-x-2115054456727281994_2.jpg",
+   "img-x-2115054456727281994_3.jpg",
+   "img-x-2115054456727281994_4.jpg"
+  ]
+ },
+ {
+  "creator": "AlexandrIA",
+  "desc": "长喙女巫、科学怪人、驼背巨人和吸血鬼，像定格动画的毛毡手办。",
+  "duration": 0,
+  "handle": "@AleRVG",
+  "likes": 718,
+  "medium": "image",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-27",
+  "prompt": "--sref 1218282538",
+  "promptSource": "正文",
+  "title": "万圣节怪物",
+  "url": "https://x.com/AleRVG/status/2115105889174561216",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "黏土定格"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "恐怖",
+    "喜剧搞笑"
+   ],
+   "情绪": [
+    "诡异不安"
+   ],
+   "镜头技法": [
+    "角色一致性"
+   ]
+  },
+  "title_en": "Felt Halloween Monsters",
+  "desc_en": "A long-beaked witch, Frankenstein's monster, a hunchbacked giant and a vampire that look like handmade felt stop-motion puppets.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2115105889174561216",
+  "images": [
+   "img-x-2115105889174561216_2.jpg",
+   "img-x-2115105889174561216_3.jpg",
+   "img-x-2115105889174561216_4.jpg"
+  ]
+ },
+ {
+  "creator": "unseen",
+  "desc": "孤身小人站在绿色山坡、深渊、雏菊漩涡和红蓝波纹之上，复古印刷质感。",
+  "duration": 0,
+  "handle": "@unseenai",
+  "likes": 718,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-28",
+  "prompt": "",
+  "title": "小人与大地",
+  "url": "https://x.com/unseenai/status/2115365358119063766",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "胶片复古",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Tiny Figure, Vast Land",
+  "desc_en": "A lone tiny figure stands on green hills, chasms, daisy swirls and red-blue ripples, with a vintage print texture and extreme sense of scale.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2115365358119063766",
+  "images": [
+   "img-x-2115365358119063766_2.jpg",
+   "img-x-2115365358119063766_3.jpg",
+   "img-x-2115365358119063766_4.jpg"
+  ]
+ },
+ {
+  "creator": "Leiko Tar",
+  "desc": "雪地里一棵燃烧般的红树，树下小人与马车，厚涂油画的笔触。",
+  "duration": 0,
+  "handle": "@LeikoTar",
+  "likes": 1420,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-28",
+  "prompt": "",
+  "title": "克朗代克之路",
+  "url": "https://x.com/LeikoTar/status/2115400321988206802",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "自然风光",
+    "历史年代"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "The Klondike Trail",
+  "desc_en": "A fiery red tree in the snow with a small figure and a carriage beneath it, painted with thick oil brushstrokes.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2115400321988206802"
+ },
+ {
+  "creator": "unseen",
+  "desc": "红衣小人置身瀑布、雪浪和漩涡中心，黑白红三色的木刻版画感。",
+  "duration": 0,
+  "handle": "@unseenai",
+  "likes": 486,
+  "medium": "image",
+  "orientation": "portrait",
+  "platform": "X",
+  "postedAt": "2026-10-28",
+  "prompt": "",
+  "title": "雪与瀑布",
+  "url": "https://x.com/unseenai/status/2115516205272355046",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "title_en": "Snow and Waterfalls",
+  "desc_en": "A tiny red-clad figure amid waterfalls, snow waves and whirlpools, in a black, white and red woodcut-print style.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "img-x-2115516205272355046",
+  "images": [
+   "img-x-2115516205272355046_2.jpg",
+   "img-x-2115516205272355046_3.jpg",
+   "img-x-2115516205272355046_4.jpg"
+  ]
+ },
+ {
+  "creator": "VisionaryVistas",
+  "desc": "漂浮岩岛倒映在镜面水面，积云高耸，小人立于岸边。",
+  "duration": 60,
+  "handle": "@visionary_vistas",
+  "likes": 29700,
+  "medium": "video",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "TikTok",
+  "postedAt": "2025-08-01",
+  "prompt": "",
+  "title": "镜面之岛",
+  "url": "https://www.tiktok.com/@visionary_vistas/video/7533490775435250974",
+  "views": 251800,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话",
+    "自然风光"
+   ],
+   "情绪": [
+    "史诗壮阔",
+    "孤独忧郁"
+   ],
+   "用途": [
+    "MV"
+   ]
+  },
+  "title_en": "Mirror Island",
+  "desc_en": "A floating rock island reflected in a mirror-still sea under towering cumulus clouds, with a small figure on the shore, in a Moebius-like style.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "tt-7533490775435250974"
+ },
+ {
+  "creator": "Enter The Void",
+  "desc": "闪光灯直打的梦境：女人站在棉花般的云海里，一架客机静静停在面前。",
+  "duration": 27,
+  "handle": "@enterthevoidstudio",
+  "likes": 224700,
+  "medium": "video",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "TikTok",
+  "postedAt": "2025-09-07",
+  "prompt": "",
+  "title": "okie dokie",
+  "url": "https://www.tiktok.com/@enterthevoidstudio/video/7547456543185210679",
+  "views": 2000000,
+  "tags": {
+   "画风": [
+    "超现实梦境",
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "诡异不安",
+    "孤独忧郁"
+   ],
+   "用途": [
+    "MV"
+   ]
+  },
+  "title_en": "Okie Dokie",
+  "desc_en": "A direct-flash dreamcore scene: a woman stands in a cotton-like sea of clouds as an airliner sits silently before her.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "tt-7547456543185210679"
+ },
+ {
+  "creator": "Enter The Void",
+  "desc": "雪原上红衣女子仰望发光的飞船，冷光柱打下，画面像旧照片。",
+  "duration": 27,
+  "handle": "@enterthevoidstudio",
+  "likes": 25500,
+  "medium": "video",
+  "model": "Midjourney",
+  "orientation": "portrait",
+  "platform": "TikTok",
+  "postedAt": "2025-10-10",
+  "prompt": "",
+  "title": "空心",
+  "url": "https://www.tiktok.com/@enterthevoidstudio/video/7559386178349206797",
+  "views": 224300,
+  "tags": {
+   "画风": [
+    "超现实梦境",
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ],
+   "用途": [
+    "MV"
+   ]
+  },
+  "title_en": "Hollow",
+  "desc_en": "A woman in red on a snowfield looks up at a glowing spaceship casting cold light beams, shot like an old photograph.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "tt-7559386178349206797"
+ },
+ {
+  "creator": "Other Realm",
+  "desc": "罗马竞技场里，戴羽冠的镀铬机械头盔人物转身，线缆垂落。",
+  "duration": 19,
+  "handle": "@other_realm",
+  "likes": 9049,
+  "medium": "video",
+  "model": "Midjourney + Higgsfield",
+  "orientation": "portrait",
+  "platform": "TikTok",
+  "postedAt": "2026-10-15",
+  "prompt": "",
+  "title": "永恒帝国",
+  "url": "https://www.tiktok.com/@other_realm/video/7696915816025197837",
+  "views": 60200,
+  "tags": {
+   "画风": [
+    "写实电影感",
+    "赛博霓虹"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "科幻",
+    "历史年代"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ],
+   "用途": [
+    "预告片"
+   ]
+  },
+  "title_en": "Eternal Empire",
+  "desc_en": "In a Roman arena, a figure in a chrome mechanical helmet with a plumed crest turns, cables hanging, as classical and cyber materials collide.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "tt-7696915816025197837"
+ },
+ {
+  "creator": "Other Realm",
+  "desc": "巨型罗马神像从城市中升起，身体由塔楼与机械构成，航拍俯冲。",
+  "duration": 26,
+  "handle": "@other_realm",
+  "likes": 59200,
+  "medium": "video",
+  "model": "Midjourney + Higgsfield",
+  "orientation": "portrait",
+  "platform": "TikTok",
+  "postedAt": "2026-10-19",
+  "prompt": "",
+  "title": "统治",
+  "url": "https://www.tiktok.com/@other_realm/video/7698193075356585230",
+  "views": 289300,
+  "tags": {
+   "画风": [
+    "写实电影感",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "科幻",
+    "奇幻神话"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ],
+   "用途": [
+    "预告片"
+   ]
+  },
+  "title_en": "Dominion",
+  "desc_en": "A colossal Roman god statue built of towers and machinery rises from a city, seen in a swooping aerial shot.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "tt-7698193075356585230"
+ },
+ {
+  "creator": "Techartist",
+  "desc": "一栋现代住宅在浏览器里分四个阶段生长：铅笔线稿、体块、细节，最后成为带泳池和暖光室内的完整建筑。",
+  "duration": 19.1,
+  "handle": "@techartist_",
+  "likes": 1999,
+  "made_with": "Opus 5.5 (Claude)",
+  "medium": "web",
+  "model": "Opus 5.5 (Claude)",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-09-22",
+  "prompt": "",
+  "stack": [
+   "three.js",
+   "TSL",
+   "WebGPU"
+  ],
+  "title": "从草图到家",
+  "url": "https://x.com/techartist_/status/2102503719762018434",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "产品",
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "From Sketch to Home",
+  "desc_en": "A modern house grows in the browser across four stages, from pencil lines to massing, details and a finished build with a pool and warm interior light.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "web-2102503719762018434",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2102503719762018434.mp4"
+ },
+ {
+  "creator": "Joshua Guo",
+  "desc": "整幅齐白石风格的水墨虾在网页里实时绘制：墨晕、枯笔虾须、纸面洇边，鼠标靠近时虾会甩尾游开。",
+  "duration": 10.5,
+  "handle": "@jshguo",
+  "likes": 380,
+  "made_with": "Opus 5.5 (Claude)",
+  "medium": "web",
+  "model": "Opus 5.5 (Claude)",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-09-30",
+  "prompt": "",
+  "stack": [
+   "WebGL",
+   "GLSL"
+  ],
+  "title": "齐白石的虾",
+  "url": "https://x.com/jshguo/status/2105250266392224097",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "国风水墨"
+   ],
+   "地域氛围": [
+    "中式"
+   ],
+   "题材": [
+    "宠物动物"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "title_en": "Qi Baishi's Shrimp",
+  "desc_en": "Qi Baishi-style ink shrimp are drawn live in a web page with ink bleeds and dry-brush feelers; the shrimp flick away when the mouse comes near.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "web-2105250266392224097",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2105250266392224097.mp4"
+ },
+ {
+  "creator": "Mohamed",
+  "desc": "雨天的林间水磨小屋：守屋人划船归来、启动老磨坊、上楼看雨，镜头从外景一路推进室内。",
+  "duration": 50.05,
+  "handle": "@zavrenn",
+  "likes": 716,
+  "live_url": "https://stillwater.zavrenn.chatgpt.site/",
+  "made_with": "Codex (GPT)",
+  "medium": "web",
+  "model": "Codex (GPT)",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-11",
+  "prompt": "",
+  "stack": [
+   "three.js",
+   "WebGL",
+   "Blender"
+  ],
+  "title": "静水小屋",
+  "url": "https://x.com/zavrenn/status/2109312983402782988",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "游戏CG"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "日常生活",
+    "自然风光"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Still Water Cabin",
+  "desc_en": "A rainy watermill cabin in the woods: the keeper rows home, starts the old mill and goes upstairs to watch the rain as the camera moves inside.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "web-2109312983402782988",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2109312983402782988.mp4"
+ },
+ {
+  "creator": "Bee",
+  "desc": "夜空中一朵发光的机械牡丹缓缓开合，切换到白底时变成齿轮驱动的郁金香，还有模型自己加的小蜜蜂。",
+  "duration": 44.54,
+  "handle": "@thtbee_",
+  "likes": 1394,
+  "made_with": "Gemini 4 Carbon",
+  "medium": "web",
+  "model": "Gemini 4 Carbon",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-21",
+  "prompt": "",
+  "stack": [
+   "three.js",
+   "WebGL"
+  ],
+  "title": "机械花",
+  "url": "https://x.com/thtbee_/status/2112935205703147750",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻",
+    "自然风光"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ]
+  },
+  "title_en": "Mechanical Flowers",
+  "desc_en": "A glowing mechanical peony opens and closes in the night sky, switching to a gear-driven tulip on white, laid out like a specimen catalogue.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "web-2112935205703147750",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2112935205703147750.mp4"
+ },
+ {
+  "creator": "Bee",
+  "desc": "一只由墨雾构成的黑猫在纸白与深蓝星盘两种场景间流转，追逐着一只小蝴蝶。",
+  "duration": 40.3,
+  "handle": "@thtbee_",
+  "likes": 1057,
+  "made_with": "Gemini 4 Carbon",
+  "medium": "web",
+  "model": "Gemini 4 Carbon",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-23",
+  "prompt": "",
+  "stack": [
+   "three.js",
+   "WebGL"
+  ],
+  "title": "云雾猫",
+  "url": "https://x.com/thtbee_/status/2113662031379464549",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "国风水墨",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "宠物动物",
+    "奇幻神话"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "title_en": "Mist Cat",
+  "desc_en": "A black cat made of ink mist drifts between a paper-white scene and a deep-blue star chart, chasing a small butterfly.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "web-2113662031379464549",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2113662031379464549.mp4"
+ },
+ {
+  "creator": "Chetan Ankola",
+  "desc": "昏暗的沼泽林地，雾气贴水流动，一盏船灯在倒影里缓缓移动。",
+  "duration": 17.88,
+  "handle": "@chetanankola",
+  "likes": 822,
+  "made_with": "GPT-6 Astra",
+  "medium": "web",
+  "model": "GPT-6 Astra",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-24",
+  "prompt": "",
+  "stack": [
+   "three.js",
+   "WebGL"
+  ],
+  "title": "雾中沼泽",
+  "url": "https://x.com/chetanankola/status/2113909026253877485",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "孤独忧郁",
+    "诡异不安"
+   ]
+  },
+  "title_en": "Misty Swamp",
+  "desc_en": "A dim swamp forest with mist hugging the water as a boat lantern drifts slowly through the reflections.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "web-2113909026253877485",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2113909026253877485.mp4"
+ },
+ {
+  "creator": "An Xuan",
+  "desc": "剖面视角的越南筒子楼逐屋做防台风准备，随后停电、暴雨、洪水漫进楼下。",
+  "duration": 30.06,
+  "handle": "@anxuanng",
+  "likes": 295,
+  "made_with": "Opus 5.5 (Claude)",
+  "medium": "web",
+  "model": "Opus 5.5 (Claude)",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-27",
+  "prompt": "",
+  "stack": [
+   "three.js",
+   "WebGL",
+   "Blender"
+  ],
+  "title": "台风里的越南筒子楼",
+  "url": "https://x.com/anxuanng/status/2115175640198783107",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "游戏CG"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "灾难",
+    "日常生活"
+   ],
+   "情绪": [
+    "紧张刺激"
+   ]
+  },
+  "title_en": "Vietnamese Tube House Typhoon",
+  "desc_en": "An isometric cutaway of a Vietnamese tube house as each room prepares for a typhoon, followed by a blackout, heavy rain and flooding downstairs.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "web-2115175640198783107",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2115175640198783107.mp4"
+ },
+ {
+  "creator": "李岳",
+  "desc": "火焰与锁链特效中，女刀客与男枪客在古殿到云海间高速对战，最终缴械。",
+  "duration": 30.1,
+  "handle": "@liyue_ai",
+  "likes": 267,
+  "medium": "video",
+  "model": "Seedance 2.5",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-04",
+  "prompt": "",
+  "title": "仙侠刀客对枪客",
+  "url": "https://x.com/liyue_ai/status/2106679469180428493",
+  "views": 24645,
+  "tags": {
+   "画风": [
+    "游戏CG"
+   ],
+   "地域氛围": [
+    "中式"
+   ],
+   "题材": [
+    "武侠打斗",
+    "奇幻神话"
+   ],
+   "情绪": [
+    "热血燃"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Xianxia Blade vs Spear",
+  "desc_en": "Amid fire and chain effects, a swordswoman and a spearman duel at high speed from an ancient hall to a sea of clouds until one is disarmed.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "x-2106679469180428493",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2106679469180428493.mp4"
+ },
+ {
+  "creator": "はさまるスタジオ (Hasamaru Studio)",
+  "desc": "黄昏中一人沿铁栏长廊走向灯火通明的奇幻都城，镜头缓慢跟随，城市层层亮起。",
+  "duration": 15.1,
+  "handle": "@hasamaru_studio",
+  "likes": 6348,
+  "medium": "video",
+  "model": "Kling",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-07",
+  "prompt": "",
+  "title": "归途远眺",
+  "url": "https://x.com/hasamaru_studio/status/2107633088704704597",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "奇幻神话",
+    "旅行城市"
+   ],
+   "情绪": [
+    "孤独忧郁",
+    "史诗壮阔"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "The Long Way Home",
+  "desc_en": "At dusk a figure walks along a railed walkway toward a glowing fantasy city as the slow tracking camera reveals it lighting up layer by layer.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "x-2107633088704704597",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2107633088704704597.mp4"
+ },
+ {
+  "creator": "Kōda",
+  "desc": "两名街头风少女在天台近身肉搏，镜头穿插环绕于拳脚之间，冲击帧与拖影节奏极密。",
+  "duration": 30.1,
+  "handle": "@aimikoda",
+  "likes": 1961,
+  "medium": "video",
+  "model": "Seedance 2.5",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-18",
+  "prompt": "Seedance 2.5 Prompt:\nReferences:\n@[char1 ref]: Mina. Long black hair, green striped crop top, baggy orange cargo pants with black graffiti, white sneakers, black fingerless boxing gloves on both hands, chain bracelet.\n@[char2 ref]: Rue. Long pink hair, black crop top, black cargo shorts with chains and tags, bare knuckles with silver rings, skin visible on both hands, chunky lime sneakers, dog tag necklace.\n\nVisual style: High-sakuga flat-color 2D anime, bold linework, hard cel shading, flat blue and teal backgrounds that flash hot pink or orange on impact, speed smears, impact frames, deep foreshortening.\n\nEnergy: Within every shot the camera keeps moving: it spirals around crossing limbs, dives under kicks, skims the floor, and whips between faces, often following a fist or a sole within inches of the lens. Every movement flows straight into the next strike, block, or counter. Every landed hit plays as sakuga impact: a two-frame impact frame, then the struck body whips away in a long smear, elastic recoil, immediate re-entry into her own attack. Heads snap, torsos fold, feet leave the ground, bodies skid across concrete. Each impact throws a color flash, dust, flying hair and cloth, and radiating speed lines.\n\nAvoid: No subtitles. No slow motion, no idle posing, no pauses between actions, no freeze frames, no held two-shots.\n\nMina and Rue trade one relentless brawl on an empty concrete rooftop with a chain-link fence at the back and a steel vent box at center right. Mina starts screen left, Rue screen right. Whenever they close, one body is nearer the camera and the other clearly behind it with air between. No dialogue; hits, shoe scuffs, chain rattle, wind. Shot list: 4 shots, about 30 seconds, every shot packed edge to edge with exchanges.\n\nScene 1: 连续时间，天台。\nShot 1: 大全景起，地面高度，低角度；镜头从水泥地面猛然升起，穿过两名已经腾空扑向对方的格斗者之间，然后贴着Mina的拳套甩进中景，并绕着两人交错的手臂急速环绕。Mina的右勾拳与Rue抬起的膝盖在半空撞上，冲击帧，两人同时被震成拖影向后飞开，滑步落地的瞬间已经再次扑上；Mina左直拳，Rue下潜躲过并打出上勾拳，Mina用前臂接住，前臂被顶上自己的下巴，头向后一甩成拖影，她借着仰头的势头打出一记一二连击，第二拳砸开Rue的防守，冲击帧，Rue的头横向甩出，粉发拉成一道弧，她踉跄一步就从踉跄里踢出正蹬，踢中Mina的拳套，把Mina推得双脚在地上滑出一道痕。快速细节切：Rue眯起的眼睛，Mina收紧的拳套，狗牌甩动，然后镜头钻到Rue旋踢的下方。Rue的脚跟掠过Mina低下的头顶，Mina从内侧起身的身体勾拳把Rue整个人折弯在拳套上，冲击帧，Rue的双脚离地，她顺着折弯的势头甩出肘击，Mina双拳套挡住，拳套却被顶进自己的脸，她向后踉跄两步，Rue追上来一记戴戒指的直拳擦着镜头砸过，Mina侧滑，把一记短右拳埋进Rue的肋部，冲击帧，Rue半边身体塌陷成拖影，双脚在地面打滑，她就从打滑里顶出一膝，砸在拳套上，把Mina的胳膊震到自己胸口。\n\nShot 2: 跟拍起，位于Rue身后腰部高度；镜头随她冲向铁丝网，沿着网向上扫，在她蹬离时翻转，然后落到地面高度，贴着天台地面疾驰穿过两人相撞的缝隙。Rue推开Mina的胸口转身冲向铁丝网，在网上蹬两步，蹬离，后空翻越过从下方冲进来的Mina，落下的膝盖砸中Mina的肩膀，冲击帧，Mina被砸成一个拖影般的前滚翻，从翻滚里起身时顺势扫向Rue落地的那条腿，Rue跳过扫踢，撑手后空翻，落地时Mina的直拳已经到了，Rue格挡，格挡把她自己的手臂震开，Mina的第二拳穿过空档擦中她的太阳穴，冲击帧，Rue半转过身，粉发横扫镜头。快速细节切：荧光绿鞋底填满镜头，橙色工装布料猛甩，铁丝网剧烈震颤，然后镜头贴地。两人再次相撞：Mina低身滑过Rue的飞跃拳，两人在另一侧旋转成背对背，同一瞬间各踢出一记后蹬，鞋底对撞，冲击帧，两人都被踢得向前扑倒撑地，撑起后同时转身甩出旋转背拳，拳套撞上指节，粉色闪光，两人的头各自甩向一侧成拖影，Rue先回过身勾住Mina的腿，Mina跳脱的同时抡出过顶拳，擦过Rue的太阳穴，把她打得转了半圈，Rue转完这半圈的势头直接变成一记反手肘，砸在Mina的肩上，Mina的肩膀被压得一沉。\n\nShot 3: 高角度俯冲起；镜头向通风箱俯冲，压低绕到箱侧，然后在两张脸之间左右急甩，每一拳都跟着拳头从一张脸甩到另一张脸。Mina，戴黑拳套，跃上通风箱，膝盖朝下砸落；Rue，赤手戴戒指，侧步闪开，一记侧踢踹进箱体，箱体轰然凹陷；Mina从压扁的边缘跃起打出飞身直拳，Rue后仰躲过，扫掉Mina的支撑手臂，Mina侧手翻落地的同时勾拳打中Rue的下颌，冲击帧，Rue的头甩过去，整个人被带得转了半圈，脚步踉跄，又从踉跄里反扑一记直拳，震得Mina的下巴一晃。快速细节切：弯折的金属，断裂的电缆冒着火花，拳套在箱顶打滑，然后镜头切进两张脸之间。隔着废墟的近身对轰：刺拳，格挡，直拳，侧闪，没有一拳停在半路；Rue的膝盖顶进Mina垂下的拳套，把她推退一步；Mina的头槌砸在Rue的眉骨上，冲击帧，Rue的头向后甩成拖影，她的身体先于意识反击，戴戒指的勾拳打在Mina的拳套上；Mina的反击肘撞上Rue的脸颊，冲击帧，粉发炸开，Rue踉跄两步，膝盖一软又撑住，从撑住的那一下里直拳回敬，打得Mina的头偏过去，Mina的头偏到一半就已经转回来，两人同时下蹲。\n\nShot 4: 高角度大全景起，倾斜成荷兰角；镜头在两人跃起时螺旋下降，在最高点从两人之间穿过，再翻到两人侧面，并在两人上升时继续旋转。两人同时向上爆发，拳头在前，Mina的黑拳套与Rue戴戒指的拳头冲向画面中央同一点，头发向后飞扬成拖影，速度线向中心汇聚，拳头进入触及范围的瞬间背景炸成全屏亮粉色；拳头仍在逼近，头发仍在甩动，镜头仍在旋转，画面在此切断。",
+  "promptSource": "作者评论",
+  "title": "天台拳击对决",
+  "url": "https://x.com/aimikoda/status/2111824828009193814",
+  "views": 154316,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "武侠打斗",
+    "运动极限"
+   ],
+   "情绪": [
+    "热血燃",
+    "紧张刺激"
+   ],
+   "镜头技法": [
+    "环绕运镜",
+    "角色一致性"
+   ],
+   "用途": [
+    "演示教程"
+   ]
+  },
+  "title_en": "Rooftop Brawl",
+  "desc_en": "Two streetwear girls fight hand-to-hand on a rooftop as the camera weaves around their punches and kicks, with dense impact frames and smears. Full prompt included.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "x-2111824828009193814",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2111824828009193814.mp4"
+ },
+ {
+  "creator": "ojiji",
+  "desc": "沙漠风暴中巨型多足机甲缓缓前行，人类步行在侧，镜头在脚下仰拍再拉远。",
+  "duration": 15,
+  "handle": "@ojiji2025",
+  "likes": 390,
+  "medium": "video",
+  "model": "Midjourney + Kling 4.0",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-22",
+  "prompt": "",
+  "title": "缓慢而强大的机甲",
+  "url": "https://x.com/ojiji2025/status/2113142010966384982",
+  "views": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ],
+   "用途": [
+    "预告片"
+   ]
+  },
+  "title_en": "Slow, Mighty Mech",
+  "desc_en": "A giant multi-legged mech strides slowly through a desert storm beside walking humans, shot from low under its feet before pulling back.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "x-2113142010966384982",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2113142010966384982.mp4"
+ },
+ {
+  "creator": "とすくん",
+  "desc": "红黑鬼武者与骷髅赛博格在雨夜都市中高速对砍，最后一刀火花四溅。",
+  "duration": 15.1,
+  "handle": "@tokyo_Valentine",
+  "likes": 153,
+  "medium": "video",
+  "model": "Seedance 2.5",
+  "orientation": "landscape",
+  "platform": "X",
+  "postedAt": "2026-10-23",
+  "prompt": "Create a 15-second, 16:9 photorealistic sci-fi battle with the explosive acceleration, rapid reversals, and aerial combat rhythm of Dragon Ball Z, filmed with blockbuster action-movie cinematography.\n\nThe sequence starts immediately with Oni Samurai being blasted through buildings, develops into relentless high-speed combat against a mist-transforming Bone Mecha, and ends with Oni Samurai slicing through the enemy’s torso and core, then physically pulverizing it with a devastating follow-up kick.\n\nCHARACTER REFERENCES\n\nIMAGE 1 — BONE MECHA:\nUse the primary standing character from Image 1: ivory skull and exposed ribs fused with black machinery, glowing red eyes and chest core, spiked circular halo behind the head, torn crimson cloth, and the reference-matching red-edged polearm. Preserve its proportions, silhouette, and mechanical details. Ignore alternate character variations.\nIMAGE 2 — ONI SAMURAI:\nUse the character from Image 2: horned red oni mask, weathered red-and-black mechanical armor, exposed machinery, and katana. Preserve its face, armor construction, proportions, and weapon design.\n\nExtract only these two characters from the reference sheets. Exclude sheet backgrounds, diagrams, labels, and duplicate turnaround figures. Maintain consistent designs throughout, with intentional combat damage occurring during the final destruction.\nMOVEMENT AND ABILITY RULES\n\nUse explosive acceleration, abrupt braking, rapid directional changes, airborne collisions, wall rebounds, and immediate counterattacks. Every impact triggers the next movement. Each one-second beat advances the fight through a clear attack, evasion, collision, or reversal.\n\nBone Mecha alone can transform into mist. Its body and equipment collapse into a narrow, fast-moving stream of ash-white vapor with crimson embers, travel along a continuous visible trajectory, and reconstruct already attacking. Transformations take approximately 0.1–0.2 seconds. Keep mist movement sharp, directional, and extremely fast.\n\nOni Samurai always remains solid. It moves through powerful dashes, explosive jumps, wall kicks, and physical recoil.\n\nDuring the final finishing sequence, severing Bone Mecha’s chest core disables its mist transformation. From that moment onward, its body stays solid until physically shattered.\n\nSETTING\n\nA deserted Japanese city with wet asphalt, concrete buildings, glass facades, cold ambient light, and red reflections from the fighters. Maintain consistent street geography. Damage persists: broken walls remain broken, debris continues falling, and weakened buildings collapse after their supports are destroyed.\n\nSECOND-BY-SECOND ACTION AND CAMERA\n\n00:00–00:01 — FIRST BUILDING IMPACT\nAt the very first frame, Oni Samurai is ALREADY flying backward at extreme speed from Bone Mecha’s strike. Its armored back punches through a concrete building almost immediately. Walls fracture at the contact point and columns snap along its trajectory.\nCAMERA: low, wide-angle lateral pursuit. The camera briefly lags behind the acceleration, then catches up as concrete fragments race across the foreground.\n\n00:01–00:02 — SECOND BUILDING PENETRATION\nOni bursts out of the first building and immediately crashes through the next building’s facade and supporting columns. Keep its red armored silhouette readable between impacts. Structural collapse begins behind its flight path.\nCAMERA: continue the same fast pursuit through the debris, with strong parallax and a brief directional jolt at the second impact.\n\n00:02–00:03 — INSTANT REVERSAL\nOni strikes the road feet-first, briefly anchors its katana into the asphalt, pivots around the contact point, and launches back toward the attacker. Sparks trace a short, violent braking trench. The landing becomes an immediate countercharge.\nCAMERA: cut on the landing to a ground-skimming tracking shot that follows the sudden reversal.\n00:03–00:04 — MIST INTERCEPTION\nBone Mecha races through falling slabs as a tight stream of mist, reconstructs directly in Oni’s path, and immediately thrusts its polearm. Oni deflects the weapon while charging past it. Sparks burst between their moving bodies.\nCAMERA: surge into a close tracking shot, keeping both fighters and the weapon contact visible.\n00:04–00:05 — RAPID CUT AND COUNTER\nOni delivers two compact, lightning-fast sword cuts. Bone Mecha dissolves just before the first blade contact, shifts sideways, and reconstructs into a counterstrike as the second cut passes.\nCAMERA: a short, fast arc follows the changing attack angle. Briefly stabilize at the clash so the contact remains readable.\n\n00:05–00:06 — REAR ATTACK AND LAUNCHING KICK\nBone Mecha streams along Oni’s katana and curls behind its shoulder. Oni immediately pivots into a spinning heel kick, catching the enemy’s torso exactly as it becomes solid and launching it upward.\nCAMERA: whip-pan with the mist, clearly catch the heel connecting, then snap upward after the launched enemy.\n00:06–00:07 — VERTICAL PURSUIT\nOni compresses its legs and explosively jumps after Bone Mecha. The pavement fractures beneath its feet. It catches the enemy above street level and attacks before the enemy can recover.\nCAMERA: accelerate vertically alongside both fighters as the buildings rush downward around them.\n00:07–00:08 — AIRBORNE EXCHANGE\nShow three rapid, distinct aerial weapon contacts: slash, parry, counterstrike. Both fighters change height and position after each collision, recoil, then immediately accelerate back together.\nCAMERA: track beside the exchange with both fighters in frame and the street clearly visible far below.\n\n00:08–00:09 — THROWN TOWARD THE WALL\nBone Mecha drives a diagonal polearm strike into Oni’s guard, throwing it sideways toward a building. Oni twists in midair, bringing both feet toward the approaching facade.\nCAMERA: rapidly pull back to reveal the distance, then pan with the sideways flight.\n00:09–00:10 — EXPLOSIVE WALL REBOUND\nOni plants both feet against the building and immediately wall-kicks back into combat. Glass and masonry burst from the launch point. It reaches Bone Mecha before the wall debris begins falling.\nCAMERA: skim close to the facade, then swing outward along Oni’s rebound trajectory.\n00:10–00:11 — DIVING COUNTERATTACK\nBone Mecha dissolves around the incoming katana, whips above Oni as a thin ribbon of mist, and reconstructs into a downward polearm strike. Oni turns its blade upward to intercept as both descend toward the street.\nCAMERA: pitch downward into a steep descending pursuit, keeping the approaching ground visible.\n\n00:11–00:12 — GROUND COLLISION AND OPENING\nThe fighters collide at street level, their weapons meeting for an instant. The landing fractures the asphalt and launches a circular wave of dust and debris. Oni immediately steps through the collision and knocks the polearm away from the enemy’s centerline.\nCAMERA: finish the descent at waist height and continue laterally through the expanding debris, revealing the opening in Bone Mecha’s guard.\n00:12–00:13 — DECISIVE TORSO AND CORE CUT\nBone Mecha commits to one final fully solid attack. Oni pivots inside its reach and delivers an explosive diagonal katana slash THROUGH THE ENEMY’S TORSO AND RED CHEST CORE.\nClearly show the blade contacting the solid ribs and mechanical core. The torso separates along the diagonal cut, and the two rigid sections visibly shift apart. The severed core flickers and loses power, disabling mist transformation.\nCAMERA: move into a clear three-quarter medium shot. Keep the katana, torso, and visible separation in frame. Reveal the cut briefly while the action continues at full speed.\n\n00:13–00:14 — PHYSICAL PULVERIZATION\nWithout pausing, Oni converts the slash’s rotational momentum into a devastating spinning side kick. Its armored heel drives directly into the already severed torso.\nShow solid heel-to-body contact FIRST. Then shatter the enemy outward from that contact point: ivory bone fragments, broken ribs, black mechanical components, splintered halo segments, and pieces of the destroyed core erupt across the street. Large, distinct fragments appear before the finer dust expands.\nCAMERA: follow the rotation with a short controlled arc, catch the kick in a readable side view, then rapidly pull back with the outward burst of debris. Add one sharp impact jolt.\n00:14–00:15 — COMPLETE DEFEAT\nBone Mecha’s remaining structure breaks apart into tumbling bone and metal fragments. Its red eyes and chest core go completely dark. Heavy pieces strike the asphalt while smaller shards and sparks pass the lens.\n\nOni lands from the kick and completes its turning follow-through with the katana extended. The enemy’s shattered remains scatter across the street as damaged buildings continue crumbling behind it.\nCAMERA: finish in a low, widening shot that clearly reveals Oni and the destroyed enemy. Keep the final frame alive with falling debris and the completion of Oni’s movement.\nCINEMATOGRAPHY AND READABILITY\nTreat the timestamps as connected choreography beats. Link adjacent beats with motivated tracking, whip-pans, short combat orbits, vertical pursuit, and descending camera movement.\n\nFollow actual launches, strikes, dodges, and reversals. Preserve clear spatial relationships through direction changes. Use strong foreground parallax to convey speed and scale.\nKeep motion blur directional. Preserve readable character silhouettes and sharp weapon contacts during key impacts. Camera shake is brief and tied to collisions. Keep dust, sparks, and debris from obscuring the decisive actions.\nMaintain rapid motion throughout. Avoid extended preparation, hovering, prolonged weapon locks, static hero poses, slow mist travel, and prolonged slow motion.\n\nENDING REQUIREMENT\nThe final defeat is complete and irreversible. Clearly show this exact order:\nBLADE CONTACT → TORSO AND CORE SEPARATION → FOLLOW-UP KICK CONTACT → FULL-BODY SHATTERING.\nThe final destruction consists of physical bone and machinery fragments. After the core is severed, Bone Mecha cannot turn into mist, regenerate, escape, or reappear. All remaining eye and core lights extinguish.\n\nAUDIO\nNo music, dialogue, or narration. Begin with a powerful impact at the first frame. Use rapid directional air cracks, metallic weapon collisions, katana scraping asphalt, shattering glass, concrete fractures, and fast rushing mist.\nFor the finish, synchronize a sharp slicing crack, the heavy kick impact, brittle bone-and-metal fragmentation, and debris striking the street. End with falling fragments and deep structural collapse.\n\nEXCLUDE\nExtra fighters, duplicated bodies, additional limbs, accidental armor changes, floating weapons, unexplained teleportation, random camera spinning, excessive shake, smoke concealing the choreography, full-screen flashes hiding impacts, subtitles, titles, logos, and watermarks.",
+  "promptSource": "作者评论",
+  "title": "鬼武者对骷髅机甲",
+  "url": "https://x.com/tokyo_Valentine/status/2113614163755069838",
+  "views": 4998,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻",
+    "武侠打斗"
+   ],
+   "情绪": [
+    "热血燃",
+    "紧张刺激"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "title_en": "Oni Samurai vs Bone Mecha",
+  "desc_en": "A red-and-black Oni Samurai and a skeletal cyborg clash at high speed in a rainy city, ending in a final spark-filled slash. Full prompt included.",
+  "addedAt": "2026-10-29T15:17:18",
+  "id": "x-2113614163755069838",
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2113614163755069838.mp4"
  }
 ]
