@@ -88,8 +88,12 @@ def dlab(d, lang):
     return d if lang == "zh" else dim_en(d)[1]
 
 
-def tag_path(d, v):
-    return f"t/{dim_en(d)[0]}/{val_en(v)[0]}.html"
+MED_SLUG = {"video": "video", "image": "images", "web": "coding"}
+
+
+def tag_path(d, v, m=None):
+    """All-section tag page, or with m the tag page limited to one section (视频 / 图片 / Coding)."""
+    return f"t/{MED_SLUG[m]}/{dim_en(d)[0]}/{val_en(v)[0]}.html" if m else f"t/{dim_en(d)[0]}/{val_en(v)[0]}.html"
 
 
 def title(w, lang):
@@ -174,7 +178,7 @@ def build_index(lang, idx, m="video"):
     idx = {k: [w for w in v if med(w) == m] for k, v in idx.items()}
     idx = {k: v for k, v in idx.items() if v}
     tabs = "".join(f'<a class="tab{" on" if x == m else ""}" href="{MED_PAGE[x]}">{s["med"][x]} <small>{sum(1 for w in works if med(w) == x)}</small></a>' for x in MED_ORDER)
-    chips = "".join(f'<a class="chip" href="{tag_path(d, v)}">{e(lab(v, lang))} <small>{len(ws)}</small></a>'
+    chips = "".join(f'<a class="chip" href="{tag_path(d, v, m)}">{e(lab(v, lang))} <small>{len(ws)}</small></a>'
                     for (d, v), ws in sorted(idx.items(), key=lambda kv: -len(kv[1]))[:24])
     n_p = sum(1 for w in works if w.get("prompt"))
     body = f"""<section class="hero"><h1>{s['name']}</h1><p>{s['tagline']}.</p>
@@ -200,7 +204,7 @@ def build_work(w, lang):
             (s["likes"], fmt(w.get("likes"), lang)), (s["posted"], e(str(w.get("postedAt", ""))[:10]))]
     if med(w) == "image": rows = [r for r in rows if r[0] != s["duration"]]
     tagrows = "".join(
-        f'<tr><th>{dlab(d, lang)}</th><td>' + " ".join(f'<a class="chip" href="{root}{LANGS[lang]}{tag_path(d, v)}">{e(lab(v, lang))}</a>' for v in w["tags"][d]) + "</td></tr>"
+        f'<tr><th>{dlab(d, lang)}</th><td>' + " ".join(f'<a class="chip" href="{root}{LANGS[lang]}{tag_path(d, v, med(w))}">{e(lab(v, lang))}</a>' for v in w["tags"][d]) + "</td></tr>"
         for d in DIM_ORDER if w.get("tags", {}).get(d))
     src = w.get("promptSource", "")
     src = (f" · {s['prompt_from']}{src}" if lang == "zh" else f" · {s['prompt_from']} {SRC_EN.get(src, src)}") if src else ""
@@ -239,6 +243,18 @@ def build_tag(d, v, ws, lang):
 <h1>{s['tag_h1'].format(v=e(vl))}</h1><p>{s['tag_p'].format(n=len(ws), v=e(vl), v_l=e(vl.lower()), p=p)}</p></section>""" + "".join(
         f'<h2 class="medh">{s["med"][m]} <small>{len(g)}</small></h2>{grid(g, lang, root)}' for m in MED_ORDER for g in [[w for w in ws if med(w) == m]] if g)
     return page(lang, tag_path(d, v), s["tag_title"].format(v=vl), s["tag_desc"].format(v=vl, v_l=vl.lower()), body)
+
+
+def build_tag_med(d, v, ws, lang, m):
+    s, root = T[lang], "../" * (LANGS[lang].count("/") + 3)
+    vl, ws_m = lab(v, lang), [w for w in ws if med(w) == m]
+    tabs = "".join(f'<a class="tab{" on" if x == m else ""}" href="{root}{LANGS[lang]}{tag_path(d, v, x)}">{s["med"][x]} <small>{n}</small></a>'
+                   for x in MED_ORDER for n in [sum(1 for w in ws if med(w) == x)] if n)
+    p = sum(1 for w in ws_m if w.get("prompt"))
+    h1 = f'{e(vl)} · {s["med"][m]}'
+    body = f"""<section class="hero"><p class="crumb"><a href="{root}{LANGS[lang]}{MED_PAGE[m]}">{s['med'][m]}</a> / {dlab(d, lang)} / <a href="{root}{LANGS[lang]}{tag_path(d, v)}">{'全部分区' if lang == 'zh' else 'All sections'}</a></p>
+<h1>{h1}</h1><p>{s['med_p'][m]}</p><nav class="tabs">{tabs}</nav></section>{grid(ws_m, lang, root)}"""
+    return page(lang, tag_path(d, v, m), f'{vl} · {s["med"][m]} — {s["name"]}', f'{s["med_p"][m]} {vl}', body)
 
 
 def build_tags(idx, lang):
@@ -375,7 +391,8 @@ def main():
         shutil.rmtree(DOCS / sub, ignore_errors=True)
     DOCS.mkdir(exist_ok=True)
     idx = tag_index()
-    paths = list(MED_PAGE.values()) + ["tags.html"] + [f"w/{w['id']}.html" for w in works] + [tag_path(d, v) for d, v in idx]
+    paths = list(MED_PAGE.values()) + ["tags.html"] + [f"w/{w['id']}.html" for w in works] + [tag_path(d, v) for d, v in idx] + \
+        [tag_path(d, v, m) for (d, v), ws in idx.items() for m in MED_ORDER if any(med(w) == m for w in ws)]
     files = {}
     for lang, pre in LANGS.items():
         for m in MED_ORDER:
@@ -385,6 +402,9 @@ def main():
             files[f"{pre}w/{w['id']}.html"] = build_work(w, lang)
         for (d, v), ws in idx.items():
             files[pre + tag_path(d, v)] = build_tag(d, v, ws, lang)
+            for m in MED_ORDER:
+                if any(med(w) == m for w in ws):
+                    files[pre + tag_path(d, v, m)] = build_tag_med(d, v, ws, lang, m)
     for p, s in files.items():
         f = DOCS / p; f.parent.mkdir(parents=True, exist_ok=True); f.write_text(s)
     (DOCS / "works.json").write_text(json.dumps([public_record(w) for w in works], ensure_ascii=False, indent=1))

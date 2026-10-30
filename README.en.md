@@ -6,7 +6,7 @@
 
 [Browse the site](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/) · [Tags](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/tags.html) · [中文](README.md) · [works.json](https://daiyixiang666.github.io/awesome-ai-video-prompts/works.json)
 
-<img alt="works" src="https://img.shields.io/badge/works-321-e2a24c?style=flat-square"> <img alt="with_prompts" src="https://img.shields.io/badge/with_prompts-161-2d2f33?style=flat-square"> <img alt="updated" src="https://img.shields.io/badge/updated-2026--10--29-2d2f33?style=flat-square">
+<img alt="works" src="https://img.shields.io/badge/works-321-e2a24c?style=flat-square"> <img alt="with_prompts" src="https://img.shields.io/badge/with_prompts-161-2d2f33?style=flat-square"> <img alt="updated" src="https://img.shields.io/badge/updated-2026--10--30-2d2f33?style=flat-square">
 
 </div>
 
