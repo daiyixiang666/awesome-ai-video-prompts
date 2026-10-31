@@ -1,0 +1,59 @@
+name: 投稿 / Submit a work
+description: 推荐一部 AI 视频、图片或 Coding 作品（自己的或别人的都可以）/ Recommend an AI video, image or AI-coded work (yours or someone else's)
+title: "[投稿] "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        谢谢投稿！镜鉴只收 **高审美、高方法论** 的作品，每部都会人工筛选，入选后署名并链接原作者。
+        Thanks! Every submission is screened by hand; selected works credit and link the original creator.
+  - type: input
+    id: url
+    attributes:
+      label: 原作链接 / Link to the original post
+      description: X、TikTok、抖音、小红书、B站、YouTube、个人网站…
+      placeholder: https://x.com/…/status/…
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: 分区 / Section
+      options:
+        - 视频 Video（AI 视频模型生成，≤60 秒）
+        - 图片 Images（AI 图片模型生成）
+        - Coding（大模型写代码做的作品 / built by an LLM writing code）
+    validations:
+      required: true
+  - type: input
+    id: creator
+    attributes:
+      label: 作者 / Creator
+      placeholder: "@handle"
+    validations:
+      required: true
+  - type: input
+    id: tool
+    attributes:
+      label: 用的模型或 AI 工具 / Model or AI tool
+      placeholder: Seedance 2.0 / Midjourney V7 / Claude …
+  - type: textarea
+    id: prompt
+    attributes:
+      label: 提示词（如有公开）/ Prompt, if published
+      description: 只填作者公开过的提示词，请勿编造。/ Only a prompt the creator actually published.
+      render: text
+  - type: textarea
+    id: why
+    attributes:
+      label: 推荐理由 / Why it's great
+      placeholder: 画面、镜头、方法上哪里好？
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: 确认 / Confirm
+      options:
+        - label: 作品是 AI 生成的，不是搬运或广告 / It is AI-made, not a re-upload or an ad
+          required: true
+        - label: 这是我自己的作品 / This is my own work

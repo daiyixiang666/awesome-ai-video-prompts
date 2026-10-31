@@ -80,3 +80,9 @@ footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 12px
 
 nav a.lang { border: 1px solid var(--line); border-radius: 999px; padding: 1px 10px; color: var(--fg); }
 .hero-img video { width: 100%; display: block; background: #000; max-height: 80vh; }
+nav a.sub { background: var(--accent); color: var(--accent-ink); border-radius: 999px; padding: 1px 12px; font-weight: 500; }
+nav a.sub:hover { color: var(--accent-ink); filter: brightness(1.08); }
+.prose { max-width: 680px; }
+.prose h2 { font-size: 18px; margin: 26px 0 8px; }
+.prose ul { padding-left: 1.2em; line-height: 1.8; }
+.prose p { line-height: 1.8; }

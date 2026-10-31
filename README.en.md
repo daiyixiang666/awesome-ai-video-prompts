@@ -4,9 +4,9 @@
 
 **Hand-picked top-tier AI videos, images and AI-coded works with their prompts — searchable by style, mood and genre**
 
-[Browse the site](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/) · [Tags](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/tags.html) · [中文](README.md) · [works.json](https://daiyixiang666.github.io/awesome-ai-video-prompts/works.json)
+[Browse the site](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/) · [Tags](https://daiyixiang666.github.io/awesome-ai-video-prompts/en/tags.html) · [Submit](https://github.com/daiyixiang666/awesome-ai-video-prompts/issues/new?template=submit.yml) · [中文](README.md) · [works.json](https://daiyixiang666.github.io/awesome-ai-video-prompts/works.json)
 
-<img alt="works" src="https://img.shields.io/badge/works-321-e2a24c?style=flat-square"> <img alt="with_prompts" src="https://img.shields.io/badge/with_prompts-161-2d2f33?style=flat-square"> <img alt="updated" src="https://img.shields.io/badge/updated-2026--10--30-2d2f33?style=flat-square">
+<img alt="works" src="https://img.shields.io/badge/works-321-e2a24c?style=flat-square"> <img alt="with_prompts" src="https://img.shields.io/badge/with_prompts-161-2d2f33?style=flat-square"> <img alt="updated" src="https://img.shields.io/badge/updated-2026--10--31-2d2f33?style=flat-square">
 
 </div>
 

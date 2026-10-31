@@ -4,9 +4,9 @@
 
 **人工精选的顶级 AI 视频、图片与 Coding 作品，附提示词，按画风、氛围、题材检索**
 
-[在线浏览](https://daiyixiang666.github.io/awesome-ai-video-prompts/) · [标签](https://daiyixiang666.github.io/awesome-ai-video-prompts/tags.html) · [English](README.en.md) · [works.json](https://daiyixiang666.github.io/awesome-ai-video-prompts/works.json)
+[在线浏览](https://daiyixiang666.github.io/awesome-ai-video-prompts/) · [标签](https://daiyixiang666.github.io/awesome-ai-video-prompts/tags.html) · [投稿](https://github.com/daiyixiang666/awesome-ai-video-prompts/issues/new?template=submit.yml) · [English](README.en.md) · [works.json](https://daiyixiang666.github.io/awesome-ai-video-prompts/works.json)
 
-<img alt="works" src="https://img.shields.io/badge/works-321-e2a24c?style=flat-square"> <img alt="with_prompts" src="https://img.shields.io/badge/with_prompts-161-2d2f33?style=flat-square"> <img alt="updated" src="https://img.shields.io/badge/updated-2026--10--30-2d2f33?style=flat-square">
+<img alt="works" src="https://img.shields.io/badge/works-321-e2a24c?style=flat-square"> <img alt="with_prompts" src="https://img.shields.io/badge/with_prompts-161-2d2f33?style=flat-square"> <img alt="updated" src="https://img.shields.io/badge/updated-2026--10--31-2d2f33?style=flat-square">
 
 </div>
 

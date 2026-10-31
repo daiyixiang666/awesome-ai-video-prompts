@@ -35,6 +35,13 @@ T = {
         "work_title": "{t} — {c}{m} AI 视频{p}", "work_title_p": " 提示词", "tags_word": "标签",
         "footer": "作品版权归原作者所有，本站只做索引、标注与提示词整理，并链接到原帖。如权利人认为收录不当，请发邮件至 {mail}（或在 {issues} 留言），我们核实后第一时间下架。",
         "machine": "机器可读", "home_title": "镜鉴 — 顶级 AI 视频提示词合集",
+        "submit": "投稿", "submit_desc": "推荐一部 AI 视频、图片或 Coding 作品到镜鉴，自己的或别人的都可以。",
+        "submit_body": """<p>看到好作品，或者自己做了得意的作品，都欢迎推荐。每部投稿都会人工筛选，入选后署名并链接原作者。</p>
+<h2>收什么</h2><ul><li><b>视频</b>：AI 视频模型生成的单条短片，60 秒以内（短片加制作讲解也可以）。</li>
+<li><b>图片</b>：AI 图片模型生成的作品，偏好有艺术感的。</li><li><b>Coding</b>：大模型写代码做出的作品（three.js、WebGL、shader…），需写明用的 AI 工具。</li></ul>
+<h2>不收什么</h2><p>搬运、广告、梗图、擦边，以及看不出审美和方法的作品。</p>
+<h2>怎么投</h2><p class="btns"><a class="btn" href="{form}">用 GitHub 投稿</a></p>
+<p>没有 GitHub 账号？把原作链接、作者、用的模型（和公开的提示词，如有）发邮件到 {mail}。</p>""",
     },
     "en": {
         "html_lang": "en", "switch": "中文", "name": "Jingjian · Awesome AI Video Prompts",
@@ -52,6 +59,13 @@ T = {
         "work_title": "{t} — {c}{m} AI video{p}", "work_title_p": " prompt", "tags_word": "Tags",
         "footer": "All works belong to their creators; this site only indexes and annotates them and links to the original posts. Rights holders who want a work removed can email {mail} (or open a {issues}) and we will take it down promptly.",
         "machine": "Machine-readable", "home_title": "Jingjian — Awesome AI Video Prompts",
+        "submit": "Submit", "submit_desc": "Recommend an AI video, image or AI-coded work for Jingjian — yours or someone else's.",
+        "submit_body": """<p>Found a great piece, or made one you are proud of? Recommend it. Every submission is screened by hand; selected works credit and link the original creator.</p>
+<h2>What we take</h2><ul><li><b>Video</b>: single clips from AI video models, up to 60 s (a clip plus a how-it-was-made breakdown is fine).</li>
+<li><b>Images</b>: work from AI image models, artistic work preferred.</li><li><b>Coding</b>: works an LLM built by writing code (three.js, WebGL, shaders…); name the AI tool.</li></ul>
+<h2>What we don't</h2><p>Re-uploads, ads, memes, sexual bait, and work without clear taste or craft.</p>
+<h2>How to submit</h2><p class="btns"><a class="btn" href="{form}">Submit on GitHub</a></p>
+<p>No GitHub account? Email the link to the original post, the creator, the model (and the prompt, if published) to {mail}.</p>""",
     },
 }
 SRC_EN = {"正文": "post", "作者评论": "author's reply"}
@@ -150,7 +164,7 @@ def page(lang, path, title_, desc_, body, jsonld=None, cover=None):
 <link rel="stylesheet" href="{root}style.css">{ld}
 </head><body>
 <header><div class="wrap top"><a class="brand" href="{root}{LANGS[lang]}index.html"><b>镜<i>鉴</i></b><span>Awesome AI Video Prompts</span></a>
-<nav>{''.join(f'<a href="{root}{LANGS[lang]}{MED_PAGE[m]}">{s["med"][m]}</a>' for m in MED_ORDER)}<a href="{root}{LANGS[lang]}tags.html">{s['nav_tags']}</a><a href="{REPO}">GitHub</a><a class="lang" href="{other_href}" hreflang="{T[other]['html_lang']}">{s['switch']}</a></nav></div></header>
+<nav>{''.join(f'<a href="{root}{LANGS[lang]}{MED_PAGE[m]}">{s["med"][m]}</a>' for m in MED_ORDER)}<a href="{root}{LANGS[lang]}tags.html">{s['nav_tags']}</a><a class="sub" href="{root}{LANGS[lang]}submit.html">{s['submit']}</a><a href="{REPO}">GitHub</a><a class="lang" href="{other_href}" hreflang="{T[other]['html_lang']}">{s['switch']}</a></nav></div></header>
 <main class="wrap">{body}</main>
 <footer class="wrap"><p>{s['footer'].format(mail=mail, issues=issues)}</p>
 <p>{s['machine']}: <a href="{root}works.json">works.json</a> · <a href="{root}llms.txt">llms.txt</a> · <a href="{root}sitemap.xml">sitemap.xml</a></p></footer>
@@ -269,6 +283,15 @@ def build_tags(idx, lang):
     return page(lang, "tags.html", f"{s['all_tags']} — {s['name']}", s["tags_desc"], body)
 
 
+SUBMIT_FORM = f"{REPO}/issues/new?template=submit.yml"
+
+
+def build_submit(lang):
+    s = T[lang]
+    body = f"<section class='hero prose'><h1>{s['submit']}</h1>" + s["submit_body"].format(form=SUBMIT_FORM, mail=f'<a href="mailto:{CONTACT}">{CONTACT}</a>') + "</section>"
+    return page(lang, "submit.html", f"{s['submit']} — {s['name']}", s["submit_desc"], body)
+
+
 # ---------- machine-readable ----------
 
 def public_record(w):
@@ -318,7 +341,7 @@ def readme(idx, lang):
     badge = lambda l, m, c: f'<img alt="{l}" src="https://img.shields.io/badge/{l}-{m}-{c}?style=flat-square">'
     out = ['<div align="center">', "", f"# {s['name']}", "", f"**{s['tagline']}**", "",
            " · ".join([f"[{'在线浏览' if zh else 'Browse the site'}]({site})", f"[{s['nav_tags']}]({site}tags.html)",
-                       "[English](README.en.md)" if zh else "[中文](README.md)", f"[works.json]({BASE}works.json)"]), "",
+                       f"[{s['submit']}]({SUBMIT_FORM})", "[English](README.en.md)" if zh else "[中文](README.md)", f"[works.json]({BASE}works.json)"]), "",
            " ".join([badge("works", len(works), "e2a24c"), badge("with_prompts", n_p, "2d2f33"), badge("updated", today.replace("-", "--"), "2d2f33")]),
            "", "</div>", "",
            ("人工筛选的 AI 作品合集，只收高审美、高方法论的作品，分 **视频**（≤60 秒短片）、**图片**、**Coding**（大模型写代码做的作品）三类。每部作品都署名并链接原作者，按画风、地域氛围、题材、情绪、镜头技法、用途打标，作者公开过提示词的附上完整提示词。"
@@ -391,13 +414,14 @@ def main():
         shutil.rmtree(DOCS / sub, ignore_errors=True)
     DOCS.mkdir(exist_ok=True)
     idx = tag_index()
-    paths = list(MED_PAGE.values()) + ["tags.html"] + [f"w/{w['id']}.html" for w in works] + [tag_path(d, v) for d, v in idx] + \
+    paths = list(MED_PAGE.values()) + ["tags.html", "submit.html"] + [f"w/{w['id']}.html" for w in works] + [tag_path(d, v) for d, v in idx] + \
         [tag_path(d, v, m) for (d, v), ws in idx.items() for m in MED_ORDER if any(med(w) == m for w in ws)]
     files = {}
     for lang, pre in LANGS.items():
         for m in MED_ORDER:
             files[pre + MED_PAGE[m]] = build_index(lang, idx, m)
         files[pre + "tags.html"] = build_tags(idx, lang)
+        files[pre + "submit.html"] = build_submit(lang)
         for w in works:
             files[f"{pre}w/{w['id']}.html"] = build_work(w, lang)
         for (d, v), ws in idx.items():
