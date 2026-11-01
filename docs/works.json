@@ -1,5 +1,872 @@
 [
  {
+  "id": "img-x-2115055913203855553",
+  "title": "园林竖幅长卷",
+  "title_en": "Chinese Garden Hanging Scroll",
+  "desc": "古树、湖石、水榭与白鹤组成的工笔园林长卷，青绿调子里点缀朱红花朵。原帖为横置发布，封面已旋转为正向。",
+  "desc_en": "A gongbi-style vertical garden scroll of ancient trees, Taihu rocks, waterside pavilions and white cranes in blue-green tones with vermilion blossoms. Midjourney sref codes included.",
+  "creator": "Glitter Gal",
+  "handle": "@GlitterPixely",
+  "platform": "X",
+  "url": "https://x.com/GlitterPixely/status/2115055913203855553",
+  "model": "Midjourney",
+  "prompt": "--sref 3961311624 2120427644",
+  "promptSource": "正文",
+  "likes": 3628,
+  "postedAt": "2026-10-27",
+  "orientation": "landscape",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "国风水墨"
+   ],
+   "地域氛围": [
+    "中式"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2115055913203855553.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2115055913203855553.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2115055913203855553.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115055913203855553_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115055913203855553_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115055913203855553_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "chinese-ink"
+   ],
+   "region": [
+    "chinese"
+   ],
+   "genre": [
+    "nature"
+   ],
+   "mood": [
+    "heartwarming"
+   ]
+  }
+ },
+ {
+  "id": "x-2060322611586834518",
+  "title": "鸟从屏幕跳进手心",
+  "title_en": "Bird Hops off the Screen",
+  "desc": "电脑屏幕上的斑胸草雀照片突然活过来，转头、跃出画面，跳到镜头前伸出的手掌上。",
+  "desc_en": "A zebra finch photo on a computer screen comes alive, turns its head and hops out onto the hand held in front of the camera. Gemini Omni prompt included.",
+  "creator": "Alexander Chen",
+  "handle": "@alexanderchen",
+  "platform": "X",
+  "url": "https://x.com/alexanderchen/status/2060322611586834518",
+  "model": "Gemini Omni",
+  "prompt": "Start with the computer screen content exactly the same as in the video. Make the bird come to life, turning head, leaving the photo and jumping onto the person's hand.",
+  "promptSource": "作者评论",
+  "likes": 1386,
+  "postedAt": "2026-05-29",
+  "orientation": "landscape",
+  "duration": 8.6,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2060322611586834518.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "宠物动物"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "一镜到底"
+   ],
+   "用途": [
+    "演示教程"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2060322611586834518.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2060322611586834518.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2060322611586834518.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld",
+    "surreal-dream"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "animals"
+   ],
+   "mood": [
+    "heartwarming"
+   ],
+   "technique": [
+    "one-take"
+   ],
+   "use": [
+    "demo-tutorial"
+   ]
+  }
+ },
+ {
+  "id": "x-2110062762218926204",
+  "title": "若 AI 诞生于 1985",
+  "title_en": "If AI Was Born in 1985",
+  "desc": "机器人、服务器与“会做梦的机器”全部以 1985 年家用录像机/胶片质感呈现：REC 取景框、漏光、颗粒、少年骑车夕阳剪影。",
+  "desc_en": "Robots, servers and dreaming machines rendered as 1985 home-video footage with REC viewfinders, light leaks, grain and a kid cycling into the sunset. Made with Grok Imagine.",
+  "creator": "Déborah",
+  "handle": "@dvorahfr",
+  "platform": "X",
+  "url": "https://x.com/dvorahfr/status/2110062762218926204",
+  "model": "Grok Imagine",
+  "likes": 1109,
+  "postedAt": "2026-10-13",
+  "orientation": "landscape",
+  "duration": 59.2,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2110062762218926204.mp4",
+  "tags": {
+   "画风": [
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "科幻",
+    "历史年代"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2110062762218926204.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2110062762218926204.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2110062762218926204.jpg",
+  "tags_en": {
+   "style": [
+    "film-retro"
+   ],
+   "region": [
+    "american"
+   ],
+   "genre": [
+    "sci-fi",
+    "historical"
+   ],
+   "mood": [
+    "melancholy"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
+  "id": "x-2110269414834852256",
+  "title": "二维奔跑炸成三维",
+  "title_en": "2D Sprint Shatters into 3D",
+  "desc": "Midjourney 定主视觉、MiniMax H3 生成 10 秒奔跑，再把生成帧拆进 Blender 做成飞散的三维碎片；画面同时展示原生成、成片与 Blender 工程。",
+  "desc_en": "Midjourney key art, a 10-second MiniMax H3 run, then generated frames exploded into flying 3D shards in Blender; raw generation, final cut and Blender scene shown side by side.",
+  "creator": "aicreataro",
+  "handle": "@aicreataro",
+  "platform": "X",
+  "url": "https://x.com/aicreataro/status/2110269414834852256",
+  "model": "MiniMax H3 (+Midjourney, Blender)",
+  "likes": 1039,
+  "postedAt": "2026-10-14",
+  "orientation": "landscape",
+  "duration": 27.1,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2110269414834852256.mp4",
+  "tags": {
+   "画风": [
+    "3D卡通",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "运动极限"
+   ],
+   "情绪": [
+    "紧张刺激"
+   ],
+   "镜头技法": [
+    "变身转场"
+   ],
+   "用途": [
+    "演示教程"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2110269414834852256.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2110269414834852256.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2110269414834852256.jpg",
+  "tags_en": {
+   "style": [
+    "3d-cartoon",
+    "surreal-dream"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "sports-extreme"
+   ],
+   "mood": [
+    "tense"
+   ],
+   "technique": [
+    "transformation-transition"
+   ],
+   "use": [
+    "demo-tutorial"
+   ]
+  }
+ },
+ {
+  "id": "x-2090573248752934994",
+  "title": "拟音驱动的黑色剪影",
+  "title_en": "Foley-Driven Noir Silhouettes",
+  "desc": "打火机一响亮出侦探侧影，脚步声搭起城市，弹壳、雨伞、地铁门、漂移跑车依次登场，全片仅黑白钴蓝与酸黄四色。",
+  "desc_en": "A lighter flick reveals a detective's profile and footsteps build the city, as shell casings, umbrellas, subway doors and a drifting car arrive in a four-color black, white, cobalt and acid-yellow palette. Full MiniMax H3 prompt included.",
+  "creator": "meropan",
+  "handle": "@renataro9",
+  "platform": "X",
+  "url": "https://x.com/renataro9/status/2090573248752934994",
+  "model": "MiniMax H3",
+  "prompt": "integrated_multimodal_description: [Shot 1] Create a 15-second 16:9 hard-boiled anime silhouette motion-graphics film driven by foley synchronization. Use black silhouettes, white negative space, cobalt and acid yellow. Crisp cel contours, paper texture and mechanical masks. No text. Open on black silence. At 00:00.300, a lighter wheel clicks and one white line appears. At 00:00.600, an acid-yellow flame reveals a trench-coat detective's profile. At 00:01.000, he closes the lighter; the flame becomes a yellow rectangle that snaps shut.  [Shot 2] At 00:01.500, four isolated footsteps begin. Each heel impact stamps a city layer beneath the detective: pavement, lamp posts, fire escapes, then elevated railway. His silhouette stays centered as the environment assembles. On the fifth step he stops; background layers slide three frames, then lock with a brake sound. A cobalt shadow detaches and races down an alley.  [Shot 3] At 00:03.800, follow the shadow into a macro silhouette of a gloved hand disassembling a handgun. No firing or target. Magazine release, slide pull, spring release and one empty casing drop form four percussion hits. Each click drops a mask, expands a circle or rotates panels. Follow the casing downward. It bounces three times; each bounce creates a white ring and adds one instrument.  [Shot 4] At 00:06.200, the third casing bounce becomes the metal tip of a closed umbrella striking wet ground. A slim female silhouette snaps the umbrella open on a loud cloth crack. Its ribs create twelve alternating cobalt and black wedges that spin once around her. Rain hits the umbrella in syncopated ticks. She pivots, blocks an incoming baton with the umbrella shaft, hooks the attacker's wrist and redirects him past her. Use five clear pose-to-pose silhouettes, one per snare or umbrella impact. No injury, blood or realistic violence. The umbrella closes with a vacuum-like snap that pulls the entire scene into a thin vertical line.  [Shot 5] At 00:09.000, the vertical line becomes the seam between two subway doors. A hooded runner silhouette is visible inside. Two warning chimes sound; each chime sends an acid-yellow square around him. The doors open on the third beat and he explodes into a sprint. Every footstep swaps the background between white, cobalt and black using hard track mattes. The camera remains low beside his shoes, then whip-pans upward when he vaults a barrier. His landing creates a two-frame white impact flash followed by a half-beat of total visual stillness and near silence.  [Shot 6] At 00:11.700, engine ignition breaks the silence. A black coupe enters sideways. Tire squeal draws cobalt arcs; the car drifts around the runner while the other silhouettes stand far behind. Engine rev, gear change and tire grip form three rising accents. On the final grip, motion reverses for six frames: rain rises, arcs rewind and shadows return. Time snaps forward on one full-band hit.  At 00:13.700, the three human silhouettes stand under three separate pools of light: detective left, umbrella woman center, hooded runner right. The car passes behind them as one black horizontal wipe. The lighter clicks shut at 00:14.600, extinguishing every light from left to right. End at 00:15.000 on pure black and absolute silence. No title or text.  FOLEY-SYNC LAW: Every major visual change begins on the exact transient of a visible sound. Lighter creates line and portrait; footsteps build architecture; metal clicks move masks; casing creates rings; umbrella creates wedges; impacts change poses; chimes create squares; landing creates freeze; engine accelerates layers; lighter close ends the film. Never drift. Use two-to-four-frame anticipation, contact on the transient and immediate follow-through.  MOTION SYSTEM: Professional After Effects-style kinetic motion graphics using track mattes, shape layers, parented rotations, time remapping, posterized frame stepping, silhouette echo trails, directional blur, impact frames, counter-motion and hard occlusion. Movement is decisive and causal. No slow zoom, slow pan, idle hold except the intentional half-beat freeze, slideshow, floating cards, soft crossfade, random particles or decorative motion unrelated to sound.  SILHOUETTE RULES: All people, car, umbrella, handgun, lighter and city objects remain readable flat silhouettes. Never reveal faces, skin or internal costume detail. Identify characters through outline, posture and props. Stable anatomy, correct hands and coherent action. Only black, white, cobalt and acid yellow. No red, cream, gradients, glossy 3D, photorealism, neon glow, HUD, lens flare, blood, gore, duplicate limbs or morphing.  NO-TEXT RULE: Show no letters, words, numbers, logos, credits, captions, subtitles, signs, license plates, interface labels, pseudo-writing or watermark. All surfaces remain unmarked.  overall_soundscape: Hyper-precise close foley in dry stereo: lighter wheel, flame ignition, lighter lid, four footsteps, brake lock, magazine release, slide pull, spring click, casing drop and three bounces, umbrella tip, umbrella snap, rain ticks, shaft contact, cloth close, two subway chimes, doors, sprinting shoes, barrier vault, landing, ignition, engine rev, gear shift, tire squeal, tire grip and final lighter close. Each sound is short, tactile and placed at its visible source.  non_diegetic_music: Begin with no conventional music. Build the first six seconds entirely from foley rhythm. After each casing bounce, add one layer in order: muted upright bass, rim-click drum pattern, then dry jazz-guitar chord. At 00:06.200, introduce a restrained 144 BPM noir jazz-breakbeat shaped around the existing foley pulse, with upright bass, brushed snare, low bass clarinet and sparse vibraphone. Leave clear gaps for umbrella, train and car sounds. At 00:11.700, add full drumsticks and one short bass-clarinet phrase; stop everything for the landing freeze, then return on the engine ignition. At 00:14.600, all music stops with the lighter click. No vocals, big-band brass, constant melody, comedy swing, trap, EDM, copied music or ambient wash.",
+  "promptSource": "作者评论",
+  "likes": 745,
+  "postedAt": "2026-08-20",
+  "orientation": "landscape",
+  "duration": 15.1,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2090573248752934994.mp4",
+  "tags": {
+   "画风": [
+    "日系动漫",
+    "黑白影像"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "悬疑惊悚"
+   ],
+   "情绪": [
+    "紧张刺激"
+   ],
+   "镜头技法": [
+    "卡点节奏"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2090573248752934994.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2090573248752934994.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2090573248752934994.jpg",
+  "tags_en": {
+   "style": [
+    "anime",
+    "black-and-white"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "thriller"
+   ],
+   "mood": [
+    "tense"
+   ],
+   "technique": [
+    "beat-sync"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
+  "id": "x-2115768686753833186",
+  "title": "赛博朋克日常",
+  "title_en": "Cyberpunk Everyday",
+  "desc": "3D动画：赛博义体改装、便利店枪战、荒漠城市飞车，节奏紧凑的动作短片。",
+  "desc_en": "A tightly cut 3D-animated action short: cybernetic implant upgrades, a convenience-store shootout and a desert-city car chase.",
+  "creator": "INK",
+  "handle": "@0xInk_",
+  "platform": "X",
+  "url": "https://x.com/0xInk_/status/2115768686753833186",
+  "likes": 730,
+  "postedAt": "2026-10-29",
+  "orientation": "landscape",
+  "duration": 50.5,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2115768686753833186.mp4",
+  "tags": {
+   "画风": [
+    "游戏CG",
+    "赛博霓虹"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻",
+    "武侠打斗"
+   ],
+   "情绪": [
+    "热血燃"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2115768686753833186.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2115768686753833186.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2115768686753833186.jpg",
+  "tags_en": {
+   "style": [
+    "game-cg",
+    "cyberpunk-neon"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "sci-fi",
+    "martial-arts-action"
+   ],
+   "mood": [
+    "hype"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
+  "id": "x-2112536635435049408",
+  "title": "先预演再生成",
+  "title_en": "Previz First, Then Generate",
+  "desc": "屋顶跑酷先用 MiniMax H3 生成橙色人偶的预演，再以 Seedance 2.5 出写实成片，预演与成片上下逐镜对照。",
+  "desc_en": "Rooftop parkour previsualized with orange mannequins in MiniMax H3, then generated photoreal in Seedance 2.5, with previz and final compared shot by shot.",
+  "creator": "たくぞー｜AI動画ツール実測レビュー",
+  "handle": "@tkz_aiart",
+  "platform": "X",
+  "url": "https://x.com/tkz_aiart/status/2112536635435049408",
+  "model": "MiniMax H3 (previz) + Seedance 2.5",
+  "likes": 603,
+  "postedAt": "2026-10-20",
+  "orientation": "portrait",
+  "duration": 8.0,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2112536635435049408.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "运动极限",
+    "旅行城市"
+   ],
+   "情绪": [
+    "紧张刺激"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "演示教程"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2112536635435049408.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2112536635435049408.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2112536635435049408.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "sports-extreme",
+    "travel-city"
+   ],
+   "mood": [
+    "tense"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "demo-tutorial"
+   ]
+  }
+ },
+ {
+  "id": "web-2114035230113984749",
+  "title": "夏祭·池塘电车",
+  "title_en": "Summer Pond Tram",
+  "desc": "一节被藤蔓与花槽占满的电车车厢，地板化作清浅池塘、锦鲤游动，窗外是夏日海面；可在网页里实时漫游。",
+  "desc_en": "A walkable WebGL tram carriage overgrown with vines and flower beds, its floor turned into a shallow koi pond with a summer sea outside. Built with Claude Opus 5.5.",
+  "creator": "Scott",
+  "handle": "@scottstts",
+  "platform": "X",
+  "url": "https://x.com/scottstts/status/2114035230113984749",
+  "model": "Opus 5.5 (Claude)",
+  "likes": 596,
+  "postedAt": "2026-10-24",
+  "orientation": "landscape",
+  "duration": 60.0,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2114035230113984749.mp4",
+  "tags": {
+   "画风": [
+    "超现实梦境",
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "奇幻神话",
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "medium": "web",
+  "made_with": "Opus 5.5 (Claude)",
+  "stack": [
+   "three.js",
+   "WebGL"
+  ],
+  "live_url": "https://pondline.scottsun.io",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/web-2114035230113984749.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/web-2114035230113984749.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/web-2114035230113984749.jpg",
+  "tags_en": {
+   "style": [
+    "surreal-dream",
+    "anime"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "fantasy-myth",
+    "daily-life"
+   ],
+   "mood": [
+    "heartwarming"
+   ]
+  }
+ },
+ {
+  "id": "x-2077006040776741153",
+  "title": "马克笔改写街道",
+  "title_en": "Marker Rewrites the Street",
+  "desc": "第一视角拿马克笔在现实街头涂画：红绿灯小人走下来、消防栓变卡通、影子化身最终 Boss，现实与动画贴纸互动。",
+  "desc_en": "First-person marker doodles come alive on a real street: the crosswalk figure steps down, a hydrant turns cartoon, and a shadow becomes the final boss. Made with Gemini Omni.",
+  "creator": "Dheepan Ratnam",
+  "handle": "@Dheepanratnam",
+  "platform": "X",
+  "url": "https://x.com/Dheepanratnam/status/2077006040776741153",
+  "model": "Gemini Omni",
+  "likes": 546,
+  "postedAt": "2026-07-14",
+  "orientation": "landscape",
+  "duration": 50.0,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2077006040776741153.mp4",
+  "tags": {
+   "画风": [
+    "纪实手持",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "旅行城市",
+    "喜剧搞笑"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "第一人称"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2077006040776741153.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2077006040776741153.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2077006040776741153.jpg",
+  "tags_en": {
+   "style": [
+    "documentary-handheld",
+    "surreal-dream"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "travel-city",
+    "comedy"
+   ],
+   "mood": [
+    "lighthearted"
+   ],
+   "technique": [
+    "pov"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
+  "id": "x-2111110794150867287",
+  "title": "白模变夏日祭",
+  "title_en": "Blockout to Summer Festival",
+  "desc": "上半是方块白模走位预演，下半是同一机位生成的新海诚式夏日祭动画：灯笼、浴衣、回眸与牵手。",
+  "desc_en": "Top half: a grey-box previz of blocky figures; bottom half: the same camera moves rendered by MiniMax H3 as a Shinkai-style summer festival with lanterns, yukata and held hands.",
+  "creator": "みと Visuals×AI",
+  "handle": "@mito_ai_la",
+  "platform": "X",
+  "url": "https://x.com/mito_ai_la/status/2111110794150867287",
+  "model": "MiniMax H3",
+  "likes": 430,
+  "postedAt": "2026-10-16",
+  "orientation": "landscape",
+  "duration": 7.8,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2111110794150867287.mp4",
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "爱情青春"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "演示教程"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2111110794150867287.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2111110794150867287.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2111110794150867287.jpg",
+  "tags_en": {
+   "style": [
+    "anime"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "romance-youth"
+   ],
+   "mood": [
+    "romantic"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "demo-tutorial"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2114998034773729300",
+  "title": "水彩骑士速写",
+  "title_en": "Watercolor Knight Sketches",
+  "desc": "骑士、战马与弓箭手被几笔松散的水彩与蜡笔线条带出，大片留白。",
+  "desc_en": "Knights, warhorses and archers sketched in loose watercolor and crayon strokes with generous white space. Midjourney sref code included.",
+  "creator": "Sgt Sref",
+  "handle": "@sergeantsref",
+  "platform": "X",
+  "url": "https://x.com/sergeantsref/status/2114998034773729300",
+  "model": "Midjourney",
+  "prompt": "--sref 2834642305",
+  "promptSource": "正文",
+  "likes": 304,
+  "postedAt": "2026-10-27",
+  "orientation": "landscape",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "历史年代",
+    "奇幻神话"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2114998034773729300.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2114998034773729300.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2114998034773729300.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2114998034773729300_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2114998034773729300_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2114998034773729300_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "watercolor-storybook"
+   ],
+   "region": [
+    "european"
+   ],
+   "genre": [
+    "historical",
+    "fantasy-myth"
+   ],
+   "mood": [
+    "epic"
+   ]
+  }
+ },
+ {
+  "id": "x-2089918524118716461",
+  "title": "折纸与字体",
+  "title_en": "Fold the Light",
+  "desc": "巨大黑体字“FOLD THE LIGHT / SHAPE THE SILENCE”与折纸人形交错，纸扇展开、彩带飞舞，收于金色“BECOME ART”。",
+  "desc_en": "Giant bold type reading FOLD THE LIGHT / SHAPE THE SILENCE interweaves with origami figures, unfolding paper fans and ribbons, ending on a golden BECOME ART. Made with MiniMax H3.",
+  "creator": "AIライフハック",
+  "handle": "@ai_lifehack55",
+  "platform": "X",
+  "url": "https://x.com/ai_lifehack55/status/2089918524118716461",
+  "model": "MiniMax H3",
+  "likes": 243,
+  "postedAt": "2026-08-19",
+  "orientation": "landscape",
+  "duration": 15.1,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2089918524118716461.mp4",
+  "tags": {
+   "画风": [
+    "超现实梦境",
+    "广告大片"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "音乐舞蹈"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ],
+   "镜头技法": [
+    "卡点节奏"
+   ],
+   "用途": [
+    "MV"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2089918524118716461.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2089918524118716461.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2089918524118716461.jpg",
+  "tags_en": {
+   "style": [
+    "surreal-dream",
+    "commercial"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "music-dance"
+   ],
+   "mood": [
+    "epic"
+   ],
+   "technique": [
+    "beat-sync"
+   ],
+   "use": [
+    "music-video"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2110138570740543839",
+  "title": "九十年代电影剧照",
+  "title_en": "Nineties Movie Stills",
+  "desc": "四张像九十年代美国电影剧照的画面：公园长椅上的老夫妇、骑车经过白色木屋的少女、草坪上谈交易的西装男人、银行劫案。",
+  "desc_en": "Four frames that read like stills from 1990s American films: an old couple on a bench, a girl cycling past a clapboard house, a lawn-side deal, a bank heist. Made with Krea 3.",
+  "creator": "Riccardo Wolf",
+  "handle": "@WolfRiccardo",
+  "platform": "X",
+  "url": "https://x.com/WolfRiccardo/status/2110138570740543839",
+  "model": "Krea 3",
+  "likes": 228,
+  "postedAt": "2026-10-13",
+  "orientation": "landscape",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "胶片复古",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "日常生活",
+    "悬疑惊悚"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2110138570740543839.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2110138570740543839.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2110138570740543839.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2110138570740543839_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2110138570740543839_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2110138570740543839_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "film-retro",
+    "cinematic-realism"
+   ],
+   "region": [
+    "american"
+   ],
+   "genre": [
+    "daily-life",
+    "thriller"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "x-2113115486393409560",
+  "title": "窗边的风与狗",
+  "title_en": "Wind, Window and a Dog",
+  "desc": "午后暖光里，风吹乱短发，三色狗凑上来蹭脸、拥抱、舔一下，女孩忍不住笑出来；35mm 颗粒、手持感。",
+  "desc_en": "In warm afternoon light a tricolor dog nuzzles and licks a short-haired woman until she breaks into laughter, with 35mm grain and handheld feel. Full MiniMax H3 prompt included.",
+  "creator": "Cherry",
+  "handle": "@hey_am_cherry",
+  "platform": "X",
+  "url": "https://x.com/hey_am_cherry/status/2113115486393409560",
+  "model": "MiniMax H3",
+  "prompt": "Create a 15-second hyper-realistic emotional short film using the provided image as the exact starting frame. Preserve the woman's identity, short black bob haircut, white T-shirt, tricolor dog, old green window frame, and warm vintage film aesthetic.\n\nFORMAT:\n15 seconds, vertical 3:4, photorealistic, continuous natural handheld footage. Realistic wind physics, detailed hair movement, expressive but believable animal behavior, warm cinematic lighting, subtle 35mm film grain.\n\nSTORY AND ACTION:\n\n0–3 SECONDS — THE WIND ARRIVES\nBegin exactly from the reference image. The woman rests her cheek against her hand while the dog lies in the foreground. A sudden gentle breeze enters through the partly open window. Her loose bangs lift and sweep across her eyes, several strands fluttering naturally around her cheeks. She blinks, gives a tiny amused expression, and tries to move the hair away from her face. The curtain in the background sways gently.\n\nSound: Soft outdoor wind, distant birds, subtle cafe ambience, and a delicate piano melody beginning quietly.\n\n3–6 SECONDS — THE UNEXPECTED REACTION\nThe dog suddenly raises its head and notices her windblown hair. It tilts its head, watches her struggle with the loose strands, then carefully lifts one paw and places it on the window ledge near her arm. The woman notices and looks at the dog with genuine surprise. A stronger breeze lifts her hair again, and she lets out a short, natural laugh.\n\nSound: Gentle wind through the window, soft paw movement, a faint natural laugh. Piano builds with warm strings.\n\n6–10 SECONDS — THE CONNECTION\nThe dog moves closer and gently nudges her forearm with its nose, trying to get her attention. She lowers her hand from her cheek and strokes its head. Just then, another gust sweeps her bangs across her face. She leans forward, playfully brushing her hair aside, and the dog stretches up to nuzzle her cheek. Capture the tiny details: moving hair strands, the dog's shifting ears, her changing expression, and realistic fur reacting to the breeze.\n\nSound: Natural dog breathing, rustling hair, soft fabric movement, piano and strings building emotionally.\n\n10–13 SECONDS — THE WOW MOMENT\nAs the woman leans closer, the dog gently places its front paws on the window ledge and reaches toward her. She instinctively wraps both arms around its head and shoulders in a spontaneous affectionate embrace. Her hair blows across both of them as warm late-afternoon sunlight briefly catches the moving strands. She closes her eyes for a moment, smiling genuinely against the dog's head. Keep the interaction physically natural and anatomically correct.\n\n13–15 SECONDS — THE ENDING WORTH WATCHING\nThe woman slowly lifts her face from the dog's fur. The dog looks directly into her eyes, then gives her cheek one quick, natural lick. She freezes in surprised delight for a split second, then breaks into a real, uncontrollable little smile and hugs the dog closer. A final gust lifts her bangs away from her face, revealing her full smile. The camera makes a subtle push-in and holds on their joyful expressions as the music reaches its warmest note. End on the dog's happy, relaxed face beside hers.\n\nAUDIO DESIGN:\nCreate an original emotional piano-and-strings soundtrack synchronized with the action.\n\nVISUAL QUALITY AND MOTION:\nNatural wind with individual hair strands moving independently; believable hair physics; detailed fur; realistic eye movements and blinking; natural facial expressions; correct hand and paw anatomy; consistent character identity; physically plausible contact between the woman and dog. Preserve the original green window framing and warm, slightly grainy film look. The woman's face remains the visual focus.",
+  "promptSource": "正文",
+  "likes": 217,
+  "postedAt": "2026-10-22",
+  "orientation": "portrait",
+  "duration": 15.1,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2113115486393409560.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感",
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "宠物动物",
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "微表情特写"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2113115486393409560.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2113115486393409560.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2113115486393409560.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism",
+    "film-retro"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "animals",
+    "daily-life"
+   ],
+   "mood": [
+    "heartwarming"
+   ],
+   "technique": [
+    "micro-expression"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
   "id": "tt-7547456543185210679",
   "title": "okie dokie",
   "title_en": "Okie Dokie",
