@@ -1,5 +1,3370 @@
 [
  {
+  "id": "img-x-2117206100873232801",
+  "title": "地铁里的人",
+  "title_en": "Subway Riders",
+  "desc": "穿条纹西装读报、依偎打盹、低头刷手机的乘客，用老式海报插画的厚涂笔触画成一组车厢速写。",
+  "desc_en": "Thick-brush vintage poster illustrations of commuters on a train: a pinstriped man reading a paper, passengers dozing or on phones.",
+  "creator": "Gizem Akdag",
+  "handle": "@gizakdag",
+  "platform": "X",
+  "url": "https://x.com/gizakdag/status/2117206100873232801",
+  "likes": 5634,
+  "postedAt": "2026-11-02",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2117206100873232801.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2117206100873232801.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2117206100873232801.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117206100873232801_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117206100873232801_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117206100873232801_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "watercolor-storybook"
+   ],
+   "region": [
+    "american"
+   ],
+   "genre": [
+    "daily-life"
+   ],
+   "mood": [
+    "lighthearted"
+   ]
+  }
+ },
+ {
+  "id": "web-2116192984299344372",
+  "title": "机械蚊拆解台",
+  "title_en": "Exploded Mechanical Mosquito",
+  "desc": "只给Opus 5.5一张参考图，生成一只可拆解的机械飞虫：外壳、齿轮、软管全是three.js代码，大齿轮下藏着260个小零件，每2-3秒自动拆下一块，拉动腿部舵机会弹出DETACHED状态。",
+  "desc_en": "A three.js web scene of a white mechanical flying insect that disassembles itself part by part, framed by an instrument-panel UI. Generated from a single reference image.",
+  "creator": "Elvar",
+  "handle": "@elvar_official",
+  "platform": "X",
+  "url": "https://x.com/elvar_official/status/2116192984299344372",
+  "model": "Opus 5.5 (Claude)",
+  "likes": 3927,
+  "postedAt": "2026-10-30",
+  "orientation": "landscape",
+  "duration": 24.04,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2116192984299344372.mp4",
+  "tags": {
+   "画风": [
+    "广告大片",
+    "赛博霓虹"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "产品",
+    "科幻"
+   ],
+   "情绪": [
+    "紧张刺激",
+    "轻松欢快"
+   ]
+  },
+  "medium": "web",
+  "made_with": "Opus 5.5 (Claude)",
+  "stack": [
+   "three.js",
+   "WebGL"
+  ],
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/web-2116192984299344372.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/web-2116192984299344372.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/web-2116192984299344372.jpg",
+  "tags_en": {
+   "style": [
+    "commercial",
+    "cyberpunk-neon"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "product",
+    "sci-fi"
+   ],
+   "mood": [
+    "tense",
+    "lighthearted"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2104110405933277694",
+  "title": "治愈系街景",
+  "title_en": "Healing Town Scenery",
+  "desc": "樱花掩映的山路、雨夜绿树中的楼房、海边小镇，竖长画幅里是安静的日式治愈风景。",
+  "desc_en": "A vertical anime-style hillside town of lit wooden houses among green trees and willows, in a quiet iyashikei mood.",
+  "creator": "Glitter Gal",
+  "handle": "@GlitterPixely",
+  "platform": "X",
+  "url": "https://x.com/GlitterPixely/status/2104110405933277694",
+  "model": "Midjourney",
+  "prompt": "Iyashikei --sref 4154608028 2561245139",
+  "promptSource": "正文",
+  "likes": 3217,
+  "postedAt": "2026-09-27",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "旅行城市",
+    "自然风光"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2104110405933277694.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2104110405933277694.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2104110405933277694.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2104110405933277694_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2104110405933277694_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2104110405933277694_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "anime"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "travel-city",
+    "nature"
+   ],
+   "mood": [
+    "heartwarming"
+   ]
+  }
+ },
+ {
+  "id": "web-2108369354991759658",
+  "title": "穿越飓风之眼",
+  "title_en": "Flying Through a Hurricane",
+  "desc": "浏览器里的3D飞行游戏：驾驶飞机穿过整场飓风，云墙、逆光与风暴眼的体积感层层推进。",
+  "desc_en": "A browser 3D flight game where a plane flies through a hurricane, with volumetric cloud walls and backlit storm light. Built with three.js.",
+  "creator": "Techartist",
+  "handle": "@techartist_",
+  "platform": "X",
+  "url": "https://x.com/techartist_/status/2108369354991759658",
+  "model": "Claude Opus 5.5",
+  "likes": 2486,
+  "postedAt": "2026-10-09",
+  "orientation": "landscape",
+  "duration": 21.1,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2108369354991759658.mp4",
+  "tags": {
+   "画风": [
+    "游戏CG",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光",
+    "游戏电竞"
+   ],
+   "情绪": [
+    "紧张刺激",
+    "史诗壮阔"
+   ]
+  },
+  "medium": "web",
+  "made_with": "Claude Opus 5.5",
+  "stack": [
+   "three.js",
+   "WebGL"
+  ],
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/web-2108369354991759658.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/web-2108369354991759658.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/web-2108369354991759658.jpg",
+  "tags_en": {
+   "style": [
+    "game-cg",
+    "cinematic-realism"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "nature",
+    "gaming"
+   ],
+   "mood": [
+    "tense",
+    "epic"
+   ]
+  }
+ },
+ {
+  "id": "web-2113310927093436587",
+  "title": "会翻页的能量之书",
+  "title_en": "Page-Turning Energy Book",
+  "desc": "一本可交互的3D能量教科书：翻页书里放着可玩的日常物体，液态玻璃放大镜头，第一课带教师指南，共规划10课。",
+  "desc_en": "An interactive 3D energy textbook with turning pages, playable everyday objects, a liquid-glass magnifier and a teacher guide, built with three.js.",
+  "creator": "Techartist",
+  "handle": "@techartist_",
+  "platform": "X",
+  "url": "https://x.com/techartist_/status/2113310927093436587",
+  "model": "Opus 5.5 (Claude)",
+  "likes": 2317,
+  "postedAt": "2026-10-22",
+  "orientation": "landscape",
+  "duration": 28.3,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/web-2113310927093436587.mp4",
+  "tags": {
+   "画风": [
+    "3D卡通"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "日常生活"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "medium": "web",
+  "made_with": "Opus 5.5 (Claude)",
+  "stack": [
+   "three.js",
+   "WebGL"
+  ],
+  "live_url": "https://iamtechartist.github.io/every-joule-lesson1/",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/web-2113310927093436587.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/web-2113310927093436587.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/web-2113310927093436587.jpg",
+  "tags_en": {
+   "style": [
+    "3d-cartoon"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "daily-life"
+   ],
+   "mood": [
+    "lighthearted"
+   ]
+  }
+ },
+ {
+  "id": "x-2116621100859662589",
+  "title": "糟糕的万圣派对",
+  "title_en": "A Bad Halloween Party",
+  "desc": "衣柜里蜷缩的长鼻怪物在万圣夜混进扮装的街头人群，南瓜灯与满月下的孤独身影。",
+  "desc_en": "A lanky closet monster slips into a Halloween street crowd of costumed people under pumpkin lanterns and a full moon. A 55-second hand-painted dark animation.",
+  "creator": "Anima",
+  "handle": "@Anima_Labs",
+  "platform": "X",
+  "url": "https://x.com/Anima_Labs/status/2116621100859662589",
+  "model": "Seedance 2.5",
+  "likes": 1919,
+  "postedAt": "2026-10-31",
+  "orientation": "landscape",
+  "duration": 55.2,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2116621100859662589.mp4",
+  "tags": {
+   "画风": [
+    "3D卡通"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "奇幻神话",
+    "日常生活"
+   ],
+   "情绪": [
+    "孤独忧郁",
+    "诡异不安"
+   ],
+   "镜头技法": [
+    "多镜头剪辑",
+    "角色一致性"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2116621100859662589.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2116621100859662589.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2116621100859662589.jpg",
+  "tags_en": {
+   "style": [
+    "3d-cartoon"
+   ],
+   "region": [
+    "american"
+   ],
+   "genre": [
+    "fantasy-myth",
+    "daily-life"
+   ],
+   "mood": [
+    "melancholy",
+    "eerie"
+   ],
+   "technique": [
+    "multi-shot",
+    "character-consistency"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2117329592629477849",
+  "title": "夜湖白花",
+  "title_en": "White Flowers on Night Lake",
+  "desc": "深蓝夜色里的湖面，几朵发光的白花立在水中央，倒影被拉成长长的光痕。",
+  "desc_en": "Glowing white flowers stand in a deep blue night lake with reflections stretched into light streaks.",
+  "creator": "unseen",
+  "handle": "@unseenai",
+  "platform": "X",
+  "url": "https://x.com/unseenai/status/2117329592629477849",
+  "likes": 1336,
+  "postedAt": "2026-11-02",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2117329592629477849.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2117329592629477849.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2117329592629477849.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117329592629477849_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117329592629477849_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117329592629477849_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "nature"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2116994324378349712",
+  "title": "行星环下的家",
+  "title_en": "Home Under Rings",
+  "desc": "一栋亮灯的小屋立在夜色草原，天空被巨大的行星环以星轨般的光带划开。",
+  "desc_en": "A lit small house on a night prairie under a giant planetary ring drawn as star-trail light bands.",
+  "creator": "Dogan Ural",
+  "handle": "@doganuraldesign",
+  "platform": "X",
+  "url": "https://x.com/doganuraldesign/status/2116994324378349712",
+  "likes": 1324,
+  "postedAt": "2026-11-01",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2116994324378349712.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2116994324378349712.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2116994324378349712.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116994324378349712_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116994324378349712_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116994324378349712_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "sci-fi"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2115869155530535134",
+  "title": "星环之下",
+  "title_en": "Beneath the Rings",
+  "desc": "行星环的光带横贯天幕，地面只有孤零零的树与小屋，像一首关于家园的冷色调长诗。",
+  "desc_en": "Planetary ring light bands cross the sky above a lone tree and small house in cold tones.",
+  "creator": "Dogan Ural",
+  "handle": "@doganuraldesign",
+  "platform": "X",
+  "url": "https://x.com/doganuraldesign/status/2115869155530535134",
+  "likes": 1317,
+  "postedAt": "2026-10-29",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2115869155530535134.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2115869155530535134.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2115869155530535134.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115869155530535134_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115869155530535134_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115869155530535134_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "sci-fi"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2116616673587597478",
+  "title": "星轨之下",
+  "title_en": "Under the Star Trails",
+  "desc": "夜空被拉成红蓝相间的弧形星轨，下方是孤零零的山坡小屋与树影。四张构图在同一视觉母题上变奏。",
+  "desc_en": "Night skies stretched into red and blue star trails above a lone hillside figure, shown as four variations of one motif.",
+  "creator": "Dogan Ural",
+  "handle": "@doganuraldesign",
+  "platform": "X",
+  "url": "https://x.com/doganuraldesign/status/2116616673587597478",
+  "likes": 1076,
+  "postedAt": "2026-10-31",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境",
+    "赛博霓虹"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻",
+    "自然风光"
+   ],
+   "情绪": [
+    "孤独忧郁",
+    "史诗壮阔"
+   ],
+   "镜头技法": [
+    "宫格分镜"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2116616673587597478.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2116616673587597478.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2116616673587597478.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116616673587597478_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116616673587597478_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116616673587597478_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "surreal-dream",
+    "cyberpunk-neon"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "sci-fi",
+    "nature"
+   ],
+   "mood": [
+    "melancholy",
+    "epic"
+   ],
+   "technique": [
+    "storyboard-grid"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2102333715795804395",
+  "title": "过剩",
+  "title_en": "Excess",
+  "desc": "红底上的银牙猛虎、宝石电子宠物、火焰黑豹和阿拉丁神灯，日式刺青与珠宝质感的混合。",
+  "desc_en": "A snarling tiger with diamond-studded silver fangs on red and black, mixing Japanese tattoo motifs with jewelry.",
+  "creator": "AlexandrIA",
+  "handle": "@AleRVG",
+  "platform": "X",
+  "url": "https://x.com/AleRVG/status/2102333715795804395",
+  "model": "Midjourney",
+  "prompt": "EXCESS --sref 1397720772 1539610103",
+  "promptSource": "正文",
+  "likes": 935,
+  "postedAt": "2026-09-22",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "游戏CG",
+    "赛博霓虹"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "热血燃",
+    "紧张刺激"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2102333715795804395.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2102333715795804395.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2102333715795804395.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2102333715795804395_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2102333715795804395_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2102333715795804395_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "game-cg",
+    "cyberpunk-neon"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "fantasy-myth"
+   ],
+   "mood": [
+    "hype",
+    "tense"
+   ]
+  }
+ },
+ {
+  "id": "x-2116723904014340590",
+  "title": "绅士",
+  "title_en": "The Gentleman",
+  "desc": "光头硬汉推门、买花、在欧洲小巷等她，最后两人在黄昏树下俯瞰城市，平涂插画风浪漫短片。",
+  "desc_en": "A bald man opens a door, buys flowers and waits in a European alley before the couple overlooks the city at dusk, in a flat illustration style. Close-up cuts of hands, shoes and roses set the rhythm.",
+  "creator": "Keneth Tran | AI Animation",
+  "handle": "@keneth_ai",
+  "platform": "X",
+  "url": "https://x.com/keneth_ai/status/2116723904014340590",
+  "model": "Seedance 2.5",
+  "likes": 825,
+  "postedAt": "2026-11-01",
+  "orientation": "landscape",
+  "duration": 60.1,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2116723904014340590.mp4",
+  "tags": {
+   "画风": [
+    "3D卡通",
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "爱情青春"
+   ],
+   "情绪": [
+    "浪漫心动",
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "多镜头剪辑",
+    "微表情特写",
+    "卡点节奏"
+   ],
+   "用途": [
+    "MV"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2116723904014340590.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2116723904014340590.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2116723904014340590.jpg",
+  "tags_en": {
+   "style": [
+    "3d-cartoon",
+    "film-retro"
+   ],
+   "region": [
+    "european"
+   ],
+   "genre": [
+    "romance-youth"
+   ],
+   "mood": [
+    "romantic",
+    "heartwarming"
+   ],
+   "technique": [
+    "multi-shot",
+    "micro-expression",
+    "beat-sync"
+   ],
+   "use": [
+    "music-video"
+   ]
+  }
+ },
+ {
+  "id": "x-2116882508700942698",
+  "title": "公交车上的鹿角人",
+  "title_en": "Antler Figure on Bus",
+  "desc": "蒙着连帽衫、顶着鹿角的人坐在公交座位上，膝上笔记本里是森林画面，线缆垂到地面。",
+  "desc_en": "A hooded figure with antlers sits on a bus seat with a forest on a laptop and cables trailing to the floor, with slow camera movement.",
+  "creator": "goo.vision",
+  "handle": "@goo_vision",
+  "platform": "X",
+  "url": "https://x.com/goo_vision/status/2116882508700942698",
+  "likes": 808,
+  "postedAt": "2026-11-01",
+  "orientation": "portrait",
+  "duration": 7.0,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2116882508700942698.mp4",
+  "tags": {
+   "画风": [
+    "超现实梦境",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "诡异不安"
+   ],
+   "镜头技法": [
+    "慢动作"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2116882508700942698.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2116882508700942698.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2116882508700942698.jpg",
+  "tags_en": {
+   "style": [
+    "surreal-dream",
+    "cinematic-realism"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "sci-fi"
+   ],
+   "mood": [
+    "eerie"
+   ],
+   "technique": [
+    "slow-motion"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2117009575547404766",
+  "title": "毛毡小剧场",
+  "title_en": "Felt Theatre",
+  "desc": "四张少女肖像全部用毛毡拼贴质感：羊毛外套、布花、云朵与小羊，粉黄蓝的柔和色块像手作绘本。",
+  "desc_en": "Girl portraits rendered in wool-felt collage texture with soft pink, yellow and blue blocks and a toy lamb.",
+  "creator": "HPJJ",
+  "handle": "@HPJJ_u_l_5",
+  "platform": "X",
+  "url": "https://x.com/HPJJ_u_l_5/status/2117009575547404766",
+  "model": "GPT Image (ChatGPT)",
+  "likes": 754,
+  "postedAt": "2026-11-01",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "角色一致性"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2117009575547404766.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2117009575547404766.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2117009575547404766.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117009575547404766_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117009575547404766_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117009575547404766_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "watercolor-storybook"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "fashion-beauty"
+   ],
+   "mood": [
+    "heartwarming"
+   ],
+   "technique": [
+    "character-consistency"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2112177539229884700",
+  "title": "缤纷的游魂",
+  "title_en": "Colorful Wandering Spirit",
+  "desc": "紫发少女被红线、金箔花纹和散落的色彩包裹，在黑色背景上爆开。",
+  "desc_en": "A horned girl wrapped in red threads, gold foil patterns and scattered color bursting against black.",
+  "creator": "Kaski_Anna@",
+  "handle": "@G_Eskeles",
+  "platform": "X",
+  "url": "https://x.com/G_Eskeles/status/2112177539229884700",
+  "model": "Midjourney V8.2",
+  "likes": 593,
+  "postedAt": "2026-10-19",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "日系动漫",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "热血燃",
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2112177539229884700.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2112177539229884700.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2112177539229884700.jpg",
+  "tags_en": {
+   "style": [
+    "anime",
+    "surreal-dream"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "fantasy-myth"
+   ],
+   "mood": [
+    "hype",
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "x-2117061682162029022",
+  "title": "影と社",
+  "title_en": "Shadow and Shrine",
+  "desc": "日式二次元风格的白发战士在红枫与神社间高速缠斗，镜头大幅度旋转切换。",
+  "desc_en": "A white-haired anime warrior fights fast among red maples and a shrine with sweeping rotating camera moves.",
+  "creator": "Kōda",
+  "handle": "@aimikoda",
+  "platform": "X",
+  "url": "https://x.com/aimikoda/status/2117061682162029022",
+  "model": "Seedance 2.5",
+  "likes": 564,
+  "postedAt": "2026-11-02",
+  "orientation": "landscape",
+  "duration": 30.0,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2117061682162029022.mp4",
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "武侠打斗"
+   ],
+   "情绪": [
+    "热血燃"
+   ],
+   "镜头技法": [
+    "环绕运镜",
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "预告片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2117061682162029022.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2117061682162029022.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2117061682162029022.jpg",
+  "tags_en": {
+   "style": [
+    "anime"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "martial-arts-action"
+   ],
+   "mood": [
+    "hype"
+   ],
+   "technique": [
+    "orbit-shot",
+    "multi-shot"
+   ],
+   "use": [
+    "trailer"
+   ]
+  }
+ },
+ {
+  "id": "x-2114679577738162359",
+  "title": "旧金山的猩猩",
+  "title_en": "Gorilla in San Francisco",
+  "desc": "旧金山坡道上写生的女孩，偶遇帮老人推回收车的巨型猩猩，满载易拉罐的推车顺着电车轨道冲下坡收尾。",
+  "desc_en": "A girl sketching on a San Francisco hill meets a giant gorilla helping an old man push a recycling cart. The cart of cans rolls down the tram tracks to end the clip.",
+  "creator": "el.cine",
+  "handle": "@EHuanglu",
+  "platform": "X",
+  "url": "https://x.com/EHuanglu/status/2114679577738162359",
+  "likes": 560,
+  "postedAt": "2026-10-26",
+  "orientation": "landscape",
+  "duration": 40.2,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114679577738162359.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "奇幻神话",
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈",
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "多镜头剪辑",
+    "角色一致性"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2114679577738162359.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2114679577738162359.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2114679577738162359.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "american"
+   ],
+   "genre": [
+    "fantasy-myth",
+    "daily-life"
+   ],
+   "mood": [
+    "heartwarming",
+    "lighthearted"
+   ],
+   "technique": [
+    "multi-shot",
+    "character-consistency"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
+  "id": "x-2116868040537276831",
+  "title": "地图数据造出的实景城",
+  "title_en": "City From Map Data",
+  "desc": "用国土交通省 PLATEAU 与 OSM 地图数据在 Blender 搭出灰模小镇，再用 Kling 4.0 把灰模镜头逐帧“翻拍”成实拍质感，上下分屏对照前后。",
+  "desc_en": "A grey-model town built in Blender from PLATEAU and OSM data is re-rendered by Kling into photoreal shots, shown in split-screen comparison.",
+  "creator": "boke_ai",
+  "handle": "@boke_ai",
+  "platform": "X",
+  "url": "https://x.com/boke_ai/status/2116868040537276831",
+  "model": "Kling 4.0",
+  "likes": 558,
+  "postedAt": "2026-11-01",
+  "orientation": "portrait",
+  "duration": 12.0,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2116868040537276831.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "旅行城市"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "首尾帧"
+   ],
+   "用途": [
+    "演示教程"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2116868040537276831.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2116868040537276831.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2116868040537276831.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "travel-city"
+   ],
+   "mood": [
+    "lighthearted"
+   ],
+   "technique": [
+    "first-last-frame"
+   ],
+   "use": [
+    "demo-tutorial"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2114274725098569845",
+  "title": "四色孤行",
+  "title_en": "Four-Color Solitude",
+  "desc": "四张竖幅：绿丘、金色麦田、深蓝山浪、红地松林，每张只放一个极小的人影。色块平涂般纯粹，像超现实主义风景画。",
+  "desc_en": "Four vertical panels of green hills, golden wheat, deep blue waves and red pine forest, each with one tiny human figure.",
+  "creator": "unseen",
+  "handle": "@unseenai",
+  "platform": "X",
+  "url": "https://x.com/unseenai/status/2114274725098569845",
+  "likes": 553,
+  "postedAt": "2026-10-25",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ],
+   "镜头技法": [
+    "宫格分镜"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2114274725098569845.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2114274725098569845.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2114274725098569845.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2114274725098569845_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2114274725098569845_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2114274725098569845_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "surreal-dream",
+    "cinematic-realism"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "nature"
+   ],
+   "mood": [
+    "melancholy"
+   ],
+   "technique": [
+    "storyboard-grid"
+   ]
+  }
+ },
+ {
+  "id": "x-2114007429146964169",
+  "title": "枪手与巨人",
+  "title_en": "Gunslinger vs Giant",
+  "desc": "白帽枪手对决三倍身高的巨人：慢动作残影滑铲、子弹爆头化作颜料、倒带再全速重演。",
+  "desc_en": "A white-hatted gunslinger fights a giant three times her height in a gouache animation style. The sequence plays slow motion with afterimages, rewinds, then replays at full speed.",
+  "creator": "Kōda",
+  "handle": "@aimikoda",
+  "platform": "X",
+  "url": "https://x.com/aimikoda/status/2114007429146964169",
+  "model": "Seedance 2.5",
+  "prompt": "Seedance 2.5 Prompt:\nReferences:\n@[gunslinger ref]: the gunslinger. White hair, wide white hat with a green underbrim, pink halter top, periwinkle-blue off-shoulder jacket, ragged white skirt, green-and-white cowboy boots. Her only gun is one long black revolver, always in her right hand; her hip holster stays empty.\n@[giant ref]: the brute. A towering pale lavender giant, small bald head with two red horns, right arm in a black mechanical gauntlet trailing a heavy iron chain, bare massive left arm, ragged pale skirt.\n\nVisual style: Stylized painterly anime matching the reference images: loose flat gouache strokes, blocky color shapes, minimal linework, black ink accents, airy pale off-white light; lavender, periwinkle, sage green and ink black.\n\nAvoid: No subtitles. No BGM. No realistic gore, no blood.\n\nThe gunslinger kills the brute with one shot to the back of his head in a pale stone dungeon hall: in slow motion, a rewind, then the same action at full speed. In side views she is at screen left facing screen right and the brute, three times her height, at screen right facing screen left. Sound: dripping water, chain clinks, stone echo. Shot list: 10 shots, about 30 seconds.\n\nScene 1: Continuous, the dungeon hall.\nShot 1 (0-3s): Wide side shot, low angle, locked-off camera. The gunslinger stands small at screen left, revolver raised; the brute looms at screen right. Cut as he leans forward.\nShot 2 (3-6s): Medium shot on the brute from a low angle at her side; the camera slowly pushes in from his chest to his grinning face.\nThe brute's line (hungry, amused): \"Oh... a crunchy little morsel.\"\nCut as the line ends.\nShot 3 (6-9s): Close-up under the gunslinger's hat brim, eye level, locked-off camera. One corner of her mouth slowly lifts into a smile. Cut as she drops her weight forward.\n\nScene 2: Continuous, extreme slow motion. The image turns cooler and desaturated with a soft dark vignette; dust, pebbles and water drops hang almost still in the air; hair and cloth ripple slowly as if underwater; sound sinks to a muffled drone and slow heartbeats. She leaves afterimages: five or six separate see-through copies of her whole body, each frozen in an earlier pose, spaced along her path, edged with a faint cyan and pink fringe; distinct copies, not speed lines.\nShot 4 (9-12s): Low tracking shot at floor level from the side; the camera slowly travels left to right with her. The gunslinger slides feet-first on her hip toward the brute, pebbles kicked up and floating beside her, a row of afterimage copies behind her. His fist slowly descends toward where she stood. Cut as she slides between his planted legs.\nShot 5 (12-15s): Low angle from behind the brute, his face hidden; the camera slowly tilts up his back. The gunslinger slides out from between his legs toward the lens, springs up and turns to face his back, afterimages stacked along her rising path, until she floats level with the back of his head, her back to the camera, revolver aimed at his nape. Cut as the muzzle lines up.\nShot 6 (15-18s): Medium shot from behind and above both, same side as Shot 5; the camera slowly pushes in past her shoulder toward the back of his head. Both face away from the camera; his face stays hidden. She pulls the trigger: the muzzle flash opens like a slow white flower, a ring of rippling air spreads from the barrel, and the back of his head bursts into pale lavender paint and black ink that hangs in the air, his horns spinning away, his body jolting. A deep stretched boom. Cut on the burst.\n\nScene 3: Rewind.\nShot 7 (18-20s): Wide side shot, low angle, locked-off camera, framed as Shot 1. The picture rewinds fast with a whirring sound and a flicker: the paint flies back into his whole head, the gunslinger flies backward to her starting spot at screen left, his fist rises, full color returns. Cut once all is back at the start.\n\nScene 4: The same action at full speed, no afterimages.\nShot 8 (20-24s): Wide side shot, low angle; the camera quickly pans with her from left to right. Back at the start, the brute's head whole, the gunslinger at screen left: fast and sharp, she dashes forward, slides under his legs, springs up behind his back and fires; a sharp crack, and the back of his head bursts. She drops beyond his back at screen right and lands facing away from him while his headless body tips forward and crashes face-down. Cut on the crash.\n\nScene 5: Continuous, the aftermath.\nShot 9 (24-27s): Medium shot from a low angle in front of the gunslinger; the camera slowly pulls back. Her back to the fallen brute, she faces the lens as dust rolls past, holster empty; she lifts the single revolver in her right hand to her lips and blows the smoke from the barrel. Cut as the smoke curls up.\nShot 10 (27-30s): Close-up on her face, eye level; the camera slowly pushes in, smoke drifting across her face.\nThe gunslinger's line (calm, teasing): \"Bit off more than you could chew, big guy.\"\nShe tips her hat brim down with the barrel tip and turns away; the clip cuts mid-turn.",
+  "promptSource": "作者评论",
+  "likes": 514,
+  "postedAt": "2026-10-24",
+  "orientation": "landscape",
+  "duration": 32.2,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2114007429146964169.mp4",
+  "tags": {
+   "画风": [
+    "日系动漫",
+    "游戏CG"
+   ],
+   "地域氛围": [
+    "其他地域"
+   ],
+   "题材": [
+    "武侠打斗",
+    "奇幻神话"
+   ],
+   "情绪": [
+    "热血燃",
+    "紧张刺激"
+   ],
+   "镜头技法": [
+    "慢动作",
+    "时间冻结倒放",
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "预告片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2114007429146964169.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2114007429146964169.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2114007429146964169.jpg",
+  "tags_en": {
+   "style": [
+    "anime",
+    "game-cg"
+   ],
+   "region": [
+    "other-region"
+   ],
+   "genre": [
+    "martial-arts-action",
+    "fantasy-myth"
+   ],
+   "mood": [
+    "hype",
+    "tense"
+   ],
+   "technique": [
+    "slow-motion",
+    "time-freeze-reverse",
+    "multi-shot"
+   ],
+   "use": [
+    "trailer"
+   ]
+  }
+ },
+ {
+  "id": "x-2117249822554276133",
+  "title": "仅限女士",
+  "title_en": "Ladies Only",
+  "desc": "纸人电影风格的办公室里，男同事为女同事帮忙，另一位男同事被晾在一旁，轻喜剧。",
+  "desc_en": "A flat paper-cutout style office comedy where a man helps a female coworker while another colleague is left out.",
+  "creator": "ToaiDanh",
+  "handle": "@NVTDanh",
+  "platform": "X",
+  "url": "https://x.com/NVTDanh/status/2117249822554276133",
+  "model": "Seedance 2.5",
+  "likes": 481,
+  "postedAt": "2026-11-02",
+  "orientation": "landscape",
+  "duration": 54.4,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2117249822554276133.mp4",
+  "tags": {
+   "画风": [
+    "3D卡通"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "喜剧搞笑",
+    "日常生活"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "梗段子"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2117249822554276133.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2117249822554276133.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2117249822554276133.jpg",
+  "tags_en": {
+   "style": [
+    "3d-cartoon"
+   ],
+   "region": [
+    "american"
+   ],
+   "genre": [
+    "comedy",
+    "daily-life"
+   ],
+   "mood": [
+    "lighthearted"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "meme-sketch"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2117210828428497014",
+  "title": "青い村",
+  "title_en": "Blue Village",
+  "desc": "靛蓝与橙红的雾中村落，水面倒影破碎成笔触，近乎印象派油画。",
+  "desc_en": "An indigo and orange misty village with brushy broken reflections on water, close to an impressionist oil painting.",
+  "creator": "LeikoTar",
+  "handle": "@LeikoTar",
+  "platform": "X",
+  "url": "https://x.com/LeikoTar/status/2117210828428497014",
+  "likes": 451,
+  "postedAt": "2026-11-02",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "旅行城市",
+    "自然风光"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2117210828428497014.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2117210828428497014.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2117210828428497014.jpg",
+  "tags_en": {
+   "style": [
+    "watercolor-storybook"
+   ],
+   "region": [
+    "european"
+   ],
+   "genre": [
+    "travel-city",
+    "nature"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "x-2116996433047880080",
+  "title": "Du hast 摩城版",
+  "title_en": "Du Hast Motown Version",
+  "desc": "1967 年录音棚里卷发歌手对着老式话筒唱歌，镜头在特写与中景间切换，带着旧唱片封套的字幕条。",
+  "desc_en": "A curly-haired singer performs in a 1967 recording studio, cutting between close-up and medium shots with vintage record sleeve captions.",
+  "creator": "TechHalla",
+  "handle": "@techhalla",
+  "platform": "X",
+  "url": "https://x.com/techhalla/status/2116996433047880080",
+  "model": "Seedance 2.5",
+  "likes": 445,
+  "postedAt": "2026-11-01",
+  "orientation": "landscape",
+  "duration": 30.9,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2116996433047880080.mp4",
+  "tags": {
+   "画风": [
+    "胶片复古",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "美式"
+   ],
+   "题材": [
+    "音乐舞蹈"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ],
+   "镜头技法": [
+    "多镜头剪辑",
+    "对白口型"
+   ],
+   "用途": [
+    "MV"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2116996433047880080.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2116996433047880080.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2116996433047880080.jpg",
+  "tags_en": {
+   "style": [
+    "film-retro",
+    "cinematic-realism"
+   ],
+   "region": [
+    "american"
+   ],
+   "genre": [
+    "music-dance"
+   ],
+   "mood": [
+    "romantic"
+   ],
+   "technique": [
+    "multi-shot",
+    "dialogue-lipsync"
+   ],
+   "use": [
+    "music-video"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2112879638909518255",
+  "title": "日本网点",
+  "title_en": "Japanese Halftone",
+  "desc": "红日鸟居、富士山、雨夜斑马线被打成半色调网点与色散，像丝网印刷加胶片光晕。",
+  "desc_en": "Torii gate, red sun and night crossings turned into halftone dots with chromatic aberration, like screen print with film glow.",
+  "creator": "Gizem Akdag",
+  "handle": "@gizakdag",
+  "platform": "X",
+  "url": "https://x.com/gizakdag/status/2112879638909518255",
+  "likes": 385,
+  "postedAt": "2026-10-21",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "旅行城市"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2112879638909518255.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2112879638909518255.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2112879638909518255.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2112879638909518255_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2112879638909518255_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2112879638909518255_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "film-retro"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "travel-city"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2105183864079667226",
+  "title": "山水长卷",
+  "title_en": "Long Scroll of Landscape",
+  "desc": "竖长画幅里的楼阁、拱桥、垂柳和远山，青绿与暖粉交织，像现代版的中国山水条屏。",
+  "desc_en": "A tall vertical scroll of a Chinese city gate and pagodas under a pink sun, in teal and warm pink.",
+  "creator": "Glitter Gal",
+  "handle": "@GlitterPixely",
+  "platform": "X",
+  "url": "https://x.com/GlitterPixely/status/2105183864079667226",
+  "model": "Midjourney",
+  "prompt": "Midjourney --sref 2238570187::4 3571208578::4 793053321::4 1291869462::2 2233708244::4 2556188940::2 2081531501",
+  "promptSource": "正文",
+  "likes": 373,
+  "postedAt": "2026-09-30",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "国风水墨",
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "中式"
+   ],
+   "题材": [
+    "旅行城市",
+    "历史年代"
+   ],
+   "情绪": [
+    "史诗壮阔",
+    "温暖治愈"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2105183864079667226.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2105183864079667226.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2105183864079667226.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2105183864079667226_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2105183864079667226_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2105183864079667226_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "chinese-ink",
+    "watercolor-storybook"
+   ],
+   "region": [
+    "chinese"
+   ],
+   "genre": [
+    "travel-city",
+    "historical"
+   ],
+   "mood": [
+    "epic",
+    "heartwarming"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2117225217462247431",
+  "title": "蓝光祠堂",
+  "title_en": "Blue Shrine",
+  "desc": "黑发女子端坐在满壁红色符文的蓝色幽暗小室中，像一幅被诅咒的浮世绘。",
+  "desc_en": "A black-haired woman sits in a dark blue room covered with red runes, like a cursed ukiyo-e.",
+  "creator": "eraser",
+  "handle": "@eraser_creater",
+  "platform": "X",
+  "url": "https://x.com/eraser_creater/status/2117225217462247431",
+  "likes": 370,
+  "postedAt": "2026-11-02",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "恐怖"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2117225217462247431.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2117225217462247431.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2117225217462247431.jpg",
+  "tags_en": {
+   "style": [
+    "surreal-dream"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "horror"
+   ],
+   "mood": [
+    "eerie"
+   ]
+  }
+ },
+ {
+  "id": "x-2116131015664230772",
+  "title": "商场里的变身",
+  "title_en": "Transformation in the Mall",
+  "desc": "巨角怪物在商场喷火，骑手驾机车冲破天窗，空中机车拆解成鬼面铠甲，双刀雷电斩怪。",
+  "desc_en": "A horned monster breathes fire in a shopping mall as a rider crashes through the skylight on a motorbike that turns into demon armor. The rider then slays the monster with dual blades.",
+  "creator": "とすくん",
+  "handle": "@tokyo_Valentine",
+  "platform": "X",
+  "url": "https://x.com/tokyo_Valentine/status/2116131015664230772",
+  "model": "Seedance 2.5",
+  "prompt": "Seedance 2.5 Prompt\nCreate a 30-second, 16:9, photorealistic cinematic action sequence.\n\nSTYLE\nA powerful theatrical action film with explosive acceleration, heavy physical impacts, intricate mechanical transformation, and large-scale environmental destruction. Combine live-action realism with the extreme speed and impact of an anime battle. Real materials, convincing weight, sharp character silhouettes, dynamic daylight, orange firelight, and red-white lightning.\n\nREFERENCE ASSIGNMENT\nReference Image 1: The completed armored warrior. Preserve the exact black, red, and ivory oni armor, horned helmet, demonic chest design, cables, proportions, and red Japanese katana designs. Approximately 3 meters tall. Use two reference-matching katanas charged with red-white electricity.\n\nReference Image 2: The enemy monster. Preserve its enormous curved black horns, long white hair, pale textured exterior, red chest marking, dark metal ornaments, and hoof-like feet. Approximately 3.2 meters tall throughout. Its organic-looking exterior covers a fully mechanical interior: armor, actuators, cables, and an internal power core. Damage reveals machinery, never flesh. It attacks with mouth-generated fire and extending mechanical claws. Do not use the scythe shown on its reference sheet.\n\nReference Image 3: The human rider before transformation. Preserve his face, dark skin, round sunglasses, black knit cap, short braids, black leather jacket, loose black trousers, and boots. Approximately 1.85 meters tall.\n\nReference Image 4: The motorcycle. Preserve its black, red, and ivory biomechanical design, oni front fairing, horns, thick tires, engine, and mounted katana components.\n\nIDENTITY AND TRANSFORMATION CONTINUITY\nThere is one rider, one motorcycle, and one enemy.\nThe rider becomes the armored warrior by wearing the transformed motorcycle.\nThe human body does not grow. The motorcycle unfolds into a larger powered exoskeleton around him.\nAt the end of the transformation, the exterior matches Reference Image 1.\nNo separate rider, spare motorcycle, duplicate warrior, or leftover human body remains.\n\nSETTING\nDaytime inside a huge American shopping mall with a tall glass-roofed atrium, several retail levels, escalators, glass railings, furniture displays, and electronics storefronts.\n\nThe opening is packed with families and shoppers. As the attack begins, crowds flee into side corridors and exits, clearing the central combat area. Keep evacuation visible in the background and in the designated one-second inserts.\n\nOutside, a multilevel highway interchange connects to the mall's elevated parking approach. Establish a clear route from the highway to the rooftop jump.\n\nPreserve the mall's geography, accumulated fire, smoke, debris, and battle damage throughout.\n\nCAMERA AND ACTION RULES\nEvery second introduces a clear action beat and purposeful camera movement.\nUse low tracking shots, lateral pursuit, controlled whip pans, short push-ins, overhead views, and brief speed ramps.\nShow the contact that causes each impact before showing the resulting destruction.\nKeep the combatants readable during acceleration. Use background motion blur without turning the characters into indistinct streaks.\nKeep the 9–12 second transformation visually continuous; do not conceal it with cuts, smoke, or a white flash.\nMaintain clear screen direction and believable travel between levels.\n\nSECOND-BY-SECOND SEQUENCE\n\n00–01:\nBlack fog violently erupts between benches in the crowded central atrium. The horned monster from Image 2 steps out at its full, fixed size, scattering shopping bags with the pressure wave. A fast low-angle push reveals its horns and face through the fog.\n\n01–02:\nOne-second human reaction shot. Shoppers scream and turn to flee; parents pull their children toward a side corridor. An eye-level camera retreats with the crowd while the monster remains visible behind them.\n\n02–03:\nThe monster throws its head forward with a mechanical roar. Its mouth ignites and releases a powerful stream of orange fire toward an adjacent home-furnishing storefront. Track from its jaws along the visible fire stream.\n\n03–04:\nThe same fire sweep crosses sofas, shelving, and a neighboring electronics display. Upholstery ignites, television screens burst, and appliances topple under the blast. A fast lateral tracking shot follows the destruction from its source.\n\n04–05:\nA wide, elevated shot reveals spreading storefront fires and large streams of families evacuating through peripheral corridors. Smoke rises toward the skylight while daylight still illuminates the atrium. The central floor begins to clear.\n\n05–06:\nCut to the motorcycle from Image 4 already racing at extreme speed along a multilevel highway. A camera inches above the rear tire tracks its acceleration as overpasses sweep overhead and the smoking mall appears ahead.\n\n06–07:\nA close side-tracking shot clearly identifies the rider from Image 3. His sunglasses reflect the burning mall. He leans into the elevated exit leading onto the mall's parking approach, with wind pulling at his jacket.\n\n07–08:\nThe motorcycle accelerates up a rising service ramp at the edge of the adjoining parking deck and launches toward the mall's glass roof. A wide side view clearly shows the ramp, airborne bike, gap, and skylight.\n\n08–09:\nThe front wheel smashes through the skylight. Glass bursts inward as rider and motorcycle descend into the burning atrium. The camera follows through the opening, revealing the monster below and the now-cleared landing area.\n\n09–10:\nBegin a continuous airborne transformation shot. The motorcycle frame splits along precise mechanical seams. Powered leg structures unfold beneath and around the rider's legs; foot supports lock under his boots. His body remains intact and visibly centered inside the expanding exoskeleton.\n\n10–11:\nWithout cutting, the camera moves into a close three-quarter tracking view. The oni front fairing folds into the chest armor. Engine and chassis components lock around the torso and spine. Wheel hubs compact into the circular shoulder mechanisms; remaining tire sections retract inside the armor. Forearm plates close around his arms.\n\n11–12:\nThe same camera rises toward the rider's face. Helmet sections fold around his cap and glasses, then the horned oni faceplate snaps shut last. All remaining components lock into the exact silhouette of Image 1. Katana hilts settle at his hips. Use one brief speed ramp to emphasize the final mechanical lock.\n\n12–13:\nThe fully armored warrior lands heavily on the cleared atrium floor, cracking tiles beneath both feet. He immediately draws both red katanas, igniting red-white electrical arcs. A low camera tracks across his landing into the approaching monster.\n\n13–14:\nThe monster lunges and extends its claws toward the warrior's head. The warrior catches the claws between crossed katanas. Show the actual metal-on-metal contact, sparks, and compressed force in a close lateral shot.\n\n14–15:\nThe warrior redirects the trapped claw and drives a lightning-charged slash across the monster's armored torso. The impact throws the monster backward through the glass frontage of the damaged electronics store. Whip-pan with its trajectory and reveal the collision.\n\n15–16:\nFrom inside the wrecked storefront, the monster fires a continuous horizontal flame jet. The warrior accelerates sideways along the concourse as the flame strikes the tiles and displays immediately behind him. Use fast lateral pursuit with strong foreground parallax.\n\n16–17:\nThe monster bursts through its own smoke and extends a clawed arm into the warrior's path. A heavy claw strike catches the warrior's armor and launches him across the atrium toward a decorative column and an empty kiosk. Track the hit and its direction in one readable shot.\n\n17–18:\nThe warrior crashes through the decorative column's cladding and the empty kiosk. Panels, counter fragments, and tiles burst outward. His armor remains recognizable with accumulating scratches. A low camera follows his sliding body through the wreckage.\n\n18–19:\nHis armored feet bite into the floor, carving two trenches as he brakes. He plants one foot against the broken kiosk base and launches back toward the monster with both blades trailing narrow electrical arcs. The camera tracks beside his acceleration.\n\n19–20:\nExactly one second of fleeing civilians. A family rushes through a side exit with other shoppers while red-white battle flashes illuminate the corridor behind them. A short handheld tracking shot conveys urgency; nobody is struck or visibly injured.\n\n20–21:\nReturn to the same attack trajectory. The warrior slips inside the monster's extended claws and slices through the projecting metal talons. Show severed mechanical claw tips spinning away with sparks and cables, without blood. A tight side view keeps the cut readable.\n\n21–22:\nContinuing the combination, the warrior delivers a rising cross-slash that launches the monster onto the upper escalator landing. The monster crashes through the landing's glass railing. The camera tilts upward with its movement, establishing the new elevation.\n\n22–23:\nThe monster digs its remaining claws into the upper landing to halt its slide, then unleashes a massive cone of fire downward toward the warrior. An over-the-shoulder view from behind the monster shows the hero below and the fire's trajectory.\n\n23–24:\nThe warrior accelerates up the wall beside the escalator, staying just outside the flame cone. The fire tears through an empty connecting walkway behind him. A vertical tracking shot follows his wall run toward the monster's level.\n\n24–25:\nHe kicks off the wall and crosses both electrified katanas in front of him. Their electrical field opens a brief channel through the fire as he bursts forward. A frontal tracking camera retreats ahead of his sharply visible armored silhouette.\n\n25–26:\nThe warrior reaches the monster and delivers an X-shaped strike across the red chest marking. Pale exterior plates crack open, exposing mechanical ribs and the glowing power assembly beneath. A close three-quarter shot shows both blades making contact.\n\n26–27:\nHe drives the katana tips into the exposed mechanical chest assembly and discharges an intense surge of red-white electricity. Arcs spread through the monster's joints, horns, and metal ornaments. Its internal machinery overloads visibly.\n\n27–28:\nThe warrior withdraws both swords and delivers a powerful kick that sends the electrically overloaded monster off the upper landing into the evacuated center of the atrium. A wide shot clearly shows the separation and the monster's downward path.\n\n28–29:\nThe monster strikes the central floor. Its overloaded core detonates in a huge electrical explosion, followed by a heavy orange fireball and a circular dust wave. The monster breaks into unmistakable mechanical scrap: armor plates, bent frames, cables, gears, and sparking components. No flesh or blood.\n\n29–30:\nFinish on a low three-quarter shot of the warrior holding position on the upper landing, both katanas lowered but still crackling. Behind him, the explosion subsides through the atrium and metal debris falls to the floor. The enemy is destroyed and does not reappear. End on the warrior's recognizable silhouette without a fade.\n\nAUDIO\nOriginal instrumental industrial-electronic action music with heavy drums, distorted bass, and escalating tension.\nBuild the music during the highway approach.\nSynchronize metallic percussion with the airborne armor assembly.\nDeliver a strong musical impact at the completed suit landing.\nDrive the combat with forceful rhythmic momentum, then briefly thin the music before the final explosion.\n\nLayer clear environmental and action sounds:\nCrowd panic and nonverbal screams, mall reverberation, fire alarms, roaring flames, motorcycle acceleration, wind, breaking skylight glass, mechanical servos, armor locks, electrical crackle, katana impacts, extending claws, collapsing displays, concrete impacts, and the final explosion.\n\nKeep critical transformation and impact sounds audible above the music.\nNo spoken dialogue, narration, or song lyrics.\n\nEXCLUSIONS\nNo subtitles, captions, speech bubbles, title cards, reference-sheet labels, diagrams, or added graphic logos.\nNo blood, gore, organic dismemberment, or injured civilians.\nNo character duplication, identity swapping, random size changes, or regeneration of destroyed scenery.\nNo independent robot appearing beside the rider.\nNo motorcycle remaining after the transformation.\nNo liquid-metal morphing, magical body growth, or unexplained armor appearing from nowhere.\nNo black-fog teleportation during combat; the fog is used only for the monster's initial arrival.\nNo prolonged slow motion, repeated posing, unreadable camera spinning, or effects that hide decisive actions.",
+  "promptSource": "作者评论",
+  "likes": 339,
+  "postedAt": "2026-10-30",
+  "orientation": "landscape",
+  "duration": 30.0,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2116131015664230772.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "武侠打斗",
+    "奇幻神话"
+   ],
+   "情绪": [
+    "热血燃",
+    "紧张刺激"
+   ],
+   "镜头技法": [
+    "变身转场",
+    "一镜到底",
+    "慢动作"
+   ],
+   "用途": [
+    "预告片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2116131015664230772.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2116131015664230772.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2116131015664230772.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "martial-arts-action",
+    "fantasy-myth"
+   ],
+   "mood": [
+    "hype",
+    "tense"
+   ],
+   "technique": [
+    "transformation-transition",
+    "one-take",
+    "slow-motion"
+   ],
+   "use": [
+    "trailer"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2117309266352619852",
+  "title": "风中奔跑",
+  "title_en": "Running in Wind",
+  "desc": "蓝天下模糊的奔跑人影、飘浮的身体、竖起的雾柱，用动态模糊拍出胶片感的抽象摄影。",
+  "desc_en": "Abstract film-like photography using motion blur: blurred runners and misty columns under a blue sky.",
+  "creator": "Ege",
+  "handle": "@egeberkina",
+  "platform": "X",
+  "url": "https://x.com/egeberkina/status/2117309266352619852",
+  "likes": 330,
+  "postedAt": "2026-11-02",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "胶片复古"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2117309266352619852.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2117309266352619852.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2117309266352619852.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117309266352619852_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117309266352619852_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117309266352619852_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "film-retro"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "nature"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2109532991605362983",
+  "title": "白蛇",
+  "title_en": "White Serpent",
+  "desc": "白发少女与盘绕的巨大白蛇，身后是金色圆月和暗色花卉，日式浮世绘与插画的融合。",
+  "desc_en": "A white-haired girl encircled by a giant white snake before a gold moon and dark flowers, blending ukiyo-e and illustration.",
+  "creator": "Kaski_Anna@",
+  "handle": "@G_Eskeles",
+  "platform": "X",
+  "url": "https://x.com/G_Eskeles/status/2109532991605362983",
+  "model": "Midjourney V8.2",
+  "likes": 329,
+  "postedAt": "2026-10-12",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "日系动漫",
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "诡异不安",
+    "浪漫心动"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2109532991605362983.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2109532991605362983.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2109532991605362983.jpg",
+  "tags_en": {
+   "style": [
+    "anime",
+    "watercolor-storybook"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "fantasy-myth"
+   ],
+   "mood": [
+    "eerie",
+    "romantic"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2115881260778205572",
+  "title": "不是来讨好你的",
+  "title_en": "Not Here to Charm",
+  "desc": "鳄鱼泳圈怪、红眼狼人、粉毛怪和喝茶的骷髅，暗调油画质感的怪物肖像组。",
+  "desc_en": "A dark painterly monster portrait of a green swamp creature in a shower cap and pink float ring holding a toothbrush.",
+  "creator": "AlexandrIA",
+  "handle": "@AleRVG",
+  "platform": "X",
+  "url": "https://x.com/AleRVG/status/2115881260778205572",
+  "model": "Midjourney",
+  "prompt": "NOT HERE TO CHARM\nAdjust expectations accordingly.\n\n--sref 732940320 3410825194::0.5 1315150883",
+  "promptSource": "正文",
+  "likes": 306,
+  "postedAt": "2026-10-29",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本",
+    "3D卡通"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "诡异不安",
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "角色一致性"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2115881260778205572.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2115881260778205572.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2115881260778205572.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115881260778205572_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115881260778205572_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115881260778205572_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "watercolor-storybook",
+    "3d-cartoon"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "fantasy-myth"
+   ],
+   "mood": [
+    "eerie",
+    "lighthearted"
+   ],
+   "technique": [
+    "character-consistency"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2117358521310433327",
+  "title": "沙丘幻象",
+  "title_en": "Dune Vision",
+  "desc": "深蓝夜色里人脸被切成数码条纹与光点，面孔与黑豹、发光骏马交织，是一组科幻意象肖像。",
+  "desc_en": "Faces sliced into digital stripes and light dots on deep blue black, interwoven with a panther and glowing horse.",
+  "creator": "Ege",
+  "handle": "@egeberkina",
+  "platform": "X",
+  "url": "https://x.com/egeberkina/status/2117358521310433327",
+  "likes": 293,
+  "postedAt": "2026-11-02",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "赛博霓虹"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2117358521310433327.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2117358521310433327.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2117358521310433327.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117358521310433327_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117358521310433327_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117358521310433327_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "cyberpunk-neon"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "sci-fi"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2113985139856523441",
+  "title": "夏日山居",
+  "title_en": "Summer Valley Home",
+  "desc": "蓝绿色的山谷、白房子、瀑布与荷田，像宫崎骏式背景美术的竖幅四连。",
+  "desc_en": "Four vertical Ghibli-style background paintings of a green valley, white house, waterfall and lotus field.",
+  "creator": "Glitter Gal",
+  "handle": "@GlitterPixely",
+  "platform": "X",
+  "url": "https://x.com/GlitterPixely/status/2113985139856523441",
+  "model": "Midjourney",
+  "prompt": "--sref 3929452038",
+  "promptSource": "正文",
+  "likes": 274,
+  "postedAt": "2026-10-24",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ],
+   "镜头技法": [
+    "宫格分镜"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2113985139856523441.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2113985139856523441.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2113985139856523441.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2113985139856523441_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2113985139856523441_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2113985139856523441_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "anime"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "nature"
+   ],
+   "mood": [
+    "heartwarming"
+   ],
+   "technique": [
+    "storyboard-grid"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2115819290612162786",
+  "title": "空中金鱼",
+  "title_en": "Goldfish in the Air",
+  "desc": "短发女孩身着红白花朵连衣裙，几尾红金鱼在米白棚拍背景中游弋于她身边。日式杂志时装片的克制配色。",
+  "desc_en": "A short-haired girl in a red-and-white floral dress reaches toward a red goldfish against a cream studio backdrop.",
+  "creator": "HPJJ",
+  "handle": "@HPJJ_u_l_5",
+  "platform": "X",
+  "url": "https://x.com/HPJJ_u_l_5/status/2115819290612162786",
+  "model": "GPT Image (ChatGPT)",
+  "likes": 265,
+  "postedAt": "2026-10-29",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "广告大片",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "轻松欢快",
+    "浪漫心动"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2115819290612162786.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2115819290612162786.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2115819290612162786.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115819290612162786_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115819290612162786_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115819290612162786_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "commercial",
+    "cinematic-realism"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "fashion-beauty"
+   ],
+   "mood": [
+    "lighthearted",
+    "romantic"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2102156757632197090",
+  "title": "片假名海报",
+  "title_en": "Katakana Poster",
+  "desc": "黑白半调人像与巨大的片假名字块交错，红色点缀，像日本独立电影的丝网海报。",
+  "desc_en": "A halftone black-and-white portrait overlaid with huge katakana blocks and red accents, like an indie film screen print.",
+  "creator": "Knightama",
+  "handle": "@knightama",
+  "platform": "X",
+  "url": "https://x.com/knightama/status/2102156757632197090",
+  "model": "Midjourney",
+  "prompt": "--sref 2904005002 #midjourney",
+  "promptSource": "正文",
+  "likes": 246,
+  "postedAt": "2026-09-21",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "黑白影像",
+    "广告大片"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "时尚美妆",
+    "音乐舞蹈"
+   ],
+   "情绪": [
+    "孤独忧郁",
+    "热血燃"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2102156757632197090.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2102156757632197090.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2102156757632197090.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2102156757632197090_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2102156757632197090_3.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "black-and-white",
+    "commercial"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "fashion-beauty",
+    "music-dance"
+   ],
+   "mood": [
+    "melancholy",
+    "hype"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2117343468720681039",
+  "title": "林中的光之殿",
+  "title_en": "Hall of Light",
+  "desc": "黑森林深处，一座拱窗透出金光的建筑倒映在湖面，岸边是红白色花丛。",
+  "desc_en": "A golden-lit arched building in a dark forest reflects in a lake, with red and white flowers on the bank, storybook style.",
+  "creator": "unseen",
+  "handle": "@unseenai",
+  "platform": "X",
+  "url": "https://x.com/unseenai/status/2117343468720681039",
+  "likes": 242,
+  "postedAt": "2026-11-02",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "奇幻神话",
+    "自然风光"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2117343468720681039.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2117343468720681039.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2117343468720681039.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117343468720681039_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117343468720681039_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117343468720681039_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "watercolor-storybook"
+   ],
+   "region": [
+    "european"
+   ],
+   "genre": [
+    "fantasy-myth",
+    "nature"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2107001545271230796",
+  "title": "浪人猫武士",
+  "title_en": "Ronin Cat Samurai",
+  "desc": "戴眼睛帽兜的猫武士、披斗篷的剑客悬浮在浅色天空下，日式水墨与赛璐璐的混合角色设定。",
+  "desc_en": "A character design of a cat samurai in a patterned hood and cloak leaping with a sword against a pale sky.",
+  "creator": "Kōda",
+  "handle": "@aimikoda",
+  "platform": "X",
+  "url": "https://x.com/aimikoda/status/2107001545271230796",
+  "model": "Midjourney v8.2",
+  "prompt": "Midjourney v8.2\n\n--sref 3917331899 --profile kxxcnp9 --stylize 1000",
+  "promptSource": "正文",
+  "likes": 219,
+  "postedAt": "2026-10-05",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "日系动漫",
+    "国风水墨"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "武侠打斗",
+    "奇幻神话"
+   ],
+   "情绪": [
+    "热血燃"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2107001545271230796.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2107001545271230796.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2107001545271230796.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2107001545271230796_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2107001545271230796_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2107001545271230796_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "anime",
+    "chinese-ink"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "martial-arts-action",
+    "fantasy-myth"
+   ],
+   "mood": [
+    "hype"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2103207349272055944",
+  "title": "仪式",
+  "title_en": "Ritual in Wax Crayon",
+  "desc": "戴尖角面具的人群、拿蜡烛的队列和带耳环的头像，用彩铅蜡笔质感画成民俗仪式的组画。",
+  "desc_en": "Masked figures with pointed headgear drawn in colored pencil and crayon texture, evoking a folk ritual.",
+  "creator": "Ege",
+  "handle": "@egeberkina",
+  "platform": "X",
+  "url": "https://x.com/egeberkina/status/2103207349272055944",
+  "model": "Midjourney",
+  "prompt": "--sref 3116501808",
+  "promptSource": "正文",
+  "likes": 200,
+  "postedAt": "2026-09-24",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "诡异不安"
+   ],
+   "镜头技法": [
+    "角色一致性"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2103207349272055944.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2103207349272055944.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2103207349272055944.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2103207349272055944_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2103207349272055944_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2103207349272055944_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "watercolor-storybook",
+    "surreal-dream"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "fantasy-myth"
+   ],
+   "mood": [
+    "eerie"
+   ],
+   "technique": [
+    "character-consistency"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2115043395676856768",
+  "title": "涂鸦乐手",
+  "title_en": "Doodle Musicians",
+  "desc": "弹吉他的奶牛、红色骷髅鼓手、星星旗手，用粗犷线条和红绿撞色画成的街头涂鸦组。",
+  "desc_en": "A cow guitarist in a sombrero drawn with rough crayon lines and bold red-green accents, from a street-doodle series.",
+  "creator": "Olga Volosin",
+  "handle": "@OVolosin82152",
+  "platform": "X",
+  "url": "https://x.com/OVolosin82152/status/2115043395676856768",
+  "model": "Midjourney",
+  "prompt": "--sref 2162728097",
+  "promptSource": "正文",
+  "likes": 200,
+  "postedAt": "2026-10-27",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本",
+    "3D卡通"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "音乐舞蹈",
+    "喜剧搞笑"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2115043395676856768.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2115043395676856768.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2115043395676856768.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115043395676856768_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115043395676856768_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115043395676856768_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "watercolor-storybook",
+    "3d-cartoon"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "music-dance",
+    "comedy"
+   ],
+   "mood": [
+    "lighthearted"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2115128273537810814",
+  "title": "液态铬的身体",
+  "title_en": "Liquid Chrome Body",
+  "desc": "模特的头发、手臂和衣服像液态金属一样被漩涡扭曲甩开，白底上的时尚大片。",
+  "desc_en": "A fashion shot of a model's leg dissolving into swirling liquid chrome against a white backdrop.",
+  "creator": "Sycomore",
+  "handle": "@The_Sycomore",
+  "platform": "X",
+  "url": "https://x.com/The_Sycomore/status/2115128273537810814",
+  "model": "Midjourney v8.2",
+  "likes": 199,
+  "postedAt": "2026-10-27",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "广告大片",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "紧张刺激"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2115128273537810814.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2115128273537810814.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2115128273537810814.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115128273537810814_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115128273537810814_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115128273537810814_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "commercial",
+    "surreal-dream"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "fashion-beauty"
+   ],
+   "mood": [
+    "tense"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2117509235823300921",
+  "title": "魔女茶杯",
+  "title_en": "Witch Teacup",
+  "desc": "戴巫师帽的少女捧着青花瓷杯，杯中蹲着兔子与小熊，帽檐被拼贴式色块与网点填满。",
+  "desc_en": "A girl in a wizard hat holds a blue-and-white teacup with a rabbit and bear inside; the hat brim is filled with collage patches.",
+  "creator": "Kaski_Anna@",
+  "handle": "@G_Eskeles",
+  "platform": "X",
+  "url": "https://x.com/G_Eskeles/status/2117509235823300921",
+  "model": "Midjourney V8.2",
+  "likes": 198,
+  "postedAt": "2026-11-03",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2117509235823300921.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2117509235823300921.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2117509235823300921.jpg",
+  "tags_en": {
+   "style": [
+    "anime"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "fantasy-myth"
+   ],
+   "mood": [
+    "heartwarming"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2106629222194417790",
+  "title": "白色巨型机甲",
+  "title_en": "White Giant Mecha",
+  "desc": "由管线、零件和屏幕眼组成的白色巨型机械，立在晴空下，线稿与淡彩交织。",
+  "desc_en": "A tall white mechanical giant of pipes and screen eyes under a clear sky, with a small girl sitting on it using a laptop, in linework with pale color.",
+  "creator": "keshi",
+  "handle": "@keshiAIart",
+  "platform": "X",
+  "url": "https://x.com/keshiAIart/status/2106629222194417790",
+  "model": "Midjourney v8.2",
+  "likes": 192,
+  "postedAt": "2026-10-04",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "日系动漫",
+    "游戏CG"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "孤独忧郁",
+    "史诗壮阔"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2106629222194417790.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2106629222194417790.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2106629222194417790.jpg",
+  "tags_en": {
+   "style": [
+    "anime",
+    "game-cg"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "sci-fi"
+   ],
+   "mood": [
+    "melancholy",
+    "epic"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2113777524815937553",
+  "title": "暮色尽头的塔",
+  "title_en": "Tower at Dusk",
+  "desc": "一辆车拖着尾灯驶向雾中的巨塔，落日悬在地平线，整幅画是低饱和的黄昏胶片色。",
+  "desc_en": "A car with tail lights drives toward a giant tower in fog at sunset, in low-saturation film colors.",
+  "creator": "Tatiana Tsiguleva",
+  "handle": "@ciguleva",
+  "platform": "X",
+  "url": "https://x.com/ciguleva/status/2113777524815937553",
+  "likes": 185,
+  "postedAt": "2026-10-23",
+  "orientation": "landscape",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻",
+    "汽车"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2113777524815937553.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2113777524815937553.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2113777524815937553.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "sci-fi",
+    "automotive"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2108680655106158806",
+  "title": "寿司师傅的色块",
+  "title_en": "Sushi Master in Color Blocks",
+  "desc": "戴眼镜的老寿司师傅、清酒瓶和一排寿司被拆成粗砺的矩形色块，像丝网印刷海报。",
+  "desc_en": "A bearded sushi chef with glasses rendered as rough rectangular color blocks, like a screen-printed poster.",
+  "creator": "Sgt Sref",
+  "handle": "@sergeantsref",
+  "platform": "X",
+  "url": "https://x.com/sergeantsref/status/2108680655106158806",
+  "model": "Midjourney",
+  "prompt": "--sref 1760514626",
+  "promptSource": "正文",
+  "likes": 172,
+  "postedAt": "2026-10-09",
+  "orientation": "landscape",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本",
+    "广告大片"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "美食",
+    "日常生活"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2108680655106158806.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2108680655106158806.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2108680655106158806.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2108680655106158806_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2108680655106158806_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2108680655106158806_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "watercolor-storybook",
+    "commercial"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "food",
+    "daily-life"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2116537795405595058",
+  "title": "巨石019",
+  "title_en": "Monolith 019",
+  "desc": "红色荒原上的孤身行人，面对一面直插云霄的混凝土巨墙，远处是一汪湖。",
+  "desc_en": "A lone walker on red wasteland faces a towering concrete wall that rises into the clouds, with a lake behind.",
+  "creator": "Ahmed",
+  "handle": "@gridzzle",
+  "platform": "X",
+  "url": "https://x.com/gridzzle/status/2116537795405595058",
+  "likes": 171,
+  "postedAt": "2026-10-31",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2116537795405595058.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2116537795405595058.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2116537795405595058.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116537795405595058_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116537795405595058_3.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "surreal-dream"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "sci-fi"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2117105970191208743",
+  "title": "月亮布景",
+  "title_en": "Moon Stage",
+  "desc": "紫、藕粉与靛蓝的舞台：布艺月亮、纸质房屋与星星，人物在手工布景里摆出童话姿态。",
+  "desc_en": "A girl poses in a handmade fairy-tale set of fabric moon, paper houses and stars in purple and pink.",
+  "creator": "HPJJ",
+  "handle": "@HPJJ_u_l_5",
+  "platform": "X",
+  "url": "https://x.com/HPJJ_u_l_5/status/2117105970191208743",
+  "model": "GPT Image (ChatGPT)",
+  "likes": 169,
+  "postedAt": "2026-11-02",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2117105970191208743.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2117105970191208743.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2117105970191208743.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117105970191208743_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117105970191208743_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117105970191208743_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "watercolor-storybook"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "fantasy-myth"
+   ],
+   "mood": [
+    "heartwarming"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2101583213739298867",
+  "title": "鱼眼草地",
+  "title_en": "Fisheye Meadow",
+  "desc": "鱼眼视角下的雏菊草地、环形树林和蓝天白云，小小人影坐在中央。",
+  "desc_en": "A fisheye view of a daisy meadow with a girl and a cat, ringed by trees and a blue sky, like an anime key frame.",
+  "creator": "keshi",
+  "handle": "@keshiAIart",
+  "platform": "X",
+  "url": "https://x.com/keshiAIart/status/2101583213739298867",
+  "model": "Midjourney v8.2",
+  "likes": 163,
+  "postedAt": "2026-09-20",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "日系动漫"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "自然风光",
+    "日常生活"
+   ],
+   "情绪": [
+    "温暖治愈",
+    "轻松欢快"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2101583213739298867.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2101583213739298867.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2101583213739298867.jpg",
+  "tags_en": {
+   "style": [
+    "anime"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "nature",
+    "daily-life"
+   ],
+   "mood": [
+    "heartwarming",
+    "lighthearted"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2111832631201698213",
+  "title": "光的弧线",
+  "title_en": "Arc of Light",
+  "desc": "黑色空间里一束蓝白光点向四周展开成弧形光带，像长曝光下的宇宙或粒子轨迹。",
+  "desc_en": "Blue-white points of light spreading into curved bands in a black space, like a long-exposure photo.",
+  "creator": "Tatiana Tsiguleva",
+  "handle": "@ciguleva",
+  "platform": "X",
+  "url": "https://x.com/ciguleva/status/2111832631201698213",
+  "model": "Midjourney",
+  "likes": 162,
+  "postedAt": "2026-10-18",
+  "orientation": "landscape",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "黑白影像",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2111832631201698213.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2111832631201698213.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2111832631201698213.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2111832631201698213_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2111832631201698213_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2111832631201698213_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "black-and-white",
+    "surreal-dream"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "sci-fi"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2117005882483466472",
+  "title": "秋日万象图",
+  "title_en": "Autumn Panorama",
+  "desc": "高楼、港口、市集被画成密密麻麻的红蓝微缩世界，像复古绘本里的俯瞰大场面。",
+  "desc_en": "Dense red and blue miniature aerial world of towers, harbor and markets in a retro picture-book style.",
+  "creator": "AlexandrIA",
+  "handle": "@AleRVG",
+  "platform": "X",
+  "url": "https://x.com/AleRVG/status/2117005882483466472",
+  "model": "Midjourney",
+  "prompt": "--sref 3295757863 3706874314::0.5 316485254::0.3",
+  "promptSource": "正文",
+  "likes": 162,
+  "postedAt": "2026-11-01",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "旅行城市"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2117005882483466472.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2117005882483466472.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2117005882483466472.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117005882483466472_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117005882483466472_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2117005882483466472_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "watercolor-storybook"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "travel-city"
+   ],
+   "mood": [
+    "lighthearted"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2115431497901445463",
+  "title": "守夜的稻草人",
+  "title_en": "Night Watch Scarecrow",
+  "desc": "鸽子外套的稻草人、手捧花束的科学怪人、祈祷的修女，用粗粝的色块与剪纸感画成怪诞人物组画。",
+  "desc_en": "A set of grotesque figures in cut-paper style: a pigeon-coated scarecrow, Frankenstein with flowers and a praying nun.",
+  "creator": "AlexandrIA",
+  "handle": "@AleRVG",
+  "platform": "X",
+  "url": "https://x.com/AleRVG/status/2115431497901445463",
+  "model": "Midjourney",
+  "prompt": "--sref 1225083362 3174123107::0.7 3291766503::0.5 4069215515::0.3 2179082899",
+  "promptSource": "正文",
+  "likes": 162,
+  "postedAt": "2026-10-28",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "奇幻神话"
+   ],
+   "情绪": [
+    "诡异不安"
+   ],
+   "镜头技法": [
+    "角色一致性"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2115431497901445463.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2115431497901445463.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2115431497901445463.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115431497901445463_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115431497901445463_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2115431497901445463_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "watercolor-storybook"
+   ],
+   "region": [
+    "european"
+   ],
+   "genre": [
+    "fantasy-myth"
+   ],
+   "mood": [
+    "eerie"
+   ],
+   "technique": [
+    "character-consistency"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2102065367438741773",
+  "title": "像一次祈祷",
+  "title_en": "Like a Prayer",
+  "desc": "荆棘头冠、白色雕塑长袍和尖塔般的长裙，在深蓝夜色里组成一组宗教感时装肖像。",
+  "desc_en": "A high-fashion portrait with a thorn crown and sculptural black gown against a deep blue night sky.",
+  "creator": "Sycomore",
+  "handle": "@The_Sycomore",
+  "platform": "X",
+  "url": "https://x.com/The_Sycomore/status/2102065367438741773",
+  "model": "Midjourney",
+  "likes": 152,
+  "postedAt": "2026-09-21",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "广告大片",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "孤独忧郁",
+    "史诗壮阔"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2102065367438741773.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2102065367438741773.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2102065367438741773.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2102065367438741773_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2102065367438741773_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2102065367438741773_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "commercial",
+    "cinematic-realism"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "fashion-beauty"
+   ],
+   "mood": [
+    "melancholy",
+    "epic"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2115583834590994713",
+  "title": "墨色异形花",
+  "title_en": "Ink Alien Flower",
+  "desc": "黑底上缠绕的白色触须和斑点花冠，点缀几处钴蓝球体，像一件当代雕塑摄影。",
+  "desc_en": "White tentacles and spotted corollas on black with cobalt spheres, like a contemporary sculpture photograph.",
+  "creator": "Tatiana Tsiguleva",
+  "handle": "@ciguleva",
+  "platform": "X",
+  "url": "https://x.com/ciguleva/status/2115583834590994713",
+  "likes": 146,
+  "postedAt": "2026-10-28",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "科幻"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2115583834590994713.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2115583834590994713.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2115583834590994713.jpg",
+  "tags_en": {
+   "style": [
+    "surreal-dream"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "sci-fi"
+   ],
+   "mood": [
+    "eerie"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2116968023617933635",
+  "title": "天空立方体",
+  "title_en": "Sky Cube",
+  "desc": "一块巨大的镜面立方体悬在草地上，映着另一片蓝天白云，人物系列把现实切出一个缺口。",
+  "desc_en": "A giant mirror cube floats over grass reflecting a different blue sky, a surreal cut in reality.",
+  "creator": "Lloyd Creates",
+  "handle": "@lloydcreates",
+  "platform": "X",
+  "url": "https://x.com/lloydcreates/status/2116968023617933635",
+  "likes": 144,
+  "postedAt": "2026-11-01",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2116968023617933635.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2116968023617933635.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2116968023617933635.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116968023617933635_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116968023617933635_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116968023617933635_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "surreal-dream"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "nature"
+   ],
+   "mood": [
+    "lighthearted"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2114365732167319979",
+  "title": "生命的碎片II",
+  "title_en": "Fragments of Life II",
+  "desc": "两个人在深蓝的墙边紧紧相拥，镜头近得几乎失焦，质感像胶片抓拍。",
+  "desc_en": "Two people embrace against a deep blue wall in close, nearly out-of-focus candid film look.",
+  "creator": "James Yeung",
+  "handle": "@jamesyeung18",
+  "platform": "X",
+  "url": "https://x.com/jamesyeung18/status/2114365732167319979",
+  "likes": 130,
+  "postedAt": "2026-10-25",
+  "orientation": "landscape",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "纪实手持"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "爱情青春"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2114365732167319979.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2114365732167319979.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2114365732167319979.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2114365732167319979_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2114365732167319979_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2114365732167319979_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "documentary-handheld"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "romance-youth"
+   ],
+   "mood": [
+    "romantic"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2112040371433898198",
+  "title": "光柱与鹿",
+  "title_en": "Light Pillar and Deer",
+  "desc": "暗红暮色的荒原上，一道巨大光柱从天而降，下面站着一头小小的鹿，四联竖幅像连续镜头。",
+  "desc_en": "A four-panel vertical set showing a huge light beam falling on a small deer in a dark red wasteland.",
+  "creator": "Tatiana Tsiguleva",
+  "handle": "@ciguleva",
+  "platform": "X",
+  "url": "https://x.com/ciguleva/status/2112040371433898198",
+  "likes": 126,
+  "postedAt": "2026-10-19",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "超现实梦境",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "自然风光",
+    "奇幻神话"
+   ],
+   "情绪": [
+    "史诗壮阔",
+    "孤独忧郁"
+   ],
+   "镜头技法": [
+    "宫格分镜"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2112040371433898198.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2112040371433898198.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2112040371433898198.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2112040371433898198_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2112040371433898198_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2112040371433898198_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "surreal-dream",
+    "cinematic-realism"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "nature",
+    "fantasy-myth"
+   ],
+   "mood": [
+    "epic",
+    "melancholy"
+   ],
+   "technique": [
+    "storyboard-grid"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2114528811228463340",
+  "title": "青瓷宫廷像",
+  "title_en": "Celadon Court Portrait",
+  "desc": "青瓷色汉服女子端坐于双龙刺绣宫墙前，青花瓷瓶对称立于两侧。低饱和的青、玉、象牙与古铜色调。",
+  "desc_en": "A noblewoman in a celadon hanfu sits before a symmetrical wall embroidered with twin dragons and blue-and-white vases.",
+  "creator": "Zidan 子丹",
+  "handle": "@liluocheng13",
+  "platform": "X",
+  "url": "https://x.com/liluocheng13/status/2114528811228463340",
+  "model": "GPT Image (ChatGPT)",
+  "prompt": "ChatGPT prompt :\nA masterful Chinese imperial portrait of a serene young noblewoman seated at the center of an ancient palace hall, symmetrical frontal composition, full body, eye-level. Delicate East Asian features, cold, melancholic, aristocratic expression. Traditional court hairstyle with rounded side buns. She wears a pale celadon hanfu with wide sleeves, embroidered with oversized white peonies and fine silk texture; hands hidden in the sleeves. Behind her, a symmetrical wall with two facing dragons in dark bronze embroidery, auspicious clouds, and sage-green silk; blue-and-white porcelain vases at both edges. Soft diffused daylight, low-saturation palette of celadon, jade, ivory, and bronze. Photographic realism blended with classical painting. No modern elements, no visible hands, no text, no watermark.\nRatio : 1:1",
+  "promptSource": "正文",
+  "likes": 118,
+  "postedAt": "2026-10-26",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "写实电影感",
+    "国风水墨"
+   ],
+   "地域氛围": [
+    "中式"
+   ],
+   "题材": [
+    "历史年代",
+    "时尚美妆"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2114528811228463340.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2114528811228463340.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2114528811228463340.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism",
+    "chinese-ink"
+   ],
+   "region": [
+    "chinese"
+   ],
+   "genre": [
+    "historical",
+    "fashion-beauty"
+   ],
+   "mood": [
+    "epic"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2117573879417749611",
+  "title": "朝雾采花人",
+  "title_en": "Flower Pickers at Dawn",
+  "desc": "晨雾里的采花人立在大片蓝色花田中，金黄天光与深蓝花影形成温柔的对比。",
+  "desc_en": "Flower gatherers stand in a vast blue field in morning mist, golden sky against deep blue blooms, painterly romantic style.",
+  "creator": "LeikoTar",
+  "handle": "@LeikoTar",
+  "platform": "X",
+  "url": "https://x.com/LeikoTar/status/2117573879417749611",
+  "likes": 115,
+  "postedAt": "2026-11-03",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "水彩绘本"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "自然风光"
+   ],
+   "情绪": [
+    "温暖治愈"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2117573879417749611.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2117573879417749611.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2117573879417749611.jpg",
+  "tags_en": {
+   "style": [
+    "watercolor-storybook"
+   ],
+   "region": [
+    "european"
+   ],
+   "genre": [
+    "nature"
+   ],
+   "mood": [
+    "heartwarming"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2114878575904174305",
+  "title": "月门仙阙",
+  "title_en": "Moon Gate Palace",
+  "desc": "白玉月洞门上坐着素衣仙子，右侧汉白玉天宫楼阁，巨大满月悬在云海之上。瓷白、冰蓝、珍珠银的单色调。",
+  "desc_en": "A fairy in white sits on a white jade moon gate beside a celestial palace under a huge moon above a sea of clouds.",
+  "creator": "Zidan 子丹",
+  "handle": "@liluocheng13",
+  "platform": "X",
+  "url": "https://x.com/liluocheng13/status/2114878575904174305",
+  "model": "GPT Image (ChatGPT)",
+  "prompt": "ChatGPT prompt：An extraordinary masterpiece of Chinese celestial fantasy fine art, breathtaking monumental vertical composition, an enormous circular white jade moon gate dominating the left side, exquisitely carved traditional Chinese floral reliefs, intricate architectural details.\n\nAn extraordinarily beautiful young Chinese celestial maiden sitting gracefully on the lower inner curve of the moon gate, positioned in the lower-left third, delicate melancholic face, elegant black hair in a traditional updo, wearing magnificent flowing ivory-white hanfu, translucent silk sleeves and extraordinarily long trailing ribbons cascading into the clouds, realistic anatomy, elegant natural posture.\n\nMagnificent traditional Chinese heavenly palace pavilions on the right, entirely constructed from luminous white Hanbaiyu marble, elaborate curved roofs, intricate carved railings, exquisite lattice windows.\n\nAn immense luminous full moon floating in a clear pastel-blue sky, colossal towering clouds illuminated by soft golden-white sunlight, endless celestial ocean of clouds, distant reflective heavenly lake with tiny ancient Chinese sailing boats.\n\nDelicate white cherry blossoms framing the composition, sophisticated monochromatic palette of porcelain white, icy blue, pearl silver and subtle champagne highlights.\n\nEpic architectural scale, extraordinary atmospheric depth, ethereal volumetric lighting, delicate subsurface scattering, luminous cloud textures, refined silk embroidery, sophisticated cinematic color grading.\n\nChinese classical painting meets European Old Master painting and contemporary fantasy fine art, Midjourney 8.2-inspired aesthetic, exceptionally rich painterly details, elegant visual hierarchy, breathtaking depth, premium artistic rendering, dreamy yet photorealistic, no CGI appearance, no plastic textures, no text, no watermark.\n\n--ar 9:16 --stylize 500 --chaos 5",
+  "promptSource": "正文",
+  "likes": 108,
+  "postedAt": "2026-10-27",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "国风水墨",
+    "超现实梦境"
+   ],
+   "地域氛围": [
+    "中式"
+   ],
+   "题材": [
+    "奇幻神话",
+    "自然风光"
+   ],
+   "情绪": [
+    "浪漫心动",
+    "史诗壮阔"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2114878575904174305.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2114878575904174305.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2114878575904174305.jpg",
+  "tags_en": {
+   "style": [
+    "chinese-ink",
+    "surreal-dream"
+   ],
+   "region": [
+    "chinese"
+   ],
+   "genre": [
+    "fantasy-myth",
+    "nature"
+   ],
+   "mood": [
+    "romantic",
+    "epic"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2116657127481643026",
+  "title": "暗夜编辑 I",
+  "title_en": "Dark Edit I",
+  "desc": "黑色皮衣、光棒与烛光背景下的一组女性肖像，质感像时装杂志大片。",
+  "desc_en": "Women portraits in black leather with light sticks and candle background, with a fashion magazine feel.",
+  "creator": "Emily",
+  "handle": "@IamEmily2050",
+  "platform": "X",
+  "url": "https://x.com/IamEmily2050/status/2116657127481643026",
+  "model": "Midjourney 8.2 + Lightroom",
+  "likes": 106,
+  "postedAt": "2026-10-31",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "广告大片"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "时尚美妆"
+   ],
+   "情绪": [
+    "孤独忧郁"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2116657127481643026.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2116657127481643026.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2116657127481643026.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116657127481643026_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116657127481643026_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2116657127481643026_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "commercial"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "fashion-beauty"
+   ],
+   "mood": [
+    "melancholy"
+   ]
+  }
+ },
+ {
+  "id": "img-x-2114766788739363198",
+  "title": "废墟里的异形",
+  "title_en": "Alien in the Ruins",
+  "desc": "惨白的骨质巨型生物攀附在高架桥下、教堂外墙、楼梯间，阴天纪实摄影的质感里藏着异物。",
+  "desc_en": "Pale bone-like giant creatures cling to an overpass, a church wall and a stairwell in flat overcast documentary-style photos.",
+  "creator": "goo.vision",
+  "handle": "@goo_vision",
+  "platform": "X",
+  "url": "https://x.com/goo_vision/status/2114766788739363198",
+  "likes": 103,
+  "postedAt": "2026-10-26",
+  "orientation": "portrait",
+  "duration": 0,
+  "tags": {
+   "画风": [
+    "纪实手持",
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "无明显地域"
+   ],
+   "题材": [
+    "恐怖",
+    "科幻"
+   ],
+   "情绪": [
+    "诡异不安"
+   ]
+  },
+  "medium": "image",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/img-x-2114766788739363198.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/img-x-2114766788739363198.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/img-x-2114766788739363198.jpg",
+  "images": [
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2114766788739363198_2.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2114766788739363198_3.jpg",
+   "https://daiyixiang666.github.io/awesome-ai-video-prompts/img/img-x-2114766788739363198_4.jpg"
+  ],
+  "tags_en": {
+   "style": [
+    "documentary-handheld",
+    "cinematic-realism"
+   ],
+   "region": [
+    "no-region"
+   ],
+   "genre": [
+    "horror",
+    "sci-fi"
+   ],
+   "mood": [
+    "eerie"
+   ]
+  }
+ },
+ {
   "id": "img-x-2115055913203855553",
   "title": "园林竖幅长卷",
   "title_en": "Chinese Garden Hanging Scroll",
