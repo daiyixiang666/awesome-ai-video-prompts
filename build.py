@@ -3,7 +3,8 @@
 data/works.json is a list of approved, tagged works exported from 镜鉴. Each work:
   id, title, title_en, desc, desc_en, creator, handle, platform, url, model, prompt, promptSource,
   likes, views, postedAt, orientation, duration, addedAt, tags {画风: [...], 地域氛围: [...], ...}
-Covers live at docs/covers/<id>.jpg (shared by both languages).
+Covers and image-set extras live on Cloudflare R2 (MEDIA/covers/<id>.jpg, MEDIA/img/<file>), with a local mirror in
+../site-media/ that is NOT in git; only the small README thumbnails (docs/thumbs) are committed.
 
 Chinese pages live at the site root, English pages under /en/, with hreflang alternates and a switcher.
 Run: python3 build.py
@@ -15,6 +16,8 @@ DOCS = ROOT / "docs"
 BASE = "https://daiyixiang666.github.io/awesome-ai-video-prompts/"
 REPO = "https://github.com/daiyixiang666/awesome-ai-video-prompts"
 CONTACT = "yixiang@umich.edu"
+MEDIA = "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/"
+LOCAL_MEDIA = ROOT.parent / "site-media"
 DIM_ORDER = ["画风", "地域氛围", "题材", "情绪", "镜头技法", "用途"]
 LANGS = {"zh": "", "en": "en/"}
 
@@ -82,6 +85,10 @@ MED_PAGE = {"video": "index.html", "image": "images.html", "web": "coding.html"}
 MED_NOUN = {"video": "AI video", "image": "AI image", "web": "AI-coded work"}
 
 
+def cover_url(w):
+    return MEDIA + "covers/" + w["id"] + ".jpg"
+
+
 def med(w):
     return w.get("medium") or "video"
 
@@ -146,7 +153,7 @@ def page(lang, path, title_, desc_, body, jsonld=None, cover=None):
     other_href = root + LANGS[other] + path
     alts = "".join(f'<link rel="alternate" hreflang="{T[l]["html_lang"]}" href="{BASE}{LANGS[l]}{path}">' for l in LANGS)
     ld = f'<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>' if jsonld else ""
-    og_img = f'<meta property="og:image" content="{BASE}{cover}">' if cover else ""
+    og_img = f'<meta property="og:image" content="{cover}">' if cover else ""
     mail = f'<a href="mailto:{CONTACT}">{CONTACT}</a>'
     issues = f'<a href="{REPO}/issues">GitHub {"Issues" if lang == "zh" else "issue"}</a>'
     return f"""<!doctype html>
@@ -176,7 +183,7 @@ def card(w, lang, root):
     tags = [lab(v, lang) for d in ["画风", "地域氛围", "题材"] for v in w.get("tags", {}).get(d, [])[:2] if v != "无明显地域"][:4]
     t = title(w, lang)
     return f"""<a class="card" href="{root}{LANGS[lang]}w/{w['id']}.html">
-<figure><img src="{root}covers/{w['id']}.jpg" alt="{e(t)} — {MED_NOUN[med(w)]} by {e(w['creator'])}" loading="lazy">
+<figure><img src="{cover_url(w)}" alt="{e(t)} — {MED_NOUN[med(w)]} by {e(w['creator'])}" loading="lazy">
 <span class="plat">{e(w['platform'])}</span>{f'<span class="nimg">{len(w["images"]) + 1}</span>' if w.get("images") else ''}{f'<span class="hp">{s["has_prompt"]}</span>' if w.get('prompt') else ''}</figure>
 <div class="cb"><h3>{e(t)}</h3><p class="by">{e(w['creator'])}{' · ' + e(w.get('made_with') or w.get('model')) if (w.get('made_with') or w.get('model')) else ''}</p>
 <p class="tg">{' '.join(f'<span>{e(x)}</span>' for x in tags)}</p></div></a>"""
@@ -224,19 +231,19 @@ def build_work(w, lang):
     src = (f" · {s['prompt_from']}{src}" if lang == "zh" else f" · {s['prompt_from']} {SRC_EN.get(src, src)}") if src else ""
     prompt = f'<h2>{s["prompt"]}{e(src)}</h2><pre class="prompt">{e(w["prompt"])}</pre>' if w.get("prompt") else f'<p class="muted">{s["no_prompt"]}</p>'
     if med(w) == "image":
-        imgs = [f"{root}covers/{w['id']}.jpg"] + [f"{root}img/{x}" for x in w.get("images", [])]
+        imgs = [cover_url(w)] + [MEDIA + "img/" + x for x in w.get("images", [])]
         media = '<div class="gal">' + "".join(f'<img src="{x}" alt="{e(t)} — {MED_NOUN["image"]} {k + 1}" loading="lazy">' for k, x in enumerate(imgs)) + "</div>"
-    else: media = (f'<video src="{e(w["video_url"])}" poster="{root}covers/{w["id"]}.jpg" controls playsinline loop muted autoplay preload="metadata"></video>'
-             if w.get("video_url") else f'<img src="{root}covers/{w["id"]}.jpg" alt="{e(t)} — AI video still">')
+    else: media = (f'<video src="{e(w["video_url"])}" poster="{cover_url(w)}" controls playsinline loop muted autoplay preload="metadata"></video>'
+             if w.get("video_url") else f'<img src="{cover_url(w)}" alt="{e(t)} — AI video still">')
     body = f"""<article class="work"><figure class="hero-img">{media}</figure>
 <div class="info"><h1>{e(t)}</h1><p>{e(dsc)}</p>
 <p class="btns"><a class="btn" href="{e(w['url'])}" rel="nofollow noopener">{s['watch']} {e(w['platform'])} ↗</a>{f'<a class="btn" href="{e(w["live_url"])}" rel="nofollow noopener">{s["live"]} ↗</a>' if w.get("live_url") else ''}{f'<a class="btn" href="{e(w["repo_url"])}" rel="nofollow noopener">{s["repo"]} ↗</a>' if w.get("repo_url") else ''}</p>
 <table class="kv">{''.join(f'<tr><th>{k}</th><td>{v}</td></tr>' for k, v in rows)}{tagrows}</table>{prompt}</div></article>"""
     tags_flat = [lab(v, lang) for d in DIM_ORDER for v in w.get("tags", {}).get(d, [])]
     ld = {"@context": "https://schema.org", "@type": "VideoObject" if w.get("video_url") else "CreativeWork", "name": t, "description": dsc or t, "inLanguage": s["html_lang"],
-          "contentUrl": w.get("video_url"), "thumbnailUrl": f"{BASE}covers/{w['id']}.jpg" if w.get("video_url") else None,
+          "contentUrl": w.get("video_url"), "thumbnailUrl": cover_url(w) if w.get("video_url") else None,
           "uploadDate": w.get("postedAt") if w.get("video_url") else None, "duration": f"PT{round(w['duration'])}S" if w.get("duration") else None,
-          "url": f"{BASE}{LANGS[lang]}w/{w['id']}.html", "sameAs": w["url"], "image": f"{BASE}covers/{w['id']}.jpg",
+          "url": f"{BASE}{LANGS[lang]}w/{w['id']}.html", "sameAs": w["url"], "image": cover_url(w),
           "dateCreated": w.get("postedAt"), "author": {"@type": "Person", "name": w["creator"], "url": w["url"]},
           "keywords": ", ".join(tags_flat + [x for x in [w.get("model"), w.get("made_with")] + w.get("stack", []) if x]), "genre": tags_flat, "isAccessibleForFree": True}
     if w.get("prompt"): ld["text"] = w["prompt"]
@@ -246,7 +253,7 @@ def build_work(w, lang):
     if med(w) != "video": ttl = ttl.replace("AI 视频", "AI 图片" if med(w) == "image" else "AI Coding").replace("AI video", MED_NOUN[med(w)])
     sep = "、" if lang == "zh" else ", "
     d_ = f"{dsc} {s['tags_word']}: {sep.join(tags_flat[:6])}."
-    return page(lang, f"w/{w['id']}.html", ttl, d_, body, ld, cover=f"covers/{w['id']}.jpg")
+    return page(lang, f"w/{w['id']}.html", ttl, d_, body, ld, cover=cover_url(w))
 
 
 def build_tag(d, v, ws, lang):
@@ -299,9 +306,9 @@ def public_record(w):
             "prompt", "promptSource", "likes", "postedAt", "orientation", "duration", "video_url", "tags",
             "medium", "made_with", "stack", "live_url", "repo_url"]
     r = {k: w[k] for k in keep if w.get(k) not in (None, "", [], {})}
-    r["page_zh"] = f"{BASE}w/{w['id']}.html"; r["page_en"] = f"{BASE}en/w/{w['id']}.html"; r["cover"] = f"{BASE}covers/{w['id']}.jpg"
+    r["page_zh"] = f"{BASE}w/{w['id']}.html"; r["page_en"] = f"{BASE}en/w/{w['id']}.html"; r["cover"] = cover_url(w)
     r["medium"] = med(w)
-    if w.get("images"): r["images"] = [f"{BASE}img/{x}" for x in w["images"]]
+    if w.get("images"): r["images"] = [MEDIA + "img/" + x for x in w["images"]]
     r["tags_en"] = {dim_en(d)[0]: [val_en(v)[0] for v in vs] for d, vs in w.get("tags", {}).items() if d in tax_en["dims"]}
     return r
 
@@ -329,7 +336,7 @@ def thumb(w):
     if not dst.exists():
         from PIL import Image, ImageOps
         dst.parent.mkdir(exist_ok=True)
-        ImageOps.fit(Image.open(DOCS / "covers" / f"{w['id']}.jpg").convert("RGB"), (360, 360), Image.LANCZOS).save(dst, quality=82, optimize=True)
+        ImageOps.fit(Image.open(LOCAL_MEDIA / "covers" / f"{w['id']}.jpg").convert("RGB"), (360, 360), Image.LANCZOS).save(dst, quality=82, optimize=True)
     return f"docs/thumbs/{w['id']}.jpg"
 
 
