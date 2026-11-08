@@ -1,5 +1,392 @@
 [
  {
+  "id": "x-2117456171053596757",
+  "title": "一笔成兽",
+  "title_en": "Brushstrokes Become Beasts",
+  "desc": "面具武者以巨笔在极简白色空间挥墨，墨迹化为猛虎与游龙，黑白水墨与流体物理融合。",
+  "desc_en": "A masked warrior swings a giant calligraphy brush in a white void, and the ink turns into a tiger and a dragon, fusing ink-wash art with fluid physics.",
+  "creator": "Ayesha",
+  "handle": "@AyeshaEvie",
+  "platform": "X",
+  "url": "https://x.com/AyeshaEvie/status/2117456171053596757",
+  "model": "Seedance 2.5",
+  "prompt": "Cinematic 3D animation, action scene. A warrior wearing a traditional Japanese Hannya demon mask and white long hair, dressed in black flowing robes, wields a giant calligraphy brush like a staff inside a minimalist white minimalist studio. The warrior performs fluid, acrobatic martial arts movements, painting sweeping, dynamic splashes of black ink in the air that instantly materialize into living, roaring creatures: first a fierce black ink tiger, followed by majestic Chinese dragons swirling around the space. High-contrast monochrome aesthetic, sumi-e brushstroke effects blending with realistic fluid physics, dramatic cinematic lighting, 4k resolution, masterpiece.",
+  "promptSource": "正文",
+  "likes": 625,
+  "postedAt": "2026-11-03",
+  "orientation": "landscape",
+  "duration": 16.2,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2117456171053596757.mp4",
+  "tags": {
+   "画风": [
+    "国风水墨"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "武侠打斗",
+    "奇幻神话"
+   ],
+   "情绪": [
+    "热血燃"
+   ],
+   "镜头技法": [
+    "变身转场"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2117456171053596757.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2117456171053596757.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2117456171053596757.jpg",
+  "tags_en": {
+   "style": [
+    "chinese-ink"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "martial-arts-action",
+    "fantasy-myth"
+   ],
+   "mood": [
+    "hype"
+   ],
+   "technique": [
+    "transformation-transition"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
+  "id": "x-2117418058428072060",
+  "title": "烛光餐桌",
+  "title_en": "Candlelit Dinner Table",
+  "desc": "摄政时代风格的烛光餐桌对话，近景表演与字幕对白，人物微表情自然。",
+  "desc_en": "A Regency-era candlelit dinner conversation with close-up acting, subtitled dialogue and natural micro-expressions.",
+  "creator": "Mark Gadala-Maria",
+  "handle": "@markgadala",
+  "platform": "X",
+  "url": "https://x.com/markgadala/status/2117418058428072060",
+  "likes": 483,
+  "postedAt": "2026-11-03",
+  "orientation": "landscape",
+  "duration": 57.4,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2117418058428072060.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "历史年代",
+    "爱情青春"
+   ],
+   "情绪": [
+    "浪漫心动"
+   ],
+   "镜头技法": [
+    "对白口型",
+    "微表情特写"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2117418058428072060.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2117418058428072060.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2117418058428072060.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "european"
+   ],
+   "genre": [
+    "historical",
+    "romance-youth"
+   ],
+   "mood": [
+    "romantic"
+   ],
+   "technique": [
+    "dialogue-lipsync",
+    "micro-expression"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
+  "id": "x-2113244959990329635",
+  "title": "首尔女孩的一天",
+  "title_en": "A Day of a Seoul Girl",
+  "desc": "从起床、护肤到街头咖啡的分镜式一日 vlog，K-fashion 编辑风格，镜头焦段与音效标注细致。",
+  "desc_en": "A storyboard-style day-in-the-life vlog from waking up and skincare to a street café, shot in a K-fashion editorial look with detailed lens and sound cues.",
+  "creator": "Smiling Khan",
+  "handle": "@AIwithkhan",
+  "platform": "X",
+  "url": "https://x.com/AIwithkhan/status/2113244959990329635",
+  "model": "Seedance 2.5",
+  "likes": 441,
+  "postedAt": "2026-10-22",
+  "orientation": "landscape",
+  "duration": 30.05,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2113244959990329635.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "韩系"
+   ],
+   "题材": [
+    "日常生活",
+    "时尚美妆"
+   ],
+   "情绪": [
+    "轻松欢快"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "vlog"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2113244959990329635.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2113244959990329635.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2113244959990329635.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "korean"
+   ],
+   "genre": [
+    "daily-life",
+    "fashion-beauty"
+   ],
+   "mood": [
+    "lighthearted"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "vlog"
+   ]
+  }
+ },
+ {
+  "id": "x-2110755315834827162",
+  "title": "狼骑军团",
+  "title_en": "Wolf Rider Legion",
+  "desc": "北欧战士骑着巨狼率军列阵于荒野，镜头在远景与特写间推进，氛围肃杀。",
+  "desc_en": "Norse warriors ride giant wolves and array their army on the wilds, the camera pushing between wide shots and close-ups in a grim mood.",
+  "creator": "ZOYA ✪",
+  "handle": "@HeyZoyaKhan",
+  "platform": "X",
+  "url": "https://x.com/HeyZoyaKhan/status/2110755315834827162",
+  "model": "Kling 4.0",
+  "likes": 348,
+  "postedAt": "2026-10-15",
+  "orientation": "landscape",
+  "duration": 30.1,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2110755315834827162.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "欧洲"
+   ],
+   "题材": [
+    "奇幻神话",
+    "历史年代"
+   ],
+   "情绪": [
+    "史诗壮阔"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "预告片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2110755315834827162.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2110755315834827162.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2110755315834827162.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "european"
+   ],
+   "genre": [
+    "fantasy-myth",
+    "historical"
+   ],
+   "mood": [
+    "epic"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "trailer"
+   ]
+  }
+ },
+ {
+  "id": "x-2117543102072447040",
+  "title": "神明游乐园",
+  "title_en": "Amusement Park of the Gods",
+  "desc": "游乐园里一队骷髅武士大军压境，赛车、烈焰与巨型骷髅机甲接连登场，一人持刀迎战。",
+  "desc_en": "A skeleton samurai army storms an amusement park as race cars, flames and a giant skeletal mech appear in turn, while one swordsman stands to fight.",
+  "creator": "とすくん",
+  "handle": "@tokyo_Valentine",
+  "platform": "X",
+  "url": "https://x.com/tokyo_Valentine/status/2117543102072447040",
+  "model": "Seedance 2.5",
+  "likes": 323,
+  "postedAt": "2026-11-03",
+  "orientation": "landscape",
+  "duration": 30.1,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2117543102072447040.mp4",
+  "tags": {
+   "画风": [
+    "游戏CG"
+   ],
+   "地域氛围": [
+    "日系"
+   ],
+   "题材": [
+    "奇幻神话",
+    "科幻"
+   ],
+   "情绪": [
+    "热血燃",
+    "史诗壮阔"
+   ],
+   "镜头技法": [
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2117543102072447040.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2117543102072447040.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2117543102072447040.jpg",
+  "tags_en": {
+   "style": [
+    "game-cg"
+   ],
+   "region": [
+    "japanese"
+   ],
+   "genre": [
+    "fantasy-myth",
+    "sci-fi"
+   ],
+   "mood": [
+    "hype",
+    "epic"
+   ],
+   "technique": [
+    "multi-shot"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
+  "id": "x-2112838254752145456",
+  "title": "玉不惧剑",
+  "title_en": "Jade Fears No Sword",
+  "desc": "白雾石窟中黑衣女子与巨型异兽缠斗，低机位与慢动作衔接，冷灰调电影感。",
+  "desc_en": "A woman in black battles a giant beast in a misty stone grotto, linking low angles and slow motion in a cold grey cinematic palette.",
+  "creator": "TechHalla",
+  "handle": "@techhalla",
+  "platform": "X",
+  "url": "https://x.com/techhalla/status/2112838254752145456",
+  "model": "Seedance 2.5 + Midjourney",
+  "likes": 121,
+  "postedAt": "2026-10-21",
+  "orientation": "landscape",
+  "duration": 30.0,
+  "video_url": "https://pub-d91909c40e15473d95667d24ef916274.r2.dev/videos/x-2112838254752145456.mp4",
+  "tags": {
+   "画风": [
+    "写实电影感"
+   ],
+   "地域氛围": [
+    "中式"
+   ],
+   "题材": [
+    "奇幻神话",
+    "武侠打斗"
+   ],
+   "情绪": [
+    "史诗壮阔",
+    "紧张刺激"
+   ],
+   "镜头技法": [
+    "慢动作",
+    "多镜头剪辑"
+   ],
+   "用途": [
+    "叙事短片"
+   ]
+  },
+  "medium": "video",
+  "page_zh": "https://daiyixiang666.github.io/awesome-ai-video-prompts/w/x-2112838254752145456.html",
+  "page_en": "https://daiyixiang666.github.io/awesome-ai-video-prompts/en/w/x-2112838254752145456.html",
+  "cover": "https://daiyixiang666.github.io/awesome-ai-video-prompts/covers/x-2112838254752145456.jpg",
+  "tags_en": {
+   "style": [
+    "cinematic-realism"
+   ],
+   "region": [
+    "chinese"
+   ],
+   "genre": [
+    "fantasy-myth",
+    "martial-arts-action"
+   ],
+   "mood": [
+    "epic",
+    "tense"
+   ],
+   "technique": [
+    "slow-motion",
+    "multi-shot"
+   ],
+   "use": [
+    "short-film"
+   ]
+  }
+ },
+ {
   "id": "img-x-2117206100873232801",
   "title": "地铁里的人",
   "title_en": "Subway Riders",
